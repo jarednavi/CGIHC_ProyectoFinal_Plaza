@@ -1,0 +1,14 @@
+# Blender 4.1.0 MTL File: 'PLAZA1.blend'
+# www.blender.org
+
+newmtl base_material.066
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 49b2be2fc251_realistic_kid_girl__texture_kd.jpg
+map_Ns 49b2be2fc251_realistic_kid_girl__roughness.jpg
+map_refl 49b2be2fc251_realistic_kid_girl__metallic.jpg
+map_Bump -bm 1.000000 49b2be2fc251_realistic_kid_girl__normals.jpg

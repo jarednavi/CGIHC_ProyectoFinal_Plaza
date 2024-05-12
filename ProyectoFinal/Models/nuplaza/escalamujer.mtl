@@ -1,0 +1,14 @@
+# Blender 4.1.0 MTL File: 'PLAZA1.blend'
+# www.blender.org
+
+newmtl base_material.004
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 2016b83be9d1_realistic_woman_wal_texture_kd.jpg
+map_Ns 2016b83be9d1_realistic_woman_wal_roughness.jpg
+map_refl 2016b83be9d1_realistic_woman_wal_metallic.jpg
+map_Bump -bm 1.000000 2016b83be9d1_realistic_woman_wal_normals.jpg

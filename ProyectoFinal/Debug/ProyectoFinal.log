@@ -1,0 +1,14 @@
+﻿  PROYECTOFINAL_EQUIPO7.cpp
+C:\Users\Jared\Documents\GitHub\CGIHC_ProyectoFinal_Plaza\ProyectoFinal\modelAnim.h(104,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Jared\Documents\GitHub\CGIHC_ProyectoFinal_Plaza\ProyectoFinal\modelAnim.h(519,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Jared\Documents\GitHub\CGIHC_ProyectoFinal_Plaza\ProyectoFinal\PROYECTOFINAL_EQUIPO7.cpp(382,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Jared\Documents\GitHub\CGIHC_ProyectoFinal_Plaza\ProyectoFinal\PROYECTOFINAL_EQUIPO7.cpp(713,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Jared\Documents\GitHub\CGIHC_ProyectoFinal_Plaza\ProyectoFinal\PROYECTOFINAL_EQUIPO7.cpp(714,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Jared\Documents\GitHub\CGIHC_ProyectoFinal_Plaza\ProyectoFinal\PROYECTOFINAL_EQUIPO7.cpp(717,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Jared\Documents\GitHub\CGIHC_ProyectoFinal_Plaza\ProyectoFinal\PROYECTOFINAL_EQUIPO7.cpp(718,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Jared\Documents\GitHub\CGIHC_ProyectoFinal_Plaza\ProyectoFinal\PROYECTOFINAL_EQUIPO7.cpp(719,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Jared\Documents\GitHub\CGIHC_ProyectoFinal_Plaza\ProyectoFinal\PROYECTOFINAL_EQUIPO7.cpp(720,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: no se encontró PDB '' con 'soil2-debug.lib(image_DXT.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_helper.obj) : warning LNK4099: no se encontró PDB '' con 'soil2-debug.lib(image_helper.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: no se encontró PDB '' con 'soil2-debug.lib(SOIL2.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+  ProyectoFinal.vcxproj -> C:\Users\Jared\Documents\GitHub\CGIHC_ProyectoFinal_Plaza\Debug\ProyectoFinal.exe

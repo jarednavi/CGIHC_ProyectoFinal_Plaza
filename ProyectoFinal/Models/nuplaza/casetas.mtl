@@ -1,0 +1,26 @@
+# Blender 4.1.0 MTL File: 'PLAZA1.blend'
+# www.blender.org
+
+newmtl base_material.013
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 80b160322b44_parking_booth_with__texture_kd.jpg
+map_Ns 80b160322b44_parking_booth_with__roughness.jpg
+map_refl 80b160322b44_parking_booth_with__metallic.jpg
+map_Bump -bm 1.000000 80b160322b44_parking_booth_with__normals.jpg
+
+newmtl base_material.017
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 80b160322b44_parking_booth_with__texture_kd.jpg
+map_Ns 80b160322b44_parking_booth_with__roughness.jpg
+map_refl 80b160322b44_parking_booth_with__metallic.jpg
+map_Bump -bm 1.000000 80b160322b44_parking_booth_with__normals.jpg

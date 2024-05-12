@@ -1,0 +1,50 @@
+# Blender 4.1.0 MTL File: 'PLAZA1.blend'
+# www.blender.org
+
+newmtl base_material.047
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 607d9cd125d7_una_banca_para_sent_texture_kd.jpg
+map_Ns 607d9cd125d7_una_banca_para_sent_roughness.jpg
+map_refl 607d9cd125d7_una_banca_para_sent_metallic.jpg
+map_Bump -bm 1.000000 607d9cd125d7_una_banca_para_sent_normals.jpg
+
+newmtl base_material.048
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 607d9cd125d7_una_banca_para_sent_texture_kd.jpg
+map_Ns 607d9cd125d7_una_banca_para_sent_roughness.jpg
+map_refl 607d9cd125d7_una_banca_para_sent_metallic.jpg
+map_Bump -bm 1.000000 607d9cd125d7_una_banca_para_sent_normals.jpg
+
+newmtl base_material.049
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 607d9cd125d7_una_banca_para_sent_texture_kd.jpg
+map_Ns 607d9cd125d7_una_banca_para_sent_roughness.jpg
+map_refl 607d9cd125d7_una_banca_para_sent_metallic.jpg
+map_Bump -bm 1.000000 607d9cd125d7_una_banca_para_sent_normals.jpg
+
+newmtl base_material.050
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 607d9cd125d7_una_banca_para_sent_texture_kd.jpg
+map_Ns 607d9cd125d7_una_banca_para_sent_roughness.jpg
+map_refl 607d9cd125d7_una_banca_para_sent_metallic.jpg
+map_Bump -bm 1.000000 607d9cd125d7_una_banca_para_sent_normals.jpg

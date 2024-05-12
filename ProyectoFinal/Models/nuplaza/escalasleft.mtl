@@ -1,0 +1,74 @@
+# Blender 4.1.0 MTL File: 'PLAZA1.blend'
+# www.blender.org
+
+newmtl base_material.029
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 2016b83be9d1_realistic_woman_wal_texture_kd.jpg
+map_Ns 2016b83be9d1_realistic_woman_wal_roughness.jpg
+map_refl 2016b83be9d1_realistic_woman_wal_metallic.jpg
+map_Bump -bm 1.000000 2016b83be9d1_realistic_woman_wal_normals.jpg
+
+newmtl base_material.030
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 2016b83be9d1_realistic_woman_wal_texture_kd.jpg
+map_Ns 2016b83be9d1_realistic_woman_wal_roughness.jpg
+map_refl 2016b83be9d1_realistic_woman_wal_metallic.jpg
+map_Bump -bm 1.000000 2016b83be9d1_realistic_woman_wal_normals.jpg
+
+newmtl base_material.032
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 2016b83be9d1_realistic_woman_wal_texture_kd.jpg
+map_Ns 2016b83be9d1_realistic_woman_wal_roughness.jpg
+map_refl 2016b83be9d1_realistic_woman_wal_metallic.jpg
+map_Bump -bm 1.000000 2016b83be9d1_realistic_woman_wal_normals.jpg
+
+newmtl base_material.033
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 2016b83be9d1_realistic_woman_wal_texture_kd.jpg
+map_Ns 2016b83be9d1_realistic_woman_wal_roughness.jpg
+map_refl 2016b83be9d1_realistic_woman_wal_metallic.jpg
+map_Bump -bm 1.000000 2016b83be9d1_realistic_woman_wal_normals.jpg
+
+newmtl base_material.034
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 1ebe7d1faa4e_realistic_man_walki_texture_kd.jpg
+map_Ns 1ebe7d1faa4e_realistic_man_walki_roughness.jpg
+map_refl 1ebe7d1faa4e_realistic_man_walki_metallic.jpg
+map_Bump -bm 1.000000 1ebe7d1faa4e_realistic_man_walki_normals.jpg
+
+newmtl base_material.035
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 1ebe7d1faa4e_realistic_man_walki_texture_kd.jpg
+map_Ns 1ebe7d1faa4e_realistic_man_walki_roughness.jpg
+map_refl 1ebe7d1faa4e_realistic_man_walki_metallic.jpg
+map_Bump -bm 1.000000 1ebe7d1faa4e_realistic_man_walki_normals.jpg

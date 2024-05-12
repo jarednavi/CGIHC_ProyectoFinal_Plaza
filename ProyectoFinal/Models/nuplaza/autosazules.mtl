@@ -1,0 +1,50 @@
+# Blender 4.1.0 MTL File: 'PLAZA1.blend'
+# www.blender.org
+
+newmtl base_material.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 549a2571dd48_blue_car__3d_asset__texture_kd.jpg
+map_Ns 549a2571dd48_blue_car__3d_asset__roughness.jpg
+map_refl 549a2571dd48_blue_car__3d_asset__metallic.jpg
+map_Bump -bm 1.000000 549a2571dd48_blue_car__3d_asset__normals.jpg
+
+newmtl base_material.007
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 549a2571dd48_blue_car__3d_asset__texture_kd.jpg
+map_Ns 549a2571dd48_blue_car__3d_asset__roughness.jpg
+map_refl 549a2571dd48_blue_car__3d_asset__metallic.jpg
+map_Bump -bm 1.000000 549a2571dd48_blue_car__3d_asset__normals.jpg
+
+newmtl base_material.010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 549a2571dd48_blue_car__3d_asset__texture_kd.jpg
+map_Ns 549a2571dd48_blue_car__3d_asset__roughness.jpg
+map_refl 549a2571dd48_blue_car__3d_asset__metallic.jpg
+map_Bump -bm 1.000000 549a2571dd48_blue_car__3d_asset__normals.jpg
+
+newmtl base_material.015
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 549a2571dd48_blue_car__3d_asset__texture_kd.jpg
+map_Ns 549a2571dd48_blue_car__3d_asset__roughness.jpg
+map_refl 549a2571dd48_blue_car__3d_asset__metallic.jpg
+map_Bump -bm 1.000000 549a2571dd48_blue_car__3d_asset__normals.jpg

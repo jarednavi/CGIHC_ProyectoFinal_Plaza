@@ -1,0 +1,38 @@
+# Blender 4.1.0 MTL File: 'PLAZA1.blend'
+# www.blender.org
+
+newmtl base_material.003
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 7e23a7abb5af_yellow_van__3d_asse_texture_kd.jpg
+map_Ns 7e23a7abb5af_yellow_van__3d_asse_roughness.jpg
+map_refl 7e23a7abb5af_yellow_van__3d_asse_metallic.jpg
+map_Bump -bm 1.000000 7e23a7abb5af_yellow_van__3d_asse_normals.jpg
+
+newmtl base_material.009
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 7e23a7abb5af_yellow_van__3d_asse_texture_kd.jpg
+map_Ns 7e23a7abb5af_yellow_van__3d_asse_roughness.jpg
+map_refl 7e23a7abb5af_yellow_van__3d_asse_metallic.jpg
+map_Bump -bm 1.000000 7e23a7abb5af_yellow_van__3d_asse_normals.jpg
+
+newmtl base_material.012
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 7e23a7abb5af_yellow_van__3d_asse_texture_kd.jpg
+map_Ns 7e23a7abb5af_yellow_van__3d_asse_roughness.jpg
+map_refl 7e23a7abb5af_yellow_van__3d_asse_metallic.jpg
+map_Bump -bm 1.000000 7e23a7abb5af_yellow_van__3d_asse_normals.jpg

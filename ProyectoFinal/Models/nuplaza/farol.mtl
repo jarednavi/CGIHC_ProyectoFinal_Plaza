@@ -1,0 +1,14 @@
+# Blender 4.1.0 MTL File: 'PLAZA1.blend'
+# www.blender.org
+
+newmtl base_material.052
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd d7e6b3725ddb_poste_de_luz__3d_as_texture_kd.jpg
+map_Ns d7e6b3725ddb_poste_de_luz__3d_as_roughness.jpg
+map_refl d7e6b3725ddb_poste_de_luz__3d_as_metallic.jpg
+map_Bump -bm 1.000000 d7e6b3725ddb_poste_de_luz__3d_as_normals.jpg

@@ -1,0 +1,2 @@
+﻿  MainPrueba.cpp
+C:\Users\Jared\Documents\GitHub\311133408_GPO7_PROYECTOFINAL2024-2\ProyectoFinal\MainPrueba.cpp(5,10): fatal  error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
