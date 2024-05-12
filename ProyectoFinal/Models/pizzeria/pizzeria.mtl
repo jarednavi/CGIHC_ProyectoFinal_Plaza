@@ -1,0 +1,262 @@
+newmtl Casa:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Casa:initialShadingGroup2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Casa:initialShadingGroup5
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Casa:initialShadingGroup7
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Casa:initialShadingGroup9
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Casa:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal4.png
+Ni 1.00
+newmtl Casa:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd fachada1.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Opaco.png
+Ns 18.00
+newmtl Casa:phong1SG2
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Casa:phong1SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Nuk.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Medio.png
+Ns 18.00
+newmtl Casa:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd blanco.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Opaco.png
+Ns 18.00
+newmtl Casa:phong2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd rojo2.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Medio.png
+Ns 18.00
+newmtl Casa:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal3.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Medio.png
+Ns 18.00
+newmtl Casa:phong3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Sillaymesa.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Opaco.png
+Ns 18.00
+newmtl Casa:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd fachada2.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Opaco.png
+Ns 18.00
+newmtl Casa:phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd fachadatecho.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Opaco.png
+Ns 18.00
+newmtl Casa:phong7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Cafe.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Medio.png
+Ns 18.00
+newmtl Casa:phong9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd piso2.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Opaco.png
+Ns 18.00
+newmtl Casa:phong12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd adoquin.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Opaco.png
+Ns 18.00
+newmtl Casa:phong14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Logo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Medio.png
+Ns 18.00
+newmtl Casa:phong15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal2.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Brilloso.png
+Ns 18.00
+newmtl Casa:phong16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mostrador_madera1.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Opaco.png
+Ns 18.00
+newmtl Casa:phong17SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mostrador_madera2.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Opaco.png
+Ns 18.00
+newmtl Casa:phong21SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mostrador_mesa.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Brilloso.png
+Ns 18.00
+newmtl Casa:phong26SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Blanco2.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Opaco.png
+Ns 18.00
+newmtl Casa:phong27SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Refri.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Brilloso.png
+Ns 18.00
+newmtl Casa:phong31SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal1.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Brilloso.png
+Ns 18.00
+newmtl Casa:phong32SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Sillaymesa2.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Medio.png
+Ns 18.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl plantilla:Material_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd asfaltobrillo_text.png
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 250.00

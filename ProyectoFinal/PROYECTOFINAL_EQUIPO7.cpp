@@ -192,13 +192,13 @@ int main(){
 
 
 
-	//----------------------------------------------------------------CAFETERIA
-
+	//----------------------------------------------------------------PIZZERIA
+	Model pizzeria((char*)"Models/pizzeria/pizzeria.obj");
 
 
 
 	//---------------------------------------------------------------------NIKE
-
+	Model nike((char*)"Models/fachadafinal/fachada.obj");
 
 
 
@@ -578,13 +578,22 @@ int main(){
 
 
 
-		//----------------------------------------------------------------CAFETERIA
-
+		//----------------------------------------------------------------PIZZERIA
+		model = glm::mat4(1);
+		model = glm::translate(glm::mat4(1.0), glm::vec3(0.0f, 0.0f, 1.0f));
+		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTrasparencia"), 0);
+		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		pizzeria.Draw(lightingShader);
 
 
 
 		//---------------------------------------------------------------------NIKE
-
+		model = glm::mat4(1);
+		model = glm::translate(glm::mat4(1.0), glm::vec3(33.3f, 4.347, -12.0f));
+		model = glm::scale(model, glm::vec3(0.15f, 0.15f, 0.15f));
+		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTrasparencia"), 0);
+		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		nike.Draw(lightingShader);
 
 
 
