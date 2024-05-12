@@ -146,13 +146,13 @@ int main(){
 	Model Antenaoriginal((char*)"Models/nufinal/antenaor.obj");
 	Model Antenasfuera((char*)"Models/nufinal/antenasout.obj");
 	Model Antenaarriba((char*)"Models/nufinal/antenaup.obj");
-	Model Arcoizquierdo((char*)"Models/nufinal/arcoleft.obj");
-	Model Arcoderecho((char*)"Models/nufinal/arcoright.obj");
+	Model Casamando((char*)"Models/nufinal/casadin.obj");
+	//Model Arcoderecho((char*)"Models/nufinal/arcoright.obj");
 	Model Barrildentro((char*)"Models/nufinal/barrilin.obj");
 	Model Barrilfuera((char*)"Models/nufinal/barrilout.obj");
 	Model Cascosfuera((char*)"Models/nufinal/cascos.obj");
-	Model Columnasizquierda((char*)"Models/nufinal/columnasleft.obj");
-	Model Columnasderecha((char*)"Models/nufinal/columnasright.obj");
+	//Model Columnasizquierda((char*)"Models/nufinal/columnasleft.obj");
+	//Model Columnasderecha((char*)"Models/nufinal/columnasright.obj");
 	Model Domoarriba((char*)"Models/nufinal/domo.obj");
 	Model Estantefuera((char*)"Models/nufinal/estante.obj");
 	Model Lamparadentro((char*)"Models/nufinal/lamparain.obj");
@@ -161,10 +161,10 @@ int main(){
 	Model Losaarriba((char*)"Models/nufinal/losa.obj");
 	Model Mesadentro((char*)"Models/nufinal/mesa.obj");
 	Model Muroatras((char*)"Models/nufinal/muroback.obj");
-	Model Murofrenteizquierdo((char*)"Models/nufinal/murofrontleft.obj");
-	Model Murofrentederecho((char*)"Models/nufinal/murofrontright.obj");
-	Model Muroizquierdo((char*)"Models/nufinal/muroleft.obj");
-	Model Muroderecho((char*)"Models/nufinal/muroright.obj");
+	//Model Murofrenteizquierdo((char*)"Models/nufinal/murofrontleft.obj");
+	//Model Murofrentederecho((char*)"Models/nufinal/murofrontright.obj");
+	//Model Muroizquierdo((char*)"Models/nufinal/muroleft.obj");
+	//Model Muroderecho((char*)"Models/nufinal/muroright.obj");
 	Model Naverazor((char*)"Models/nufinal/nave.obj");
 	Model Panelpuertafrente((char*)"Models/nufinal/panelpuerta.obj");
 	Model Panelverdeatras((char*)"Models/nufinal/panelverde.obj");
@@ -507,13 +507,13 @@ int main(){
 		Rampaparking.Draw(lightingShader);
 
 	    //----------------------------------------------------------------STAR WARS
-		/*glm::mat4 model(1);
-		view = camera.GetViewMatrix();
-		model = glm::mat4(1);
-		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTrasparencia"), 0);
-		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
-		Piso.Draw(lightingShader);
-		model = glm::mat4(1);
+		//glm::mat4 model(1);
+		//view = camera.GetViewMatrix();
+		//model = glm::mat4(1);
+		//glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTrasparencia"), 0);
+		//glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		Casamando.Draw(lightingShader);
+		/*model = glm::mat4(1);
 		Antenaoriginal.Draw(lightingShader);
 		Antenasfuera.Draw(lightingShader);
 		Antenaarriba.Draw(lightingShader);
