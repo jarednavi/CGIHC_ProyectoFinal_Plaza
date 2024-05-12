@@ -200,6 +200,7 @@ int main(){
 
 	//---------------------------------------------------------------------NIKE
 	Model nike((char*)"Models/fachadafinal/fachada.obj");
+	Model maniquie((char*)"Models/maniquie/maniquie.obj");
 
 
 
@@ -595,6 +596,15 @@ int main(){
 		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTrasparencia"), 0);
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		nike.Draw(lightingShader);
+
+		model = glm::mat4(1);
+		model = glm::translate(glm::mat4(1.0), glm::vec3(32.9f, 5.1f, -12.0f));
+		model = glm::scale(model, glm::vec3(0.15f, 0.15f, 0.15f));
+		model = glm::rotate(model, 23 * glm::radians((float)glfwGetTime()), glm::vec3(0.0f, 1.0f, 0.0f));
+		glUniformMatrix4fv(glGetUniformLocation(lightingShader.Program, "model"), 1, GL_FALSE, glm::value_ptr(model));
+		maniquie.Draw(lightingShader);
+
+
 
 
 
