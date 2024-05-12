@@ -192,6 +192,7 @@ int main(){
 
 
 
+
 	//----------------------------------------------------------------PIZZERIA
 	Model pizzeria((char*)"Models/pizzeria/pizzeria.obj");
 
@@ -204,7 +205,7 @@ int main(){
 
 	//--------------------------------------------------------------------BAÑOS
 
-
+	Model Baños((char*)"Models/Baños/baños.obj");
 
 
 
