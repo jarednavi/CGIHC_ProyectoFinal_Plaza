@@ -757,8 +757,9 @@ int main(){
 		//Carga de modelo fachada
 		view = camera.GetViewMatrix();
 		model = glm::mat4(1);
-		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		model = glm::translate(model, glm::vec3(0.0f, 1.5f,1.5f));
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		
 		Fachada.Draw(lightingShader);
 
 		PlantaUno.Draw(lightingShader);
@@ -805,7 +806,7 @@ int main(){
 		//PASTEL VITRINA
 		PlatoPastel.Draw(lightingShader);
 		Pastel_RebanadaUno.Draw(lightingShader);
-		Pastel_RebanadaDos.Draw(lightingShader);
+		//Pastel_RebanadaDos.Draw(lightingShader);
 		/*Pastel_RebanadaTres.Draw(lightingShader);
 		Pastel_RebanadaCuatro.Draw(lightingShader);
 		Pastel_RebanadaCinco.Draw(lightingShader);
@@ -819,12 +820,12 @@ int main(){
 		Croissant1.Draw(lightingShader);
 		Croissant2.Draw(lightingShader);
 		Croissant3.Draw(lightingShader);
-		Croissant4.Draw(lightingShader);
+		/*Croissant4.Draw(lightingShader);
 		Croissant5.Draw(lightingShader);
 		Croissant6.Draw(lightingShader);
 		Croissant7.Draw(lightingShader);
 		Croissant8.Draw(lightingShader);
-		Croissant9.Draw(lightingShader);
+		Croissant9.Draw(lightingShader);*/
 
 		cinnamon1.Draw(lightingShader);
 		cinnamon2.Draw(lightingShader);
@@ -847,7 +848,7 @@ int main(){
 		Menu.Draw(lightingShader);
 
 		model = glm::mat4(1);
-		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		model = glm::translate(model, glm::vec3(0.0f, 1.5f, 1.5f));
 		model = glm::translate(model, glm::vec3(-4.806f, 1.770f, -0.111f));
 		model = glm::rotate(model, glm::radians(angLlaveFreg), glm::vec3(0.0f, 1.0f, 0.0f)); // Rotar en el eje Y
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));

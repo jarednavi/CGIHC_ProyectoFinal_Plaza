@@ -1,3 +1,174 @@
+newmtl FachadaFinal:blinn4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl FachadaFinal:blinn5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl FachadaFinal:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Brick_04_8k_diffuse.jpg
+Ni 1.00
+newmtl FachadaFinal:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Brick_04_8k_diffuse.jpg
+Ni 1.00
+newmtl FachadaFinal:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksBanner.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl FachadaFinal:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+newmtl FachadaFinal:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd TechoDentro.jpg
+Ni 1.00
+newmtl FachadaFinal:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Techo.jpg
+Ni 1.00
+newmtl FachadaFinal:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LadrilloOscuroPared.jpg
+Ni 1.00
+newmtl FachadaFinal:lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LadrilloOscuroPared.jpg
+Ni 1.00
+newmtl FachadaFinal:lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.99 0.99 0.99
+Tf 1.00 1.00 1.00
+map_Kd ParedDos.jpg
+Ni 1.00
+newmtl FachadaFinal:lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LadrilloOscuroPared.jpg
+Ni 1.00
+newmtl FachadaFinal:lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LadrilloOscuroPared.png
+Ni 1.00
+newmtl FachadaFinal:lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl FachadaFinal:lambert14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.74 0.74 0.74
+Tf 1.00 1.00 1.00
+map_Kd PisoCafet.jpg
+Ni 1.00
+newmtl FachadaFinal:lambert15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LadrilloOscuroPared.png
+Ni 1.00
+newmtl FachadaFinal:lambert20SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd ParedDos.jpg
+Ni 1.00
+newmtl FachadaFinal:lambert27SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LadrilloOscuroPared.png
+Ni 1.00
+newmtl FachadaFinal:lambert44SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbuckletras.png
+Ni 1.00
+newmtl FachadaFinal:lambert45SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Pisoo
+Ni 1.00
+newmtl FachadaFinal:pasted__lambert44SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbuckletras.png
+Ni 1.00
+newmtl FachadaFinal:pasted__lambert52SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+newmtl FachadaFinal:phong7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
 newmtl baños1:SinkElevated002_2KSG
 illum 4
 Kd 0.00 0.00 0.00
@@ -57,7 +228,7 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd SinkElevated002_COL_1K_SPECULAR.jpg
+map_Kd Blanco2.png
 Ni 1.00
 Ks 0.00 0.00 0.00
 Ns 0.06
@@ -198,9 +369,10 @@ Ks 0.00 0.00 0.00
 Ns 18.00
 newmtl baños1:blinn1SG
 illum 4
-Kd 1.00 1.00 1.00
+Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
+map_Kd Blanco2.png
 Ni 1.00
 Ks 0.50 0.50 0.50
 newmtl baños1:initialShadingGroup
@@ -228,10 +400,8 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd TilesTerrazzoVenetianPolished001_GLOSS_2K.jpg
+map_Kd Blanco2.png
 Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 18.00
 newmtl baños1:lambert8SG
 illum 4
 Kd 0.00 0.00 0.00
@@ -244,7 +414,7 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd TilesSlateSquare001_GLOSS_2K_SPECULAR.png
+map_Kd mostrador_mesa.jpg
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 18.00
@@ -260,7 +430,7 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd TilesTerrazzoVenetianPolished001_GLOSS_2K.jpg
+map_Kd Blanco2.png
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 18.00
@@ -320,9 +490,10 @@ Ks 0.50 0.50 0.50
 Ns 18.00
 newmtl baños1:pasted__blinn1SG
 illum 4
-Kd 1.00 1.00 1.00
+Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
+map_Kd Blanco2.png
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 0.06
@@ -338,7 +509,7 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd TilesTerrazzoVenetianPolished001_GLOSS_2K.jpg
+map_Kd Blanco2.png
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 18.00
@@ -436,7 +607,7 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd TilesTerrazzoVenetianPolished001_GLOSS_2K.jpg
+map_Kd Blanco2.png
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 18.00
@@ -567,7 +738,7 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd TilesTerrazzoVenetianPolished001_GLOSS_2K.jpg
+map_Kd Blanco2.png
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 18.00
@@ -642,7 +813,7 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd TilesTerrazzoVenetianPolished001_GLOSS_2K.jpg
+map_Kd Blanco2.png
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 18.00
@@ -651,7 +822,7 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd TilesTerrazzoVenetianPolished001_GLOSS_2K.jpg
+map_Kd Blanco2.png
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 18.00
@@ -682,13 +853,6 @@ map_Kd Alfa.jpg
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 18.00
-newmtl baños1:pasted__phong6SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd mujer.jpg
-Ni 1.00
 newmtl baños1:phong1SG
 illum 4
 Kd 0.00 0.00 0.00
@@ -716,13 +880,47 @@ map_Kd Alfa.jpg
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 18.00
-newmtl baños1:phong6SG
+newmtl baños2:SinkElevated002_2KSG
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd hombre.jpg
+map_Kd SinkElevated002_COL_1K_SPECULAR.jpg
 Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.06
+newmtl baños3:pasted__pasted__pasted__FBXASC051DGeomFBXASC12612SG
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 18.00
+newmtl baños3:pasted__pasted__pasted__FBXASC051DGeomFBXASC12617SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl baños4:pasted__pasted__pasted__FBXASC051DGeomFBXASC12612SG
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 18.00
+newmtl baños4:pasted__pasted__pasted__FBXASC051DGeomFBXASC12617SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
 newmtl initialShadingGroup
 illum 4
 Kd 0.00 0.00 0.00
@@ -734,14 +932,12 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd hombre.jpg
 Ni 1.00
 newmtl lambert3SG
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd mujer.jpg
 Ni 1.00
 newmtl lambert4SG
 illum 4
