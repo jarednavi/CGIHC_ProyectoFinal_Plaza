@@ -1,16 +1,16 @@
 ﻿  PROYECTOFINAL_EQUIPO7.cpp
-C:\Users\jordi\Documents\GitHub\CGIHC_ProyectoFinal_Plaza\ProyectoFinal\modelAnim.h(104,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\jordi\Documents\GitHub\CGIHC_ProyectoFinal_Plaza\ProyectoFinal\modelAnim.h(519,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\jordi\Documents\GitHub\CGIHC_ProyectoFinal_Plaza\ProyectoFinal\PROYECTOFINAL_EQUIPO7.cpp(382,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\jordi\Documents\GitHub\CGIHC_ProyectoFinal_Plaza\ProyectoFinal\PROYECTOFINAL_EQUIPO7.cpp(722,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\jordi\Documents\GitHub\CGIHC_ProyectoFinal_Plaza\ProyectoFinal\PROYECTOFINAL_EQUIPO7.cpp(723,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\jordi\Documents\GitHub\CGIHC_ProyectoFinal_Plaza\ProyectoFinal\PROYECTOFINAL_EQUIPO7.cpp(726,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\jordi\Documents\GitHub\CGIHC_ProyectoFinal_Plaza\ProyectoFinal\PROYECTOFINAL_EQUIPO7.cpp(727,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\jordi\Documents\GitHub\CGIHC_ProyectoFinal_Plaza\ProyectoFinal\PROYECTOFINAL_EQUIPO7.cpp(728,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\jordi\Documents\GitHub\CGIHC_ProyectoFinal_Plaza\ProyectoFinal\PROYECTOFINAL_EQUIPO7.cpp(729,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\karla\OneDrive\Documentos\GitHub\CGIHC_ProyectoFinal_Plaza\ProyectoFinal\modelAnim.h(104,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\karla\OneDrive\Documentos\GitHub\CGIHC_ProyectoFinal_Plaza\ProyectoFinal\modelAnim.h(519,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\karla\OneDrive\Documentos\GitHub\CGIHC_ProyectoFinal_Plaza\ProyectoFinal\PROYECTOFINAL_EQUIPO7.cpp(479,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\karla\OneDrive\Documentos\GitHub\CGIHC_ProyectoFinal_Plaza\ProyectoFinal\PROYECTOFINAL_EQUIPO7.cpp(824,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\karla\OneDrive\Documentos\GitHub\CGIHC_ProyectoFinal_Plaza\ProyectoFinal\PROYECTOFINAL_EQUIPO7.cpp(825,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\karla\OneDrive\Documentos\GitHub\CGIHC_ProyectoFinal_Plaza\ProyectoFinal\PROYECTOFINAL_EQUIPO7.cpp(828,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\karla\OneDrive\Documentos\GitHub\CGIHC_ProyectoFinal_Plaza\ProyectoFinal\PROYECTOFINAL_EQUIPO7.cpp(829,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\karla\OneDrive\Documentos\GitHub\CGIHC_ProyectoFinal_Plaza\ProyectoFinal\PROYECTOFINAL_EQUIPO7.cpp(830,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\karla\OneDrive\Documentos\GitHub\CGIHC_ProyectoFinal_Plaza\ProyectoFinal\PROYECTOFINAL_EQUIPO7.cpp(831,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
 LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
-soil2-debug.lib(etc1_utils.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(etc1_utils.obj)' o en 'C:\Users\jordi\Documents\GitHub\CGIHC_ProyectoFinal_Plaza\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
-soil2-debug.lib(image_DXT.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_DXT.obj)' o en 'C:\Users\jordi\Documents\GitHub\CGIHC_ProyectoFinal_Plaza\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
-soil2-debug.lib(image_helper.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_helper.obj)' o en 'C:\Users\jordi\Documents\GitHub\CGIHC_ProyectoFinal_Plaza\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
-soil2-debug.lib(SOIL2.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(SOIL2.obj)' o en 'C:\Users\jordi\Documents\GitHub\CGIHC_ProyectoFinal_Plaza\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
-  ProyectoFinal.vcxproj -> C:\Users\jordi\Documents\GitHub\CGIHC_ProyectoFinal_Plaza\Debug\ProyectoFinal.exe
+soil2-debug.lib(etc1_utils.obj) : warning LNK4099: no se encontró PDB '' con 'soil2-debug.lib(etc1_utils.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: no se encontró PDB '' con 'soil2-debug.lib(image_DXT.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_helper.obj) : warning LNK4099: no se encontró PDB '' con 'soil2-debug.lib(image_helper.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: no se encontró PDB '' con 'soil2-debug.lib(SOIL2.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+  ProyectoFinal.vcxproj -> C:\Users\karla\OneDrive\Documentos\GitHub\CGIHC_ProyectoFinal_Plaza\Debug\ProyectoFinal.exe
