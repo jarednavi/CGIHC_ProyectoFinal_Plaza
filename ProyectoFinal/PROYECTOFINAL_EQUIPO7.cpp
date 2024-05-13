@@ -140,6 +140,7 @@ int main(){
 	Model Plantillapiso((char*)"Models/nuplaza/plantilla.obj");
 	Model Plumasparking((char*)"Models/nuplaza/plumas.obj");
 	Model Rampaparking((char*)"Models/nuplaza/rampa.obj");
+	Model entrada((char*)"Models/entrada/entrada.obj");
 	
 	//----------------------------------------------------------------STAR WARS
 	Model Piso((char*)"Models/nufinal/Piso.obj");
@@ -603,6 +604,7 @@ int main(){
 		Plantillapiso.Draw(lightingShader);
 		Plumasparking.Draw(lightingShader);
 		Rampaparking.Draw(lightingShader);
+		entrada.Draw(lightingShader);
 
 	    //----------------------------------------------------------------STAR WARS
 		//glm::mat4 model(1);
