@@ -1,3 +1,599 @@
+newmtl BancaPrueba:blinn1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl BancaPrueba:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ConcretePrecastPlates004_COL_2K_SPECULAR.png
+Ni 1.00
+newmtl BancaPrueba:lambert1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl BancaPrueba:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl BancaPrueba:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl BancaPrueba:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl BancaPrueba:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl BancaPrueba:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl BancaPrueba:lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl BancaPrueba:lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl BancaPrueba:lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl BancaPrueba:lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl BancaPrueba:lambert13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl BancaPrueba:lambert14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+newmtl BancaPrueba:lambert16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl BancaPrueba:lambert18SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ark_coffee.jpg
+Ni 1.00
+newmtl BancaPrueba:lambert19SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Text.jpg
+Ni 1.00
+newmtl BancaPrueba:lambert48SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+newmtl BancaPrueba:lambert76SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+newmtl BancaPrueba:palmLeafy3ShaderSG
+illum 4
+Kd 1.00 0.99 0.93
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.06 0.05 0.05
+Ns 14.36
+newmtl BancaPrueba:palmLeafy4LeafShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.19 0.19 0.19
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+Ks 0.19 0.17 0.15
+Ns 14.36
+newmtl BancaPrueba:palmLeafy4ShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+Ks 0.06 0.05 0.05
+Ns 14.36
+newmtl BancaPrueba:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl BarraFreg:lambert68SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd PisoCa.jpg
+Ni 1.00
+newmtl BarraFreg:palmLeafy4LeafShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+Ks 0.19 0.17 0.15
+Ns 14.36
+newmtl BarraFreg:pasted__Sink003_3KSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl BarraFreg:pasted__phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl BarraPrincipal:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaPino.jpg
+Ni 1.00
+newmtl BarraPrincipal:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd PisoCa.jpg
+Ni 1.00
+newmtl BarraPrincipal:lambert2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd PisoCa.jpg
+Ni 1.00
+newmtl BarraPrincipal:lambert2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd PisoCa.jpg
+Ni 1.00
+newmtl BarraPrincipal:lambert2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd PisoCa.jpg
+Ni 1.00
+newmtl BarraPrincipal:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+newmtl BarraTrastes:blinn3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oven_Anisotropy.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl BarraTrastes:palmLeafy3ShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+Ks 0.06 0.05 0.05
+Ns 14.36
+newmtl BarraTrastes:pasted__lambert71SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+newmtl BarraTrastes:pasted__lambert72SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+newmtl BarraTrastes:pasted__lambert73SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Tarro.jpg
+Ni 1.00
+newmtl BarraTrastes:pasted__phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl BarraVasos:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaPino.jpg
+Ni 1.00
+newmtl BarraVasos:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd PisoCa.jpg
+Ni 1.00
+newmtl BarraVasos:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+newmtl CafeMesaDos:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+newmtl CafeMesaDos:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ark_coffee.jpg
+Ni 1.00
+newmtl CafeMesaDos:lambert19SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Text.jpg
+Ni 1.00
+newmtl CafeMesaDos:palmLeafy3ShaderSG
+illum 4
+Kd 0.38 0.37 0.35
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.06 0.05 0.05
+Ns 14.36
+newmtl CafeMesaDos:palmLeafy4LeafShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+Ks 0.19 0.17 0.15
+Ns 14.36
+newmtl CafeMesaDos:palmLeafy4ShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+Ks 0.06 0.05 0.05
+Ns 14.36
+newmtl CafeMesaDos:pasted__lambert48SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+newmtl CafeMesaUno:lambert22SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+newmtl CafeMesaUno:lambert23SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+newmtl CafeMesaUno:palmLeafy4LeafShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+Ks 0.19 0.17 0.15
+Ns 14.36
+newmtl CafeMesaUno:pasted__lambert77SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ark_coffee.jpg
+Ni 1.00
+newmtl CafeteraAnim:blinn10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 0.00
+newmtl CafeteraAnim:blinn11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oven_Anisotropy.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl CafeteraAnim:wire_006135006
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.02 0.53 0.02
+Tf 1.00 1.00 1.00
+map_Kd PlantMonstera001_SSS_4K_SPECULAR.jpg
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl Cafeteras:blinn10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 0.00
+newmtl Cafeteras:blinn10SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 0.00
+newmtl Cafeteras:blinn10SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 0.00
+newmtl Cafeteras:blinn10SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 0.00
+newmtl Cafeteras:blinn11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oven_Anisotropy.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl Cafeteras:blinn11SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oven_Anisotropy.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl Cafeteras:wire_006135006
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.02 0.53 0.02
+Tf 1.00 1.00 1.00
+map_Kd PlantMonstera001_SSS_4K_SPECULAR.jpg
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl Cafeteras:wire_006135008
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.02 0.53 0.02
+Tf 1.00 1.00 1.00
+map_Kd PlantMonstera001_SSS_4K_SPECULAR.jpg
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl Cafeteras1:blinn11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oven_Anisotropy.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl CajaR:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CajaR:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd WelcomeCaja.jpg
+Ni 1.00
+newmtl CajaR:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PantallaCaja.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CajaR:phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd WelcomeCaja.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl CharolaDos:palmLeafy3ShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oven_Anisotropy.jpg
+Ni 1.00
+Ks 0.06 0.05 0.05
+Ns 14.36
+newmtl CharolaTres:palmLeafy3ShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oven_Anisotropy.jpg
+Ni 1.00
+Ks 0.06 0.05 0.05
+Ns 14.36
+newmtl CharolaUno:palmLeafy3ShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oven_Anisotropy.jpg
+Ni 1.00
+Ks 0.06 0.05 0.05
+Ns 14.36
+newmtl Croissant1:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.jpg
+Ni 1.45
+newmtl Croissant4:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.jpg
+Ni 1.45
+newmtl Croissant5:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.jpg
+Ni 1.45
+newmtl Croissant6:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.jpg
+Ni 1.45
+newmtl Croissant7:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.jpg
+Ni 1.45
+newmtl Croissant8:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.jpg
+Ni 1.45
+newmtl Croissant9:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.jpg
+Ni 1.45
+newmtl Croissant10:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.jpg
+Ni 1.45
 newmtl FachadaFinal:blinn4SG
 illum 4
 Kd 0.00 0.00 0.00
@@ -169,6 +765,1012 @@ map_Kd Water_Tap_Diffuse.jpg
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 18.00
+newmtl LLaveFreg:pasted__Sink003_3KSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl Malteada:pasted__pasted__lambert74SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Material__204_2D_View.jpg
+Ni 1.00
+newmtl ManijaFreg:pasted__Sink003_3KSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl Menu:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+newmtl Menu:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menuStarbucks3.jpg
+Ni 1.00
+newmtl Menu:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menuStarbucks2.jpg
+Ni 1.00
+newmtl Menu:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Starbucks-Menu.jpg
+Ni 1.00
+newmtl Menu:palmLeafy4ShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+Ks 0.06 0.05 0.05
+Ns 14.36
+newmtl Menu:pasted__lambert63SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menuStarbucks1.jpg
+Ni 1.00
+newmtl Menu:pasted__phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl MesaDos:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+newmtl MesaDos:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oven_Anisotropy.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl MesaUno:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+newmtl MesaUno:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oven_Anisotropy.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl PastelBarra:Material_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd FondoClaroInterior.jpg
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 250.00
+newmtl PastelBarra:lambert1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cake_texture_by_xnickixstockx.jpg
+Ni 1.00
+newmtl PastelBarra:lambert1SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cake_texture_by_xnickixstockx.jpg
+Ni 1.00
+newmtl PastelBarra:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Marble_ish_by_Iadinea.jpg
+Ni 1.00
+newmtl PastelBarra:lambert23SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+newmtl Pastel_Rebanada1:Material_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd FondoClaroInterior.jpg
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 250.00
+newmtl Pastel_Rebanada1:lambert1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cake_texture_by_xnickixstockx.jpg
+Ni 1.00
+newmtl Pastel_Rebanada1:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Marble_ish_by_Iadinea.jpg
+Ni 1.00
+newmtl Pastel_Rebanada2:Material_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd FondoClaroInterior.jpg
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 250.00
+newmtl Pastel_Rebanada2:lambert1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cake_texture_by_xnickixstockx.jpg
+Ni 1.00
+newmtl Pastel_Rebanada2:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Marble_ish_by_Iadinea.jpg
+Ni 1.00
+newmtl Pastel_Rebanada4:Material_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd FondoClaroInterior.jpg
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 250.00
+newmtl Pastel_Rebanada4:lambert1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cake_texture_by_xnickixstockx.jpg
+Ni 1.00
+newmtl Pastel_Rebanada4:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Marble_ish_by_Iadinea.jpg
+Ni 1.00
+newmtl Pastel_Rebanada6:Material_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd FondoClaroInterior.jpg
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 250.00
+newmtl Pastel_Rebanada6:lambert1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cake_texture_by_xnickixstockx.jpg
+Ni 1.00
+newmtl Pastel_Rebanada6:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Marble_ish_by_Iadinea.jpg
+Ni 1.00
+newmtl PlantaDos:PlantMonstera001_4KSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd PlantMonstera001_COL_4K_SPECULAR.jpg
+Ni 0.00
+newmtl PlantaDos:PlantMonsteraVase001_4KSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PlantMonsteraVase001_COL_4K_SPECULAR.jpg
+Ni 0.00
+newmtl PlantaDos1:PlantMonstera001_4KSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd PlantMonstera001_COL_4K_SPECULAR.jpg
+Ni 0.00
+newmtl PlantaDos1:PlantMonsteraVase001_4KSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PlantMonsteraVase001_COL_4K_SPECULAR.jpg
+Ni 0.00
+newmtl PlantaUno:PlantMonstera001_4KSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd PlantMonstera001_COL_4K_SPECULAR.jpg
+Ni 0.00
+newmtl PlantaUno:PlantMonsteraVase001_4KSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PlantMonsteraVase001_COL_4K_SPECULAR.jpg
+Ni 0.00
+newmtl PlantaUno1:PlantMonstera001_4KSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd PlantMonstera001_COL_4K_SPECULAR.jpg
+Ni 0.00
+newmtl PlantaUno1:PlantMonsteraVase001_4KSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PlantMonsteraVase001_COL_4K_SPECULAR.jpg
+Ni 0.00
+newmtl PlatoPastel:pasted__lambert72SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+newmtl SillaSola_MesaUno:pasted__pasted__pasted__pasted__pasted__CubeFBXASC046001SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oven_Anisotropy.jpg
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 23.00
+newmtl SillaSola_MesaUno:pasted__pasted__pasted__pasted__pasted__CubeFBXASC046001SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+Ks 0.01 0.00 0.00
+Ns 23.00
+newmtl SillasD_DerDos:pasted__pasted__pasted__pasted__CubeFBXASC046001SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oven_Anisotropy.jpg
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 23.00
+newmtl SillasD_DerDos:pasted__pasted__pasted__pasted__CubeFBXASC046001SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+Ks 0.01 0.00 0.00
+Ns 23.00
+newmtl SillasD_DerDos:pasted__pasted__pasted__pasted__CubeFBXASC046001SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oven_Anisotropy.jpg
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 23.00
+newmtl SillasD_DerDos:pasted__pasted__pasted__pasted__CubeFBXASC046001SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+Ks 0.01 0.00 0.00
+Ns 23.00
+newmtl SillasD_DerUno:pasted__pasted__pasted__pasted__pasted__CubeFBXASC046001SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oven_Anisotropy.jpg
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 23.00
+newmtl SillasD_DerUno:pasted__pasted__pasted__pasted__pasted__CubeFBXASC046001SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+Ks 0.01 0.00 0.00
+Ns 23.00
+newmtl SillasD_DerUno:pasted__pasted__pasted__pasted__pasted__CubeFBXASC046001SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oven_Anisotropy.jpg
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 23.00
+newmtl SillasD_DerUno:pasted__pasted__pasted__pasted__pasted__CubeFBXASC046001SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+Ks 0.01 0.00 0.00
+Ns 23.00
+newmtl SillasD_IzqDos:pasted__pasted__pasted__CubeFBXASC046001SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oven_Anisotropy.jpg
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 23.00
+newmtl SillasD_IzqDos:pasted__pasted__pasted__CubeFBXASC046001SG28
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+Ks 0.01 0.00 0.00
+Ns 23.00
+newmtl SillasD_IzqDos:pasted__pasted__pasted__pasted__CubeFBXASC046001SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oven_Anisotropy.jpg
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 23.00
+newmtl SillasD_IzqDos:pasted__pasted__pasted__pasted__CubeFBXASC046001SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+Ks 0.01 0.00 0.00
+Ns 23.00
+newmtl SillasD_IzqUno:pasted__pasted__pasted__pasted__pasted__pasted__CubeFBXASC046001SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oven_Anisotropy.jpg
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 23.00
+newmtl SillasD_IzqUno:pasted__pasted__pasted__pasted__pasted__pasted__CubeFBXASC046001SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+Ks 0.01 0.00 0.00
+Ns 23.00
+newmtl SillasD_IzqUno:pasted__pasted__pasted__pasted__pasted__pasted__CubeFBXASC046001SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oven_Anisotropy.jpg
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 23.00
+newmtl SillasD_IzqUno:pasted__pasted__pasted__pasted__pasted__pasted__CubeFBXASC046001SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+Ks 0.01 0.00 0.00
+Ns 23.00
+newmtl SillasT_DerDos:pasted__pasted__CubeFBXASC046001SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oven_Anisotropy.jpg
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 23.00
+newmtl SillasT_DerDos:pasted__pasted__CubeFBXASC046001SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+Ks 0.01 0.00 0.00
+Ns 23.00
+newmtl SillasT_DerDos:pasted__pasted__pasted__CubeFBXASC046001SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oven_Anisotropy.jpg
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 23.00
+newmtl SillasT_DerDos:pasted__pasted__pasted__CubeFBXASC046001SG23
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+Ks 0.01 0.00 0.00
+Ns 23.00
+newmtl SillasT_DerDos:pasted__pasted__pasted__CubeFBXASC046001SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oven_Anisotropy.jpg
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 23.00
+newmtl SillasT_DerDos:pasted__pasted__pasted__CubeFBXASC046001SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+Ks 0.01 0.00 0.00
+Ns 23.00
+newmtl SillasT_DerUno:pasted__pasted__pasted__CubeFBXASC046001SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oven_Anisotropy.jpg
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 23.00
+newmtl SillasT_DerUno:pasted__pasted__pasted__CubeFBXASC046001SG36
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+Ks 0.01 0.00 0.00
+Ns 23.00
+newmtl SillasT_DerUno:pasted__pasted__pasted__pasted__CubeFBXASC046001SG32
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oven_Anisotropy.jpg
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 23.00
+newmtl SillasT_DerUno:pasted__pasted__pasted__pasted__CubeFBXASC046001SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+Ks 0.01 0.00 0.00
+Ns 23.00
+newmtl SillasT_DerUno:pasted__pasted__pasted__pasted__CubeFBXASC046001SG36
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oven_Anisotropy.jpg
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 23.00
+newmtl SillasT_DerUno:pasted__pasted__pasted__pasted__CubeFBXASC046001SG38
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+Ks 0.01 0.00 0.00
+Ns 23.00
+newmtl SillasT_IzqDos:pasted__pasted__pasted__pasted__CubeFBXASC046001SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oven_Anisotropy.jpg
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 23.00
+newmtl SillasT_IzqDos:pasted__pasted__pasted__pasted__CubeFBXASC046001SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+Ks 0.01 0.00 0.00
+Ns 23.00
+newmtl SillasT_IzqDos:pasted__pasted__pasted__pasted__pasted__CubeFBXASC046001SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oven_Anisotropy.jpg
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 23.00
+newmtl SillasT_IzqDos:pasted__pasted__pasted__pasted__pasted__CubeFBXASC046001SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+Ks 0.01 0.00 0.00
+Ns 23.00
+newmtl SillasT_IzqDos:pasted__pasted__pasted__pasted__pasted__CubeFBXASC046001SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oven_Anisotropy.jpg
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 23.00
+newmtl SillasT_IzqDos:pasted__pasted__pasted__pasted__pasted__CubeFBXASC046001SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+Ks 0.01 0.00 0.00
+Ns 23.00
+newmtl SillasT_IzqUno:pasted__pasted__pasted__pasted__CubeFBXASC046001SG36
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oven_Anisotropy.jpg
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 23.00
+newmtl SillasT_IzqUno:pasted__pasted__pasted__pasted__CubeFBXASC046001SG38
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+Ks 0.01 0.00 0.00
+Ns 23.00
+newmtl SillasT_IzqUno:pasted__pasted__pasted__pasted__pasted__CubeFBXASC046001SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oven_Anisotropy.jpg
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 23.00
+newmtl SillasT_IzqUno:pasted__pasted__pasted__pasted__pasted__CubeFBXASC046001SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+Ks 0.01 0.00 0.00
+Ns 23.00
+newmtl Taza:Cafetera_blinn10SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 0.00
+newmtl Taza:Cafetera_blinn11SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oven_Anisotropy.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl VasoStarTres:Paint_Black
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.37 0.37 0.37
+Ns 64.00
+newmtl VasoStarTres:Paint_Black2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.37 0.37 0.37
+Ns 64.00
+newmtl VasoStarTres:Paint_Black4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.37 0.37 0.37
+Ns 64.00
+newmtl VasoStarTres:Plastic_Black
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+Ks 0.60 0.60 0.60
+Ns 22.63
+newmtl VasoStarTres:Plastic_Black2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+Ks 0.60 0.60 0.60
+Ns 22.63
+newmtl VasoStarTres:Plastic_Black4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+Ks 0.60 0.60 0.60
+Ns 22.63
+newmtl VasoStarTres:Plastic_Black8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+Ks 0.60 0.60 0.60
+Ns 22.63
+newmtl VasoStarTres:Plastic_Text
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Text.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl VasoStarTres:Plastic_Text2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Text.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl VasoStarTres:Plastic_Text4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Text.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl VasoStarTres:Polypropylene__PP_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Text.jpg
+Ni 1.00
+newmtl VasoStarTres:Polypropylene__PP_2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Text.jpg
+Ni 1.00
+newmtl VasoStarTres:Polypropylene__PP_4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Text.jpg
+Ni 1.00
+newmtl VasoStarTres:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Text.jpg
+Ni 1.00
+newmtl VasoStarTres:lambert2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Text.jpg
+Ni 1.00
+newmtl VasoStarTres:lambert2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Text.jpg
+Ni 1.00
+newmtl VasoStarUno:Paint_Black
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.37 0.37 0.37
+Ns 64.00
+newmtl VasoStarUno:Paint_Black2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.37 0.37 0.37
+Ns 64.00
+newmtl VasoStarUno:Paint_Black4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.37 0.37 0.37
+Ns 64.00
+newmtl VasoStarUno:Plastic_Black
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+Ks 0.60 0.60 0.60
+Ns 22.63
+newmtl VasoStarUno:Plastic_Black2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+Ks 0.60 0.60 0.60
+Ns 22.63
+newmtl VasoStarUno:Plastic_Black4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+Ks 0.60 0.60 0.60
+Ns 22.63
+newmtl VasoStarUno:Plastic_Black8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+Ks 0.60 0.60 0.60
+Ns 22.63
+newmtl VasoStarUno:Plastic_Text
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Text.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl VasoStarUno:Plastic_Text2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Text.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl VasoStarUno:Plastic_Text4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Text.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl VasoStarUno:Polypropylene__PP_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Text.jpg
+Ni 1.00
+newmtl VasoStarUno:Polypropylene__PP_2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Text.jpg
+Ni 1.00
+newmtl VasoStarUno:Polypropylene__PP_4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Text.jpg
+Ni 1.00
+newmtl VasoStarUno:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Text.jpg
+Ni 1.00
+newmtl VasoStarUno:lambert2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Text.jpg
+Ni 1.00
+newmtl VasoStarUno:lambert2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Text.jpg
+Ni 1.00
+newmtl Vidrios:Vitrina_Vitrina_aiStandardSurface3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Vidrios:vitrinaVidrio_Vitrina_aiStandardSurface3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl Vidrios:vitrinaVidrio_Vitrina_lambert2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancel.png
+Ni 1.00
+newmtl Vidrios:vitrinaVidrio_Vitrina_palmLeafy4LeafShaderSG2
+illum 4
+Kd 0.49 0.49 0.49
+Ka 0.19 0.19 0.19
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.19 0.17 0.15
+Ns 14.36
+newmtl Vitrina:Vitrina_Vitrina_aiStandardSurface3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Vitrina:Vitrina_Vitrina_lambert1SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Vitrina:Vitrina_Vitrina_lambert2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal.jpg
+Ni 1.00
+newmtl Vitrina:Vitrina_Vitrina_lambert3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.68 0.68 0.68
+Tf 1.00 1.00 1.00
+map_Kd maderaPino.jpg
+Ni 1.00
+newmtl Vitrina:Vitrina_Vitrina_lambert69SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaPino.jpg
+Ni 1.00
+newmtl Vitrina:Vitrina_Vitrina_palmLeafy4LeafShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.61 0.61 0.61
+Tf 1.00 1.00 1.00
+map_Kd Metal.jpg
+Ni 1.00
+Ks 0.19 0.17 0.15
+Ns 0.06
+newmtl Vitrina:lambert16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
 newmtl baños1:SinkElevated002_2KSG
 illum 4
 Kd 0.00 0.00 0.00
@@ -393,7 +1995,7 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd ladrillo.jpg
+map_Kd Brick_04_8k_diffuse.jpg
 Ni 1.00
 newmtl baños1:lambert7SG
 illum 4
@@ -423,7 +2025,7 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd ladrillo.jpg
+map_Kd Brick_04_8k_diffuse.jpg
 Ni 1.00
 newmtl baños1:lambert15SG
 illum 4
@@ -469,7 +2071,7 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.37 0.37 0.37
 Tf 1.00 1.00 1.00
-map_Kd GroundSand005_BUMP_2K.jpg
+map_Kd Blanco2.png
 Ni 1.00
 newmtl baños1:pasted__FBXASC051DGeomFBXASC12612SG
 illum 4
@@ -482,9 +2084,10 @@ Ks 0.10 0.10 0.10
 Ns 18.00
 newmtl baños1:pasted__FBXASC051DGeomFBXASC12617SG
 illum 4
-Kd 1.00 1.00 1.00
+Kd 0.00 0.00 0.00
 Ka 0.50 0.50 0.50
 Tf 1.00 1.00 1.00
+map_Kd Blanco2.png
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 18.00
@@ -502,7 +2105,7 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd ladrillo.jpg
+map_Kd Brick_04_8k_diffuse.jpg
 Ni 1.00
 newmtl baños1:pasted__lambert7SG
 illum 4
@@ -518,7 +2121,7 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd TilesTerrazzoVenetianPolished001_GLOSS_2K.jpg
+map_Kd Blanco2.png
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 18.00
@@ -552,14 +2155,14 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.37 0.37 0.37
 Tf 1.00 1.00 1.00
-map_Kd GroundSand005_BUMP_2K.jpg
+map_Kd Blanco2.png
 Ni 1.00
 newmtl baños1:pasted__pasted__FBXASC051DGeomFBXASC1269SG6
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.37 0.37 0.37
 Tf 1.00 1.00 1.00
-map_Kd GroundSand005_BUMP_2K.jpg
+map_Kd Blanco2.png
 Ni 1.00
 newmtl baños1:pasted__pasted__FBXASC051DGeomFBXASC12612SG
 illum 4
@@ -589,9 +2192,10 @@ Ks 0.10 0.10 0.10
 Ns 18.00
 newmtl baños1:pasted__pasted__FBXASC051DGeomFBXASC12617SG
 illum 4
-Kd 1.00 1.00 1.00
+Kd 0.00 0.00 0.00
 Ka 0.50 0.50 0.50
 Tf 1.00 1.00 1.00
+map_Kd Blanco2.png
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 18.00
@@ -643,21 +2247,21 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.37 0.37 0.37
 Tf 1.00 1.00 1.00
-map_Kd GroundSand005_BUMP_2K.jpg
+map_Kd Blanco2.png
 Ni 1.00
 newmtl baños1:pasted__pasted__pasted__FBXASC051DGeomFBXASC1269SG6
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.37 0.37 0.37
 Tf 1.00 1.00 1.00
-map_Kd GroundSand005_BUMP_2K.jpg
+map_Kd Blanco2.png
 Ni 1.00
 newmtl baños1:pasted__pasted__pasted__FBXASC051DGeomFBXASC1269SG8
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.37 0.37 0.37
 Tf 1.00 1.00 1.00
-map_Kd GroundSand005_BUMP_2K.jpg
+map_Kd Blanco2.png
 Ni 1.00
 newmtl baños1:pasted__pasted__pasted__FBXASC051DGeomFBXASC12612SG
 illum 4
@@ -704,17 +2308,19 @@ Ks 0.10 0.10 0.10
 Ns 18.00
 newmtl baños1:pasted__pasted__pasted__FBXASC051DGeomFBXASC12617SG
 illum 4
-Kd 1.00 1.00 1.00
+Kd 0.00 0.00 0.00
 Ka 0.50 0.50 0.50
 Tf 1.00 1.00 1.00
+map_Kd Blanco2.png
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 18.00
 newmtl baños1:pasted__pasted__pasted__FBXASC051DGeomFBXASC12617SG2
 illum 4
-Kd 1.00 1.00 1.00
+Kd 0.00 0.00 0.00
 Ka 0.50 0.50 0.50
 Tf 1.00 1.00 1.00
+map_Kd Blanco2.png
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 18.00
@@ -747,7 +2353,6 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd TilesTerrazzoVenetianPolished001_GLOSS_2K.jpg
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 18.00
@@ -781,14 +2386,14 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.37 0.37 0.37
 Tf 1.00 1.00 1.00
-map_Kd GroundSand005_BUMP_2K.jpg
+map_Kd Blanco2.png
 Ni 1.00
 newmtl baños1:pasted__pasted__pasted__pasted__FBXASC051DGeomFBXASC1269SG8
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.37 0.37 0.37
 Tf 1.00 1.00 1.00
-map_Kd GroundSand005_BUMP_2K.jpg
+map_Kd Blanco2.png
 Ni 1.00
 newmtl baños1:pasted__pasted__pasted__pasted__FBXASC051DGeomFBXASC12612SG7
 illum 4
@@ -921,19 +2526,35 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 18.00
+newmtl cinnamon1:roll25k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_cinamon_roll25k_Albedo4K.jpg
+Ni 1.45
+newmtl cinnamon2:roll25k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_cinamon_roll25k_Albedo4K.jpg
+Ni 1.45
+newmtl cinnamon3:roll25k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_cinamon_roll25k_Albedo4K.jpg
+Ni 1.45
+newmtl cinnamon5:roll25k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_cinamon_roll25k_Albedo4K.jpg
+Ni 1.45
 newmtl initialShadingGroup
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl lambert2SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl lambert3SG
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
@@ -946,250 +2567,201 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd Piso.jpg
 Ni 1.00
-newmtl pizzeria:initialShadingGroup
+newmtl lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hombre.jpg
+Ni 1.00
+newmtl lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mujer.jpg
+Ni 1.00
+newmtl pan1:roll25k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_cinamon_roll25k_Albedo4K.jpg
+Ni 1.45
+newmtl pan2:roll25k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_cinamon_roll25k_Albedo4K.jpg
+Ni 1.45
+newmtl pan3:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.jpg
+Ni 1.45
+newmtl pan4:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.jpg
+Ni 1.45
+newmtl puertaCuatro:initialShadingGroup
 illum 4
 Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 18.00
-newmtl pizzeria:initialShadingGroup2
+newmtl puertaCuatro:pasted__pasted__FachadaFinal_lambert30SG4
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancel.jpg
 Ni 1.00
-newmtl pizzeria:initialShadingGroup5
+newmtl puertaCuatro:pasted__pasted__FachadaFinal_lambert40SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LogoCancel3.jpg
+Ni 1.00
+newmtl puertaCuatro:pasted__pasted__FachadaFinal_pasted__lambert28SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negroCancel.jpg
+Ni 1.00
+newmtl puertaTres:initialShadingGroup
 illum 4
 Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl pizzeria:initialShadingGroup7
+newmtl puertaTres:pasted__FachadaFinal_lambert30SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancel.jpg
+Ni 1.00
+newmtl puertaTres:pasted__FachadaFinal_pasted__lambert28SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negroCancel.jpg
+Ni 1.00
+newmtl puertaUno:initialShadingGroup
 illum 4
 Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl pizzeria:initialShadingGroup11
+newmtl puertaUno:pasted__pasted__FachadaFinal_lambert28SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negroCancel.jpg
+Ni 1.00
+newmtl puertaUno:pasted__pasted__FachadaFinal_lambert30SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancel.jpg
+Ni 1.00
+newmtl puertaUno:pasted__pasted__FachadaFinal_lambert40SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LogoCancel3.jpg
+Ni 1.00
+newmtl puertados:initialShadingGroup
 illum 4
 Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl pizzeria:lambert3SG
+newmtl puertados:pasted__FachadaFinal_lambert28SG6
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd metal4.png
+map_Kd negroCancel.jpg
 Ni 1.00
-newmtl pizzeria:phong1SG
+newmtl puertados:pasted__FachadaFinal_lambert30SG10
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd fachada1.png
+map_Kd starbucksVerticalCancel.jpg
 Ni 1.00
-Ks 0.00 0.00 0.00
-map_Ks Opaco.png
-Ns 18.00
-newmtl pizzeria:phong1SG2
+newmtl puertados:pasted__FachadaFinal_lambert34SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancel.jpg
+Ni 1.00
+newmtl puertas:FachadaFinal_lambert28SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negroCancel.jpg
+Ni 1.00
+newmtl puertas:FachadaFinal_lambert30SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancel.jpg
+Ni 1.00
+newmtl puertas:FachadaFinal_lambert33SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksLogo2.jpg
+Ni 1.00
+newmtl puertas:FachadaFinal_lambert34SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancel.jpg
+Ni 1.00
+newmtl puertas:FachadaFinal_lambert41SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancelAlreves.jpg
+Ni 1.00
+newmtl puertas:FachadaFinal_lambert42SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancelAlreves.jpg
+Ni 1.00
+newmtl puertas:FachadaFinal_pasted__lambert28SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negroCancel.jpg
+Ni 1.00
+newmtl puertas:initialShadingGroup
 illum 4
 Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 18.00
-newmtl pizzeria:phong1SG4
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd Nuk.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-map_Ks Medio.png
-Ns 18.00
-newmtl pizzeria:phong2SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd blanco.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-map_Ks Opaco.png
-Ns 18.00
-newmtl pizzeria:phong2SG2
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd rojo2.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-map_Ks Medio.png
-Ns 18.00
-newmtl pizzeria:phong3SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd metal3.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-map_Ks Medio.png
-Ns 18.00
-newmtl pizzeria:phong3SG2
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd Sillaymesa.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-map_Ks Opaco.png
-Ns 18.00
-newmtl pizzeria:phong5SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd fachada2.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-map_Ks Opaco.png
-Ns 18.00
-newmtl pizzeria:phong6SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd fachadatecho.jpg
-Ni 1.00
-Ks 0.00 0.00 0.00
-map_Ks Opaco.png
-Ns 18.00
-newmtl pizzeria:phong7SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd Cafe.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-map_Ks Medio.png
-Ns 18.00
-newmtl pizzeria:phong9SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd piso2.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-map_Ks Opaco.png
-Ns 18.00
-newmtl pizzeria:phong12SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd adoquin.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-map_Ks Opaco.png
-Ns 18.00
-newmtl pizzeria:phong14SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd Logo.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-map_Ks Medio.png
-Ns 18.00
-newmtl pizzeria:phong15SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd metal2.jpg
-Ni 1.00
-Ks 0.00 0.00 0.00
-map_Ks Brilloso.png
-Ns 18.00
-newmtl pizzeria:phong16SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd mostrador_madera1.jpg
-Ni 1.00
-Ks 0.00 0.00 0.00
-map_Ks Opaco.png
-Ns 18.00
-newmtl pizzeria:phong17SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd mostrador_madera2.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-map_Ks Opaco.png
-Ns 18.00
-newmtl pizzeria:phong21SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd mostrador_mesa.jpg
-Ni 1.00
-Ks 0.00 0.00 0.00
-map_Ks Brilloso.png
-Ns 18.00
-newmtl pizzeria:phong26SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd Blanco2.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-map_Ks Opaco.png
-Ns 18.00
-newmtl pizzeria:phong27SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd Refri.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-map_Ks Brilloso.png
-Ns 18.00
-newmtl pizzeria:phong31SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd metal1.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-map_Ks Brilloso.png
-Ns 18.00
-newmtl pizzeria:phong32SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd Sillaymesa2.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-map_Ks Medio.png
-Ns 18.00

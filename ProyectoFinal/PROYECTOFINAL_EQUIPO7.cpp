@@ -267,10 +267,6 @@ int main(){
 	//Model Menu((char*)"Models/Starbucks/Fachada/Menu.obj");
 	////Model FocosMenu((char*)"Models/Modelos/Fachada/FocosMenu.obj");
 
-	//Model PlantaUno((char*)"Models/Starbucks/Plantas/PlantaUno.obj");
-	////Model PlantaDos((char*)"Models/Modelos/Plantas/PlantaDos.obj");
-	//Model PlantaTres((char*)"Models/Starbucks/Plantas/PlantaTres.obj");
-
 	//Model CajaR((char*)"Models/Starbucks/Barras/CajaR.obj");
 	//Model Vitrina((char*)"Models/Starbucks/VitrinaDos/Vitrina.obj");
 	//Model Vidrio((char*)"Models/Starbucks/VitrinaDos/Vidrios.obj");
@@ -282,15 +278,7 @@ int main(){
 	//Model cafetera((char*)"Models/Starbucks/Cafeteras/CafeteraAnim.obj");
 	//Model CafeteraDos((char*)"Models/Starbucks/Cafeteras/Cafeteras.obj");
 	//Model Taza((char*)"Models/Starbucks/Cafeteras/Taza.obj");
-	//Model BarraPrin((char*)"Models/Starbucks/Barras/BarraPrincipal.obj");
-	//Model BarraTrastes((char*)"Models/Starbucks/Barras/BarraTrastes.obj");
-	//Model BarraFregadero((char*)"Models/Starbucks/Barras/BarraFreg.obj");
-	//Model LlaveFregadero((char*)"Models/Starbucks/Barras/LlaveFreg.obj");
-	//Model ManijaFregadero((char*)"Models/Starbucks/Barras/ManijaFreg.obj");
-	//Model BarraVasos((char*)"Models/Starbucks/Barras/BarraVasos.obj");
-	//Model VasoStarUno((char*)"Models/Starbucks/Barras/VasoStarUno.obj");
-	//Model VasoStarDos((char*)"Models/Starbucks/Barras/VasoStarDos.obj");
-	//Model VasoStarTres((char*)"Models/Starbucks/Barras/VasoStarTres.obj");
+
 
 	//Model Tarro((char*)"Models/Starbucks/VitrinaDos/TarroSolo2.obj");
 	//Model TapaTarro((char*)"Models/Starbucks/VitrinaDos/TapaF.obj");
@@ -301,65 +289,7 @@ int main(){
 	//Model GalletaCinco((char*)"Models/Starbucks/TarroGalletas/GalletaCinco.obj");
 	//Model GalletaSeis((char*)"Models/Starbucks/TarroGalletas/GalletaSeis.obj");*/
 
-	//Model MesaUno((char*)"Models/Starbucks/Mesas/MesaUno.obj");
-	//Model SillasT_DerUno((char*)"Models/Starbucks/Mesas/SillasT_DerUno.obj");
-	//Model SillasD_DerUno((char*)"Models/Starbucks/Mesas/SillasD_DerUno.obj");
-	//Model SillasT_IzqUno((char*)"Models/Starbucks/Mesas/SillasT_IzqUno.obj");
-	//Model SillasD_IzqUno((char*)"Models/Starbucks/Mesas/SillasD_IzqUno.obj");
-	//Model SillaSola_MesaUno((char*)"Models/Starbucks/Mesas/SillaSola_MesaUno.obj");
-	//Model CafeMesaUno((char*)"Models/Starbucks/Mesas/CafeMesaUno.obj");
-
-
-	//Model MesaDos((char*)"Models/Starbucks/Mesas/MesaDos.obj");
-	//Model SillasT_DerDos((char*)"Models/Starbucks/Mesas/SillasT_DerDos.obj");
-	//Model SillasD_DerDos((char*)"Models/Starbucks/Mesas/SillasD_DerDos.obj");
-	//Model SillasT_IzqDos((char*)"Models/Starbucks/Mesas/SillasT_IzqDos.obj");
-	//Model SillasD_IzqDos((char*)"Models/Starbucks/Mesas/SillasD_IzqDos.obj");
-	//Model CafeMesaDos((char*)"Models/Starbucks/Mesas/CafeMesaDos.obj");
-
-	//Model Malteada((char*)"Models/Starbucks/Postres/Malteada.obj");
-	//Model PastelBarra((char*)"Models/Starbucks/Postres/PastelBarra.obj");
-
-	//Model Pastel((char*)"Models/Starbucks/VitrinaDos/Pastel.obj");
-	//Model PastelDos((char*)"Models/Starbucks/VitrinaDos/Pastel2.obj");
-
-	////PASTELES VITRINA
-	//Model PlatoPastel((char*)"Models/Starbucks/Postres/PlatoPastel.obj");
-	//Model Pastel_RebanadaUno((char*)"Models/Starbucks/Postres/Pastel_Rebanada1.obj");
-	//Model Pastel_RebanadaDos((char*)"Models/Starbucks/Postres/Pastel_Rebanada2.obj");
-	///*Model Pastel_RebanadaTres((char*)"Models/Starbucks/Postres/Pastel_Rebanada3.obj");
-	//Model Pastel_RebanadaCuatro((char*)"Models/Starbucks/Postres/Pastel_Rebanada4.obj");
-	//Model Pastel_RebanadaCinco((char*)"Models/Starbucks/Postres/Pastel_Rebanada5.obj");
-	//Model Pastel_RebanadaSeis((char*)"Models/Starbucks/Postres/Pastel_Rebanada6.obj");*/
-
-	//Model CharolaUno((char*)"Models/Starbucks/Postres/CharolaUno.obj");
-	//Model Croissant1((char*)"Models/Starbucks/Postres/Croissant1.obj");
-	//Model Croissant2((char*)"Models/Starbucks/Postres/Croissant2.obj");
-	//Model Croissant3((char*)"Models/Starbucks/Postres/Croissant3.obj");
-	//Model Croissant4((char*)"Models/Starbucks/Postres/Croissant4.obj");
-	//Model Croissant5((char*)"Models/Starbucks/Postres/Croissant5.obj");
-	//Model Croissant6((char*)"Models/Starbucks/Postres/Croissant6.obj");
-	//Model Croissant7((char*)"Models/Starbucks/Postres/Croissant7.obj");
-	//Model Croissant8((char*)"Models/Starbucks/Postres/Croissant8.obj");
-	//Model Croissant9((char*)"Models/Starbucks/Postres/Croissant9.obj");
-
-	//Model CharolaDos((char*)"Models/Starbucks/Postres/CharolaDos.obj");
-	//Model cinnamon1((char*)"Models/Starbucks/Postres/cinnamon1.obj");
-	//Model cinnamon2((char*)"Models/Starbucks/Postres/cinnamon2.obj");
-	//Model cinnamon3((char*)"Models/Starbucks/Postres/cinnamon3.obj");
-	///*Model cinnamon4((char*)"Models/Starbucks/Postres/cinnamon4.obj");
-	//Model cinnamon5((char*)"Models/Starbucks/Postres/cinnamon5.obj");
-	//Model cinnamon6((char*)"Models/Starbucks/Postres/cinnamon6.obj");
-	//Model cinnamon7((char*)"Models/Starbucks/Postres/cinnamon7.obj");*/
-
-	//Model CharolaTres((char*)"Models/Starbucks/Postres/CharolaTres.obj");
-	//Model pan1((char*)"Models/Starbucks/Postres/pan1.obj");
-	//Model pan2((char*)"Models/Starbucks/Postres/pan2.obj");
-	///*Model pan3((char*)"Models/Starbucks/Postres/pan3.obj");
-	//Model pan4((char*)"Models/Starbucks/Postres/pan4.obj");
-	//Model pan5((char*)"Models/Starbucks/Postres/pan5.obj");*/
-
-
+	
 	//----------------------------------------------------------------PIZZERIA
 	Model pizzeria((char*)"Models/pizzeria/pizzeria.obj");
 
@@ -755,7 +685,7 @@ int main(){
 		//----------------------------------------------------------------STARBUCKS
 
 		//Carga de modelo fachada
-		view = camera.GetViewMatrix();
+		/*view = camera.GetViewMatrix();*/
 		model = glm::mat4(1);
 		//model = glm::translate(model, glm::vec3(0.0f, 6.0f, 4.0f));
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
@@ -763,98 +693,6 @@ int main(){
 		Fachada.Draw(lightingShader);
 		Postres.Draw(lightingShader);
 
-
-		//PlantaUno.Draw(lightingShader);
-		////PlantaDos.Draw(lightingShader);
-		//PlantaTres.Draw(lightingShader);
-
-		//Banca.Draw(lightingShader);
-		//Piso.Draw(lightingShader);
-		//CajaR.Draw(lightingShader);
-		//CafeteraDos.Draw(lightingShader);
-		//BarraPrin.Draw(lightingShader);
-		//BarraTrastes.Draw(lightingShader);
-		//BarraVasos.Draw(lightingShader);
-		//VasoStarUno.Draw(lightingShader);
-		//VasoStarDos.Draw(lightingShader);
-		//VasoStarTres.Draw(lightingShader);
-		//BarraFregadero.Draw(lightingShader);
-		//ManijaFregadero.Draw(lightingShader);
-
-
-		//MesaUno.Draw(lightingShader);
-
-		//SillasT_DerUno.Draw(lightingShader);
-		//SillasD_IzqUno.Draw(lightingShader);
-		//SillasD_DerUno.Draw(lightingShader);
-		//SillasT_IzqUno.Draw(lightingShader);
-		//SillaSola_MesaUno.Draw(lightingShader);
-		//CafeMesaUno.Draw(lightingShader);
-
-		//MesaDos.Draw(lightingShader);
-
-		//SillasT_DerDos.Draw(lightingShader);
-		//SillasD_IzqDos.Draw(lightingShader);
-		//SillasD_DerDos.Draw(lightingShader);
-		//SillasT_IzqDos.Draw(lightingShader);
-		//CafeMesaDos.Draw(lightingShader);
-
-		//Malteada.Draw(lightingShader);
-		//PastelBarra.Draw(lightingShader);
-
-		//Pastel.Draw(lightingShader);
-		//PastelDos.Draw(lightingShader);
-
-		////PASTEL VITRINA
-		//PlatoPastel.Draw(lightingShader);
-		//Pastel_RebanadaUno.Draw(lightingShader);
-		////Pastel_RebanadaDos.Draw(lightingShader);
-		///*Pastel_RebanadaTres.Draw(lightingShader);
-		//Pastel_RebanadaCuatro.Draw(lightingShader);
-		//Pastel_RebanadaCinco.Draw(lightingShader);
-		//Pastel_RebanadaSeis.Draw(lightingShader);*/
-
-		//CharolaUno.Draw(lightingShader);
-		//CharolaDos.Draw(lightingShader);
-		//CharolaTres.Draw(lightingShader);
-
-
-		//Croissant1.Draw(lightingShader);
-		//Croissant2.Draw(lightingShader);
-		//Croissant3.Draw(lightingShader);
-		///*Croissant4.Draw(lightingShader);
-		//Croissant5.Draw(lightingShader);
-		//Croissant6.Draw(lightingShader);
-		//Croissant7.Draw(lightingShader);
-		//Croissant8.Draw(lightingShader);
-		//Croissant9.Draw(lightingShader);*/
-
-		//cinnamon1.Draw(lightingShader);
-		//cinnamon2.Draw(lightingShader);
-		//cinnamon3.Draw(lightingShader);
-		///*cinnamon4.Draw(lightingShader);
-		//cinnamon5.Draw(lightingShader);
-		//cinnamon6.Draw(lightingShader);
-		//cinnamon7.Draw(lightingShader);*/
-
-		//pan1.Draw(lightingShader);
-		//pan2.Draw(lightingShader);
-		///*pan3.Draw(lightingShader);
-		//pan4.Draw(lightingShader);
-		//pan5.Draw(lightingShader);*/
-
-
-
-
-		////FocosMenu.Draw(lightingShader);
-		//Menu.Draw(lightingShader);
-
-		//model = glm::mat4(1);
-		//model = glm::translate(model, glm::vec3(0.0f, 6.0f, 4.0f));
-		//model = glm::translate(model, glm::vec3(-4.806f, 1.770f, -0.111f));
-		////model = glm::rotate(model, glm::radians(angLlaveFreg), glm::vec3(0.0f, 1.0f, 0.0f)); // Rotar en el eje Y
-		//glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
-		//LlaveFregadero.Draw(lightingShader);
 		//glBindVertexArray(0);
 
 
