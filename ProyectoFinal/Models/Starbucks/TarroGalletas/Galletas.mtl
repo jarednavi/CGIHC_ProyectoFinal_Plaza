@@ -1,0 +1,195 @@
+newmtl FachadaFinal_lambert30SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancel.jpg
+Ni 1.00
+newmtl FachadaFinal_lambert33SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksLogo2.jpg
+Ni 1.00
+newmtl FachadaFinal_lambert40SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LogoCancel3.jpg
+Ni 1.00
+newmtl FachadaFinal_lambert41SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancelAlreves.jpg
+Ni 1.00
+newmtl FachadaFinal_lambert42SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancelAlreves.jpg
+Ni 1.00
+newmtl FachadaFinal_pasted__lambert28SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negroCancel.jpg
+Ni 1.00
+newmtl Galletas_TarroGalletas_lambert2SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oat_Cakes_Base_Color.png
+Ni 1.00
+newmtl Galletas_TarroGalletas_lambert2SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oat_Cakes_Base_Color.png
+Ni 1.00
+newmtl Galletas_TarroGalletas_lambert2SG28
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oat_Cakes_Base_Color.png
+Ni 1.00
+newmtl Galletas_TarroGalletas_lambert2SG30
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oat_Cakes_Base_Color.png
+Ni 1.00
+newmtl Galletas_TarroGalletas_lambert2SG32
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oat_Cakes_Base_Color.png
+Ni 1.00
+newmtl Galletas_TarroGalletas_lambert2SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oat_Cakes_Base_Color.png
+Ni 1.00
+newmtl TarroGalletas_lambert2SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oat_Cakes_Base_Color.png
+Ni 1.00
+newmtl TarroGalletas_lambert2SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oat_Cakes_Base_Color.png
+Ni 1.00
+newmtl TarroGalletas_lambert2SG28
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oat_Cakes_Base_Color.png
+Ni 1.00
+newmtl TarroGalletas_lambert2SG30
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oat_Cakes_Base_Color.png
+Ni 1.00
+newmtl TarroGalletas_lambert2SG32
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oat_Cakes_Base_Color.png
+Ni 1.00
+newmtl TarroGalletas_lambert2SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oat_Cakes_Base_Color.png
+Ni 1.00
+newmtl TarroGalletas_palmLeafy3LeafShaderSG4
+illum 4
+Kd 0.07 0.07 0.07
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.32 0.28
+Ns 14.36
+newmtl TarroGalletas_pasted__aiStandardSurface5SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__FachadaFinal_lambert30SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancel.jpg
+Ni 1.00
+newmtl pasted__FachadaFinal_lambert33SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksLogo2.jpg
+Ni 1.00
+newmtl pasted__FachadaFinal_lambert40SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LogoCancel3.jpg
+Ni 1.00
+newmtl pasted__FachadaFinal_lambert41SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancelAlreves.jpg
+Ni 1.00
+newmtl pasted__FachadaFinal_lambert42SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancelAlreves.jpg
+Ni 1.00
+newmtl pasted__FachadaFinal_pasted__lambert28SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negroCancel.jpg
+Ni 1.00
+newmtl pasted__puertas_FachadaFinal_lambert30SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancel.png
+Ni 1.00

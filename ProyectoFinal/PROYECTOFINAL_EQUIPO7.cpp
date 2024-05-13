@@ -190,8 +190,104 @@ int main(){
 
 	//----------------------------------------------------------------STARBUCKS
 
+	//Model PisoStarbucks((char*)"Models/Modelos/Fachada_Menu/Piso2.obj");
+	//Model Fachada((char*)"Models/Modelos/Fachada/FachadaFinal.obj");
+	//Model Banca((char*)"Models/Modelos/BancaPrueba/BancaPrueba.obj");
+
+	//Model Menu((char*)"Models/Modelos/Fachada/Menu.obj");
+	//Model FocosMenu((char*)"Models/Modelos/Fachada/FocosMenu.obj");
+
+	//Model PlantaUno((char*)"Models/Modelos/Plantas/PlantaUno.obj");
+	//Model PlantaDos((char*)"Models/Modelos/Plantas/PlantaDos.obj");
+	//Model PlantaTres((char*)"Models/Modelos/Plantas/PlantaTres.obj");
+
+	//Model CajaR((char*)"Models/Modelos/Barras/CajaR.obj");
+	//Model Vitrina((char*)"Models/Modelos/VitrinaDos/Vitrina.obj");
+	//Model Vidrio((char*)"Models/Modelos/VitrinaDos/Vidrios.obj");
+	//Model puertas((char*)"Models/Modelos/Fachada_Menu/puertas.obj");
+	//Model puertaUno((char*)"Models/Modelos/Fachada_Menu/puertaUno.obj");
+	//Model puertaDos((char*)"Models/Modelos/Fachada_Menu/puertados.obj");
+	//Model puertaTres((char*)"Models/Modelos/Fachada_Menu/puertaTres.obj");
+	//Model puertaCuatro((char*)"Models/Modelos/Fachada_Menu/puertaCuatro.obj");
+	//Model cafetera((char*)"Models/Modelos/Cafeteras/CafeteraAnim.obj");
+	//Model CafeteraDos((char*)"Models/Modelos/Cafeteras/Cafeteras.obj");
+	//Model Taza((char*)"Models/Modelos/Cafeteras/Taza.obj");
+	//Model BarraPrin((char*)"Models/Modelos/Barras/BarraPrincipal.obj");
+	//Model BarraTrastes((char*)"Models/Modelos/Barras/BarraTrastes.obj");
+	//Model BarraFregadero((char*)"Models/Modelos/Barras/BarraFreg.obj");
+	//Model LlaveFregadero((char*)"Models/Modelos/Barras/LlaveFreg.obj");
+	//Model ManijaFregadero((char*)"Models/Modelos/Barras/ManijaFreg.obj");
+	//Model BarraVasos((char*)"Models/Modelos/Barras/BarraVasos.obj");
+	//Model VasoStarUno((char*)"Models/Modelos/Barras/VasoStarUno.obj");
+	//Model VasoStarDos((char*)"Models/Modelos/Barras/VasoStarDos.obj");
+	//Model VasoStarTres((char*)"Models/Modelos/Barras/VasoStarTres.obj");
+
+	//Model Tarro((char*)"Models/Modelos/VitrinaDos/TarroSolo2.obj");
+	//Model TapaTarro((char*)"Models/Modelos/VitrinaDos/TapaF.obj");
+	//Model GalletaUno((char*)"Models/Modelos/TarroGalletas/GalletaUno.obj");
+	//Model GalletaDos((char*)"Models/Modelos/TarroGalletas/GalletasDos.obj");
+	//Model GalletaTres((char*)"Models/Modelos/TarroGalletas/GalletaTres.obj");
+	//Model GalletaCuatro((char*)"Models/Modelos/TarroGalletas/GalletaCuatro.obj");
+	//Model GalletaCinco((char*)"Models/Modelos/TarroGalletas/GalletaCinco.obj");
+	//Model GalletaSeis((char*)"Models/Modelos/TarroGalletas/GalletaSeis.obj");
+
+	//Model MesaUno((char*)"Models/Modelos/Mesas/MesaUno.obj");
+	//Model SillasT_DerUno((char*)"Models/Modelos/Mesas/SillasT_DerUno.obj");
+	//Model SillasD_DerUno((char*)"Models/Modelos/Mesas/SillasD_DerUno.obj");
+	//Model SillasT_IzqUno((char*)"Models/Modelos/Mesas/SillasT_IzqUno.obj");
+	//Model SillasD_IzqUno((char*)"Models/Modelos/Mesas/SillasD_IzqUno.obj");
+	//Model SillaSola_MesaUno((char*)"Models/Modelos/Mesas/SillaSola_MesaUno.obj");
+	//Model CafeMesaUno((char*)"Models/Modelos/Mesas/CafeMesaUno.obj");
 
 
+	//Model MesaDos((char*)"Models/Modelos/Mesas/MesaDos.obj");
+	//Model SillasT_DerDos((char*)"Models/Modelos/Mesas/SillasT_DerDos.obj");
+	//Model SillasD_DerDos((char*)"Models/Modelos/Mesas/SillasD_DerDos.obj");
+	//Model SillasT_IzqDos((char*)"Models/Modelos/Mesas/SillasT_IzqDos.obj");
+	//Model SillasD_IzqDos((char*)"Models/Modelos/Mesas/SillasD_IzqDos.obj");
+	//Model CafeMesaDos((char*)"Models/Modelos/Mesas/CafeMesaDos.obj");
+
+	//Model Malteada((char*)"Models/Modelos/Postres/Malteada.obj");
+	//Model PastelBarra((char*)"Models/Modelos/Postres/PastelBarra.obj");
+
+	//Model Pastel((char*)"Models/Modelos/VitrinaDos/Pastel.obj");
+	//Model PastelDos((char*)"Models/Modelos/VitrinaDos/Pastel2.obj");
+
+	////PASTELES VITRINA
+	//Model PlatoPastel((char*)"Models/Modelos/Postres/PlatoPastel.obj");
+	//Model Pastel_RebanadaUno((char*)"Models/Modelos/Postres/Pastel_Rebanada1.obj");
+	//Model Pastel_RebanadaDos((char*)"Models/Modelos/Postres/Pastel_Rebanada2.obj");
+	//Model Pastel_RebanadaTres((char*)"Models/Modelos/Postres/Pastel_Rebanada3.obj");
+	//Model Pastel_RebanadaCuatro((char*)"Models/Modelos/Postres/Pastel_Rebanada4.obj");
+	//Model Pastel_RebanadaCinco((char*)"Models/Modelos/Postres/Pastel_Rebanada5.obj");
+	//Model Pastel_RebanadaSeis((char*)"Models/Modelos/Postres/Pastel_Rebanada6.obj");
+
+	//Model CharolaUno((char*)"Models/Modelos/Postres/CharolaUno.obj");
+	//Model Croissant1((char*)"Models/Modelos/Postres/Croissant1.obj");
+	//Model Croissant2((char*)"Models/Modelos/Postres/Croissant2.obj");
+	//Model Croissant3((char*)"Models/Modelos/Postres/Croissant3.obj");
+	//Model Croissant4((char*)"Models/Modelos/Postres/Croissant4.obj");
+	//Model Croissant5((char*)"Models/Modelos/Postres/Croissant5.obj");
+	//Model Croissant6((char*)"Models/Modelos/Postres/Croissant6.obj");
+	//Model Croissant7((char*)"Models/Modelos/Postres/Croissant7.obj");
+	//Model Croissant8((char*)"Models/Modelos/Postres/Croissant8.obj");
+	//Model Croissant9((char*)"Models/Modelos/Postres/Croissant9.obj");
+
+	//Model CharolaDos((char*)"Models/Modelos/Postres/CharolaDos.obj");
+	//Model cinnamon1((char*)"Models/Modelos/Postres/cinnamon1.obj");
+	//Model cinnamon2((char*)"Models/Modelos/Postres/cinnamon2.obj");
+	//Model cinnamon3((char*)"Models/Modelos/Postres/cinnamon3.obj");
+	//Model cinnamon4((char*)"Models/Modelos/Postres/cinnamon4.obj");
+	//Model cinnamon5((char*)"Models/Modelos/Postres/cinnamon5.obj");
+	//Model cinnamon6((char*)"Models/Modelos/Postres/cinnamon6.obj");
+	//Model cinnamon7((char*)"Models/Modelos/Postres/cinnamon7.obj");
+
+	//Model CharolaTres((char*)"Models/Modelos/Postres/CharolaTres.obj");
+	//Model pan1((char*)"Models/Modelos/Postres/pan1.obj");
+	//Model pan2((char*)"Models/Modelos/Postres/pan2.obj");
+	//Model pan3((char*)"Models/Modelos/Postres/pan3.obj");
+	//Model pan4((char*)"Models/Modelos/Postres/pan4.obj");
+	//Model pan5((char*)"Models/Modelos/Postres/pan5.obj");
 
 
 	//----------------------------------------------------------------PIZZERIA
@@ -207,7 +303,7 @@ int main(){
 
 	//--------------------------------------------------------------------BAÑOS
 
-	Model Baños((char*)"Models/Baños/baños.obj");
+	Model Baños((char*)"Models/Baños/Baños.obj");
 
 
 
@@ -473,9 +569,9 @@ int main(){
 		glBindVertexArray(VAO);
 		glm::mat4 tmp = glm::mat4(1.0f); //Temp
 
-	    //**********************                             ************************
-	    //**********************D I B U J A R   M O D E L O S************************
-	    //**********************                             ************************
+	    //**********************                               ************************
+	    //********************** D I B U J A R   M O D E L O S ************************
+	    //**********************                               ************************
 		
 		//------------------------------------------------------------------FACHADA
 		glm::mat4 model(1);
@@ -612,7 +708,12 @@ int main(){
 
 		//--------------------------------------------------------------------BAÑOS
 		
-
+		model = glm::mat4(1);
+		/*model = glm::translate(glm::mat4(1.0), glm::vec3(-4.560f, 0.460f, -3.042f));
+		model = glm::scale(model, glm::vec3(0.804f, 0.804f, 0.804f));*/
+		//glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTrasparencia"), 0);
+		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		Baños.Draw(lightingShader);
 
 
 
