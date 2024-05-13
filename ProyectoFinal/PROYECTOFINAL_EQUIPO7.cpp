@@ -81,28 +81,27 @@ float angLlaveFreg = 0;
 bool animCinco = false;
 bool movLlaveFreg = true;
 
-// Keyframes
-float posX = PosIni.x, posY = PosIni.y, posZ = PosIni.z, rotRodIzq = 0;
-
-#define MAX_FRAMES 9
-int i_max_steps = 190;
-int i_curr_steps = 0;
-typedef struct _frame
-{
-	//Variables para GUARDAR Key Frames
-	float posX;		//Variable para PosicionX
-	float posY;		//Variable para PosicionY
-	float posZ;		//Variable para PosicionZ
-	float incX;		//Variable para IncrementoX
-	float incY;		//Variable para IncrementoY
-	float incZ;		//Variable para IncrementoZ
-
-}FRAME;
-
-FRAME KeyFrame[MAX_FRAMES];
-int FrameIndex = 0;			//introducir datos
-bool play = false;
-int playIndex = 0;
+//// Keyframes
+//
+//#define MAX_FRAMES 9
+//int i_max_steps = 190;
+//int i_curr_steps = 0;
+//typedef struct _frame
+//{
+//	//Variables para GUARDAR Key Frames
+//	float posX;		//Variable para PosicionX
+//	float posY;		//Variable para PosicionY
+//	float posZ;		//Variable para PosicionZ
+//	float incX;		//Variable para IncrementoX
+//	float incY;		//Variable para IncrementoY
+//	float incZ;		//Variable para IncrementoZ
+//
+//}FRAME;
+//
+//FRAME KeyFrame[MAX_FRAMES];
+//int FrameIndex = 0;			//introducir datos
+//bool play = false;
+//int playIndex = 0;
 
 
 // Light attributes
@@ -111,7 +110,7 @@ float desPuerta = 0.0f;
 bool abrirDoor = false;
 float movEsfera = 0.0f;
 bool usarFuerza = false;
-glm::vec3 PosIni(-95.0f, 1.0f, -45.0f);
+//glm::vec3 PosIni(-95.0f, 1.0f, -45.0f);
 
 
 //VECTORES DE LUCES--------------------------
@@ -129,7 +128,7 @@ glm::vec3 pointLightPositions[] = {
 	glm::vec3(18.3f,5.6f,0.7f),
 	glm::vec3(18.3f,5.6f,4.9f),
 	glm::vec3(18.5f,3.7f,0.7f),
-	glm::vec3(posX, posY, posZ)
+	//glm::vec3(posX, posY, posZ)
 
 };
 
@@ -295,12 +294,12 @@ int main(){
 
 	Model Tarro((char*)"Models/Starbucks/VitrinaDos/TarroSolo2.obj");
 	Model TapaTarro((char*)"Models/Starbucks/VitrinaDos/TapaF.obj");
-	Model GalletaUno((char*)"Models/Starbucks/TarroGalletas/GalletaUno.obj");
+	/*Model GalletaUno((char*)"Models/Starbucks/TarroGalletas/GalletaUno.obj");
 	Model GalletaDos((char*)"Models/Starbucks/TarroGalletas/GalletasDos.obj");
 	Model GalletaTres((char*)"Models/Starbucks/TarroGalletas/GalletaTres.obj");
 	Model GalletaCuatro((char*)"Models/Starbucks/TarroGalletas/GalletaCuatro.obj");
 	Model GalletaCinco((char*)"Models/Starbucks/TarroGalletas/GalletaCinco.obj");
-	Model GalletaSeis((char*)"Models/Starbucks/TarroGalletas/GalletaSeis.obj");
+	Model GalletaSeis((char*)"Models/Starbucks/TarroGalletas/GalletaSeis.obj");*/
 
 	Model MesaUno((char*)"Models/Starbucks/Mesas/MesaUno.obj");
 	Model SillasT_DerUno((char*)"Models/Starbucks/Mesas/SillasT_DerUno.obj");
@@ -379,13 +378,13 @@ int main(){
 
 	//Inicialización de KeyFrames
 
-	for (int i = 0; i < MAX_FRAMES; i++)
+	/*for (int i = 0; i < MAX_FRAMES; i++)
 	{
 		KeyFrame[i].posX = 0;
 		KeyFrame[i].incX = 0;
 		KeyFrame[i].incY = 0;
 		KeyFrame[i].incZ = 0;
-	}
+	}*/
 
 	// Set up vertex data (and buffer(s)) and attribute pointers
 	GLfloat vertices[] ={
@@ -866,7 +865,7 @@ int main(){
 		glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
 		glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
 		model = glm::mat4(1);
-		model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0); //Activacion de trasparencia
 		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 100.0);//Nivel de trasparecia con valor en color alpha
@@ -885,7 +884,7 @@ int main(){
 		glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
 		glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
 		model = glm::mat4(1);
-		model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 1);//Activacion de trasparencia
 		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 0.8);//Nivel de trasparecia con valor en color alpha
@@ -899,7 +898,7 @@ int main(){
 		glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
 		glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
 		model = glm::mat4(1);
-		model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
 		model = glm::translate(model, glm::vec3(2.365f, 1.712f, 7.516f));
 		model = glm::rotate(model, glm::radians(-abrir), glm::vec3(0.0f, 1.0f, 0.0f));
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
@@ -914,7 +913,7 @@ int main(){
 		glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
 		glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
 		model = glm::mat4(1);
-		model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
 		model = glm::translate(model, glm::vec3(-2.455f, 1.671f, 7.468f));
 		model = glm::rotate(model, glm::radians(abrir), glm::vec3(0.0f, 1.0f, 0.0f));
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
@@ -930,7 +929,7 @@ int main(){
 		glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
 		glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
 		model = glm::mat4(1);
-		model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
 		model = glm::translate(model, glm::vec3(-2.48f, 1.658f, -7.475f));
 		model = glm::rotate(model, glm::radians(abrirDos), glm::vec3(0.0f, 1.0f, 0.0f));
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
@@ -945,7 +944,7 @@ int main(){
 		glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
 		glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
 		model = glm::mat4(1);
-		model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
 		model = glm::translate(model, glm::vec3(2.314f, 1.671f, -7.452f));
 		model = glm::rotate(model, glm::radians(-abrirDos), glm::vec3(0.0f, 1.0f, 0.0f));
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
@@ -959,7 +958,7 @@ int main(){
 		glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
 		glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
 		model = glm::mat4(1);
-		model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 1);//Activacion de trasparencia
 		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 0.8);//Nivel de trasparecia con valor en color alpha
@@ -973,7 +972,7 @@ int main(){
 		glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
 		glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
 		model = glm::mat4(1);
-		model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
 		//model = glm::translate(model, glm::vec3(-4.435f, 2.128f, 3.952f));
 		model = glm::rotate(model, glm::radians(vibrar), glm::vec3(0.0f, 1.0f, 1.0f));
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
@@ -987,7 +986,7 @@ int main(){
 		glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
 		glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
 		model = glm::mat4(1);
-		model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
 		model = glm::translate(model, glm::vec3(-4.228f, 1.925f, 3.96f));
 		model = glm::translate(model, glm::vec3(-x, -y, z));
 		model = glm::rotate(model, glm::radians(-TazaR), glm::vec3(0.0f, 0.0f, 1.0f));
@@ -1003,7 +1002,7 @@ int main(){
 		glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
 		glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
 		model = glm::mat4(1);
-		model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
 		model = glm::translate(model, glm::vec3(-1.837f, 2.277f, -2.195f));
 		model = glm::rotate(model, glm::radians(TarroR), glm::vec3(1.0f, 0.0f, 0.0f));
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
@@ -1019,7 +1018,7 @@ int main(){
 		glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
 		glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
 		model = glm::mat4(1);
-		model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
 		model = glm::translate(model, glm::vec3(-1.836f, 2.431f, -2.179f));
 		model = glm::translate(model, glm::vec3(xT, -yT, -zT));
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
@@ -1032,95 +1031,95 @@ int main(){
 		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
 		glBindVertexArray(0);
 
-		glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
-		glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
-		model = glm::mat4(1);
-		model = glm::translate(model, glm::vec3(posX, posY, posZ));
-		model = glm::translate(model, glm::vec3(-1.832, 2.172f, -2.195));
-		model = glm::translate(model, glm::vec3(xGU, -yGU, -zGU));
-		model = glm::rotate(model, glm::radians(rGU), glm::vec3(1.0f, 0.0f, 0.0f));
-		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
-		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);//Activacion de trasparencia
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 100.0);//Nivel de trasparecia con valor en color alpha
-		GalletaUno.Draw(lightingShader);
-		glDisable(GL_BLEND);  //Desactiva el canal alfa 
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
-		glBindVertexArray(0);
+		//glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
+		//glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
+		//model = glm::mat4(1);
+		////model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		//model = glm::translate(model, glm::vec3(-1.832, 2.172f, -2.195));
+		//model = glm::translate(model, glm::vec3(xGU, -yGU, -zGU));
+		//model = glm::rotate(model, glm::radians(rGU), glm::vec3(1.0f, 0.0f, 0.0f));
+		//glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		//glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);//Activacion de trasparencia
+		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 100.0);//Nivel de trasparecia con valor en color alpha
+		//GalletaUno.Draw(lightingShader);
+		//glDisable(GL_BLEND);  //Desactiva el canal alfa 
+		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
+		//glBindVertexArray(0);
 
-		glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
-		glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
-		model = glm::mat4(1);
-		model = glm::translate(model, glm::vec3(posX, posY, posZ));
-		model = glm::translate(model, glm::vec3(-1.832, 2.191f, -2.195));
-		model = glm::translate(model, glm::vec3(xGD, -yGD, -zGD));
-		model = glm::rotate(model, glm::radians(rGD), glm::vec3(1.0f, 0.0f, 0.0f));
-		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
-		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);//Activacion de trasparencia
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 100.0);//Nivel de trasparecia con valor en color alpha
-		GalletaDos.Draw(lightingShader);
-		glDisable(GL_BLEND);  //Desactiva el canal alfa 
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
-		glBindVertexArray(0);
+		//glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
+		//glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
+		//model = glm::mat4(1);
+		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		//model = glm::translate(model, glm::vec3(-1.832, 2.191f, -2.195));
+		//model = glm::translate(model, glm::vec3(xGD, -yGD, -zGD));
+		//model = glm::rotate(model, glm::radians(rGD), glm::vec3(1.0f, 0.0f, 0.0f));
+		//glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		//glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);//Activacion de trasparencia
+		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 100.0);//Nivel de trasparecia con valor en color alpha
+		//GalletaDos.Draw(lightingShader);
+		//glDisable(GL_BLEND);  //Desactiva el canal alfa 
+		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
+		//glBindVertexArray(0);
 
-		glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
-		glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
-		model = glm::mat4(1);
-		model = glm::translate(model, glm::vec3(posX, posY, posZ));
-		model = glm::translate(model, glm::vec3(-1.832, 2.21f, -2.195));
-		model = glm::translate(model, glm::vec3(xGT, -yGT, -zGT));
-		model = glm::rotate(model, glm::radians(rGT), glm::vec3(1.0f, 0.0f, 0.0f));
-		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
-		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);//Activacion de trasparencia
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 100.0);//Nivel de trasparecia con valor en color alpha
-		GalletaTres.Draw(lightingShader);
-		glDisable(GL_BLEND);  //Desactiva el canal alfa 
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
-		glBindVertexArray(0);
+		//glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
+		//glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
+		//model = glm::mat4(1);
+		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		//model = glm::translate(model, glm::vec3(-1.832, 2.21f, -2.195));
+		//model = glm::translate(model, glm::vec3(xGT, -yGT, -zGT));
+		//model = glm::rotate(model, glm::radians(rGT), glm::vec3(1.0f, 0.0f, 0.0f));
+		//glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		//glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);//Activacion de trasparencia
+		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 100.0);//Nivel de trasparecia con valor en color alpha
+		//GalletaTres.Draw(lightingShader);
+		//glDisable(GL_BLEND);  //Desactiva el canal alfa 
+		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
+		//glBindVertexArray(0);
 
-		glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
-		glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
-		model = glm::mat4(1);
-		model = glm::translate(model, glm::vec3(posX, posY, posZ));
-		model = glm::translate(model, glm::vec3(-1.832, 2.229f, -2.195));
-		model = glm::translate(model, glm::vec3(xGC, -yGC, -zGC));
-		model = glm::rotate(model, glm::radians(rGC), glm::vec3(1.0f, 0.0f, 0.0f));
-		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
-		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);//Activacion de trasparencia
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 100.0);//Nivel de trasparecia con valor en color alpha
-		GalletaCuatro.Draw(lightingShader);
-		glDisable(GL_BLEND);  //Desactiva el canal alfa 
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
-		glBindVertexArray(0);
+		//glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
+		//glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
+		//model = glm::mat4(1);
+		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		//model = glm::translate(model, glm::vec3(-1.832, 2.229f, -2.195));
+		//model = glm::translate(model, glm::vec3(xGC, -yGC, -zGC));
+		//model = glm::rotate(model, glm::radians(rGC), glm::vec3(1.0f, 0.0f, 0.0f));
+		//glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		//glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);//Activacion de trasparencia
+		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 100.0);//Nivel de trasparecia con valor en color alpha
+		//GalletaCuatro.Draw(lightingShader);
+		//glDisable(GL_BLEND);  //Desactiva el canal alfa 
+		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
+		//glBindVertexArray(0);
 
-		glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
-		glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
-		model = glm::mat4(1);
-		model = glm::translate(model, glm::vec3(posX, posY, posZ));
-		model = glm::translate(model, glm::vec3(-1.832, 2.248f, -2.195));
-		model = glm::translate(model, glm::vec3(xGCI, -yGCI, -zGCI));
-		model = glm::rotate(model, glm::radians(rGCI), glm::vec3(1.0f, 0.0f, 0.0f));
-		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
-		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);//Activacion de trasparencia
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 100.0);//Nivel de trasparecia con valor en color alpha
-		GalletaCinco.Draw(lightingShader);
-		glDisable(GL_BLEND);  //Desactiva el canal alfa 
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
-		glBindVertexArray(0);
+		//glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
+		//glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
+		//model = glm::mat4(1);
+		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		//model = glm::translate(model, glm::vec3(-1.832, 2.248f, -2.195));
+		//model = glm::translate(model, glm::vec3(xGCI, -yGCI, -zGCI));
+		//model = glm::rotate(model, glm::radians(rGCI), glm::vec3(1.0f, 0.0f, 0.0f));
+		//glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		//glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);//Activacion de trasparencia
+		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 100.0);//Nivel de trasparecia con valor en color alpha
+		//GalletaCinco.Draw(lightingShader);
+		//glDisable(GL_BLEND);  //Desactiva el canal alfa 
+		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
+		//glBindVertexArray(0);
 
-		glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
-		glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
-		model = glm::mat4(1);
-		model = glm::translate(model, glm::vec3(posX, posY, posZ));
-		model = glm::translate(model, glm::vec3(-1.832, 2.267f, -2.195));
-		model = glm::translate(model, glm::vec3(xGS, -yGS, -zGS));
-		model = glm::rotate(model, glm::radians(rGS), glm::vec3(1.0f, 0.0f, 0.0f));
-		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
-		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);//Activacion de trasparencia
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 100.0);//Nivel de trasparecia con valor en color alpha
-		GalletaSeis.Draw(lightingShader);
-		glDisable(GL_BLEND);  //Desactiva el canal alfa 
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
-		glBindVertexArray(0);
+		//glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
+		//glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
+		//model = glm::mat4(1);
+		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		//model = glm::translate(model, glm::vec3(-1.832, 2.267f, -2.195));
+		//model = glm::translate(model, glm::vec3(xGS, -yGS, -zGS));
+		//model = glm::rotate(model, glm::radians(rGS), glm::vec3(1.0f, 0.0f, 0.0f));
+		//glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		//glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);//Activacion de trasparencia
+		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 100.0);//Nivel de trasparecia con valor en color alpha
+		//GalletaSeis.Draw(lightingShader);
+		//glDisable(GL_BLEND);  //Desactiva el canal alfa 
+		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
+		//glBindVertexArray(0);
 
 
 
