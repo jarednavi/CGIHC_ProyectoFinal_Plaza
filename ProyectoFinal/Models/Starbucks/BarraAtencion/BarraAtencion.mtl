@@ -1,0 +1,2547 @@
+newmtl Bench_Duet_obj:Bench_Duet_obj:lambert19SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd carton.jpg
+Ni 1.00
+newmtl Bench_Duet_obj:Bench_Duet_obj:lambert22SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+newmtl Bench_Duet_obj:Bench_Duet_obj:lambert23SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:wire_000000000
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj2:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:wire_000000000
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj2:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:kitchenObj:palmLeafy3LeafShaderSG
+illum 4
+Kd 0.07 0.07 0.07
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.32 0.28
+Ns 14.36
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj2:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:wire_000000000
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj3:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj2:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:wire_000000000
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj3:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj2:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:kitchenObj:palmLeafy3LeafShaderSG
+illum 4
+Kd 0.07 0.07 0.07
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.32 0.28
+Ns 14.36
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj4:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:wire_000000000
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj4:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj2:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:wire_000000000
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj4:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj2:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:kitchenObj:palmLeafy3LeafShaderSG
+illum 4
+Kd 0.07 0.07 0.07
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.32 0.28
+Ns 14.36
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj4:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj2:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:wire_000000000
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj4:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj3:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj2:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:wire_000000000
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj4:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj3:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj2:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:kitchenObj:palmLeafy3LeafShaderSG
+illum 4
+Kd 0.07 0.07 0.07
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.32 0.28
+Ns 14.36
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj4:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:kitchenObj:palmLeafy3LeafShaderSG
+illum 4
+Kd 0.07 0.07 0.07
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.32 0.28
+Ns 14.36
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj4:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:kitchenObj2:palmLeafy3LeafShaderSG
+illum 4
+Kd 0.07 0.07 0.07
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.32 0.28
+Ns 14.36
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj4:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:wire_000000000
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj5:MesaDos1:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj6:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:wire_000000000
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj6:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj2:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:wire_000000000
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj6:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj2:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:kitchenObj:palmLeafy3LeafShaderSG
+illum 4
+Kd 0.07 0.07 0.07
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.32 0.28
+Ns 14.36
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj6:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj2:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:wire_000000000
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj6:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj3:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj2:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:wire_000000000
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj6:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj3:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj2:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:kitchenObj:palmLeafy3LeafShaderSG
+illum 4
+Kd 0.07 0.07 0.07
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.32 0.28
+Ns 14.36
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj6:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:kitchenObj:palmLeafy3LeafShaderSG
+illum 4
+Kd 0.07 0.07 0.07
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.32 0.28
+Ns 14.36
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj6:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:kitchenObj2:palmLeafy3LeafShaderSG
+illum 4
+Kd 0.07 0.07 0.07
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.32 0.28
+Ns 14.36
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj6:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:wire_000000000
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj7:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj4:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:wire_000000000
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj7:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj4:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj2:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:wire_000000000
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj7:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj4:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj2:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:kitchenObj:palmLeafy3LeafShaderSG
+illum 4
+Kd 0.07 0.07 0.07
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.32 0.28
+Ns 14.36
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj7:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj4:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj2:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:wire_000000000
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj7:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj4:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj3:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj2:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:wire_000000000
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj7:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj4:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj3:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj2:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:kitchenObj:palmLeafy3LeafShaderSG
+illum 4
+Kd 0.07 0.07 0.07
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.32 0.28
+Ns 14.36
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj7:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj4:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:kitchenObj:palmLeafy3LeafShaderSG
+illum 4
+Kd 0.07 0.07 0.07
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.32 0.28
+Ns 14.36
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj7:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj4:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:kitchenObj2:palmLeafy3LeafShaderSG
+illum 4
+Kd 0.07 0.07 0.07
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.32 0.28
+Ns 14.36
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj7:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj4:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:wire_000000000
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:Bench_Duet_obj7:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:kitchenObj3:palmLeafy3LeafShaderSG
+illum 4
+Kd 0.07 0.07 0.07
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.32 0.28
+Ns 14.36
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:ShowcaseFinal:ShowcaseFinal1:PlantaDos:PlantMonstera001_4KSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd PlantMonstera001_COL_4K_SPECULAR.jpg
+Ni 0.00
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:ShowcaseFinal:ShowcaseFinal1:PlantaDos:PlantMonsteraVase001_4KSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PlantMonsteraVase001_COL_4K_SPECULAR.jpg
+Ni 0.00
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:kitchenObj:palmLeafy3LeafShaderSG
+illum 4
+Kd 0.07 0.07 0.07
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.32 0.28
+Ns 14.36
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:kitchenObj2:palmLeafy3LeafShaderSG
+illum 4
+Kd 0.07 0.07 0.07
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.32 0.28
+Ns 14.36
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:kitchenObj3:palmLeafy3LeafShaderSG
+illum 4
+Kd 0.07 0.07 0.07
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.32 0.28
+Ns 14.36
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:kitchenObj4:palmLeafy3LeafShaderSG
+illum 4
+Kd 0.07 0.07 0.07
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.32 0.28
+Ns 14.36
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:pasted__lambert48SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd TilesSlateSquare001_AO_2K_SPECULAR.jpg
+Ni 1.00
+newmtl Bench_Duet_obj:MesaDos1:Bar_Chair_Cattelan_Italia_Arcadia_Stool:wire_000000000
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+newmtl Bench_Duet_obj:MesaDos1:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+newmtl Bench_Duet_obj:blinn1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl Bench_Duet_obj:kitchenObj:palmLeafy3ShaderSG
+illum 4
+Kd 0.38 0.37 0.35
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.06 0.05 0.05
+Ns 14.36
+newmtl Bench_Duet_obj:kitchenObj:palmLeafy4LeafShaderSG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.19 0.17 0.15
+Ns 14.36
+newmtl Bench_Duet_obj:kitchenObj:palmLeafy4ShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+Ks 0.06 0.05 0.05
+Ns 14.36
+newmtl Bench_Duet_obj:lambert1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl Bench_Duet_obj:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl Bench_Duet_obj:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl Bench_Duet_obj:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl Bench_Duet_obj:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl Bench_Duet_obj:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl Bench_Duet_obj:lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl Bench_Duet_obj:lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl Bench_Duet_obj:lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl Bench_Duet_obj:lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl Bench_Duet_obj:lambert13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl Bench_Duet_obj:lambert14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl Bench_Duet_obj:lambert16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl Bench_Duet_obj:lambert18SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Bench_Duet_latte_art.jpg
+Ni 1.00
+newmtl Bench_Duet_obj:lambert19SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd carton.png
+Ni 1.00
+newmtl Bench_Duet_obj:pasted__lambert48SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd TilesSlateSquare001_AO_2K_SPECULAR.png
+Ni 1.00
+newmtl Bench_Duet_obj2:Bench_Duet_obj:lambert23SG
+illum 4
+Kd 0.63 0.63 0.63
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Bench_Duet_obj3:Bench_Duet_obj:lambert21SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ark_coffee.png
+Ni 1.00
+newmtl Bench_Duet_obj3:Bench_Duet_obj:lambert22SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+newmtl Bench_Duet_obj3:Bench_Duet_obj:lambert23SG
+illum 4
+Kd 0.63 0.63 0.63
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Bench_Duet_obj4:Bench_Duet_obj:lambert23SG
+illum 4
+Kd 0.63 0.63 0.63
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Bench_Duet_obj5:Bench_Duet_obj:lambert23SG
+illum 4
+Kd 0.63 0.63 0.63
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl FachadaObj:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaDos.png
+Ni 1.00
+newmtl FachadaObj:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaPino.png
+Ni 1.00
+newmtl FachadaObj:lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LadrilloOscuroUno.png
+Ni 1.00
+newmtl FachadaObj:lambert10SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl FachadaObj:lambert12SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl FachadaObj:lambert14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LadrilloDos.png
+Ni 1.00
+newmtl FachadaObj:lambert18SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl FachadaObj:lambert19SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LadrilloOscuroUno.png
+Ni 1.00
+newmtl FachadaObj:lambert21SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LadrilloDos.png
+Ni 1.00
+newmtl FachadaObj:lambert22SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LadrilloDos.png
+Ni 1.00
+newmtl FachadaObj:lambert23SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LogoBonito.png
+Ni 1.00
+newmtl FachadaObj:lambert26SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LadrilloOscuroUno.png
+Ni 1.00
+newmtl FachadaObj:lambert27SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LadrilloOscuroUno.png
+Ni 1.00
+newmtl FachadaObj:lambert29SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LogoBonito2.png
+Ni 1.00
+newmtl FoodCinnamonRolls001_Maya_Arnold:FoodCinnamonRolls001_2KSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl FoodCinnamonRolls001_Maya_Arnold1:FoodCinnamonRolls001_2KSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl FoodCinnamonRolls001_Maya_Arnold2:FoodCinnamonRolls001_2KSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl FoodCinnamonRolls001_Maya_Arnold3:FoodCinnamonRolls001_2KSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl Picerija:Picerija:lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+newmtl Picerija:Picerija:lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.46 0.46 0.46
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+newmtl Picerija:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menuStarbucks3.jpg
+Ni 1.00
+newmtl Picerija:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menuStarbucks2.jpg
+Ni 1.00
+newmtl Picerija:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Starbucks-Menu.jpg
+Ni 1.00
+newmtl Picerija:lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+newmtl Picerija:lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd WelcomeCaja.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ShowcaseFinal:PlantaDos:PlantMonstera001_4KSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd PlantMonstera001_COL_4K_SPECULAR.jpg
+Ni 0.00
+newmtl ShowcaseFinal:PlantaDos:PlantMonsteraVase001_4KSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PlantMonsteraVase001_COL_4K_SPECULAR.jpg
+Ni 0.00
+newmtl ShowcaseFinal:PlantaTres:PlantSucculentEcheveria001_2KSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PlantSucculentEcheveria001_COL_2K_SPECULAR.jpg
+Ni 0.00
+newmtl ShowcaseFinal:ShowcaseFinal1:PlantaDos:PlantMonstera001_4KSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd PlantMonstera001_COL_4K_SPECULAR.jpg
+Ni 0.00
+newmtl ShowcaseFinal:ShowcaseFinal1:PlantaDos:PlantMonsteraVase001_4KSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PlantMonsteraVase001_COL_4K_SPECULAR.jpg
+Ni 0.00
+newmtl ShowcaseFinal:StrBucks:Paint_Black
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.37 0.37 0.37
+Ns 64.00
+newmtl ShowcaseFinal:StrBucks:Plastic_Black
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.22 0.22 0.22
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+Ks 0.60 0.60 0.60
+Ns 22.63
+newmtl ShowcaseFinal:StrBucks:Plastic_Text
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Text.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl ShowcaseFinal:StrBucks:Polypropylene__PP_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+map_Kd Text.png
+Ni 1.00
+Ks 0.37 0.37 0.37
+Ns 64.00
+newmtl ShowcaseFinal:StrBucks:Wh
+illum 4
+Kd 0.02 0.02 0.02
+Ka 0.02 0.02 0.02
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.36 0.36 0.36
+Ns 64.00
+newmtl ShowcaseFinal:lambert1SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl ShowcaseFinal:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancel.png
+Ni 1.00
+newmtl ShowcaseFinal:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+newmtl ShowcaseFinal:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd indoor_plant_2_COL.jpg
+Ni 1.00
+newmtl ShowcaseFinal:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PantallaCaja.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl ShowcaseFinal3:StrBucks:Paint_Black
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.37 0.37 0.37
+Ns 64.00
+newmtl ShowcaseFinal3:StrBucks:Plastic_Black
+illum 4
+Kd 0.06 0.06 0.06
+Ka 0.06 0.06 0.06
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.60 0.60 0.60
+Ns 22.63
+newmtl ShowcaseFinal3:StrBucks:Plastic_Text
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Text.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl ShowcaseFinal3:StrBucks:Polypropylene__PP_
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.87 0.87 0.87
+Tf 0.00 0.00 0.00
+Ni 1.00
+Ks 0.37 0.37 0.37
+Ns 64.00
+newmtl ShowcaseFinal3:StrBucks:Wh
+illum 4
+Kd 0.02 0.02 0.02
+Ka 0.02 0.02 0.02
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.36 0.36 0.36
+Ns 64.00
+newmtl ShowcaseFinal4:StrBucks:Paint_Black
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.37 0.37 0.37
+Ns 64.00
+newmtl ShowcaseFinal4:StrBucks:Plastic_Black
+illum 4
+Kd 0.06 0.06 0.06
+Ka 0.06 0.06 0.06
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.60 0.60 0.60
+Ns 22.63
+newmtl ShowcaseFinal4:StrBucks:Plastic_Text
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Text.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl ShowcaseFinal4:StrBucks:Polypropylene__PP_
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.87 0.87 0.87
+Tf 0.00 0.00 0.00
+Ni 1.00
+Ks 0.37 0.37 0.37
+Ns 64.00
+newmtl ShowcaseFinal4:StrBucks:Wh
+illum 4
+Kd 0.02 0.02 0.02
+Ka 0.02 0.02 0.02
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.36 0.36 0.36
+Ns 64.00
+newmtl ShowcaseFinal5:StrBucks:Paint_Black
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.37 0.37 0.37
+Ns 64.00
+newmtl ShowcaseFinal5:StrBucks:Plastic_Black
+illum 4
+Kd 0.06 0.06 0.06
+Ka 0.06 0.06 0.06
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.60 0.60 0.60
+Ns 22.63
+newmtl ShowcaseFinal5:StrBucks:Plastic_Text
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Text.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl ShowcaseFinal5:StrBucks:Polypropylene__PP_
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.87 0.87 0.87
+Tf 0.00 0.00 0.00
+Ni 1.00
+Ks 0.37 0.37 0.37
+Ns 64.00
+newmtl ShowcaseFinal5:StrBucks:Wh
+illum 4
+Kd 0.02 0.02 0.02
+Ka 0.02 0.02 0.02
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.36 0.36 0.36
+Ns 64.00
+newmtl ShowcaseFinal6:StrBucks:Paint_Black
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.37 0.37 0.37
+Ns 64.00
+newmtl ShowcaseFinal6:StrBucks:Plastic_Black
+illum 4
+Kd 0.06 0.06 0.06
+Ka 0.06 0.06 0.06
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.60 0.60 0.60
+Ns 22.63
+newmtl ShowcaseFinal6:StrBucks:Plastic_Text
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Text.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl ShowcaseFinal6:StrBucks:Polypropylene__PP_
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.87 0.87 0.87
+Tf 0.00 0.00 0.00
+Ni 1.00
+Ks 0.37 0.37 0.37
+Ns 64.00
+newmtl ShowcaseFinal6:StrBucks:Wh
+illum 4
+Kd 0.02 0.02 0.02
+Ka 0.02 0.02 0.02
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.36 0.36 0.36
+Ns 64.00
+newmtl ShowcaseFinal7:StrBucks:Paint_Black
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.37 0.37 0.37
+Ns 64.00
+newmtl ShowcaseFinal7:StrBucks:Plastic_Black
+illum 4
+Kd 0.06 0.06 0.06
+Ka 0.06 0.06 0.06
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.60 0.60 0.60
+Ns 22.63
+newmtl ShowcaseFinal7:StrBucks:Plastic_Text
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Text.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl ShowcaseFinal7:StrBucks:Polypropylene__PP_
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.87 0.87 0.87
+Tf 0.00 0.00 0.00
+Ni 1.00
+Ks 0.37 0.37 0.37
+Ns 64.00
+newmtl ShowcaseFinal7:StrBucks:Wh
+illum 4
+Kd 0.02 0.02 0.02
+Ka 0.02 0.02 0.02
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.36 0.36 0.36
+Ns 64.00
+newmtl ShowcaseFinal8:StrBucks:Paint_Black
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.37 0.37 0.37
+Ns 64.00
+newmtl ShowcaseFinal8:StrBucks:Plastic_Black
+illum 4
+Kd 0.06 0.06 0.06
+Ka 0.06 0.06 0.06
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.60 0.60 0.60
+Ns 22.63
+newmtl ShowcaseFinal8:StrBucks:Plastic_Text
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Text.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl ShowcaseFinal8:StrBucks:Polypropylene__PP_
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.87 0.87 0.87
+Tf 0.00 0.00 0.00
+Ni 1.00
+Ks 0.37 0.37 0.37
+Ns 64.00
+newmtl ShowcaseFinal8:StrBucks:Wh
+illum 4
+Kd 0.02 0.02 0.02
+Ka 0.02 0.02 0.02
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.36 0.36 0.36
+Ns 64.00
+newmtl ShowcaseFinal11:PlantaTres:PlantSucculentEcheveria001_2KSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PlantSucculentEcheveria001_COL_2K_SPECULAR.jpg
+Ni 0.00
+newmtl ShowcaseFinal12:PlantaTres:PlantSucculentEcheveria001_2KSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PlantSucculentEcheveria001_COL_2K_SPECULAR.jpg
+Ni 0.00
+newmtl TrayRoundRattan002_Maya_Arnold:TrayRoundRattan002_4KSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl aiStandardSurface3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl blinn3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl cinamon_roll_25k1:roll25k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_cinamon_roll25k_Albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl cinamon_roll_25k2:roll25k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_cinamon_roll25k_Albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl coffee_model__corona:wire_006135006
+illum 4
+Kd 0.02 0.53 0.02
+Ka 0.02 0.53 0.02
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl coffee_model__corona1:wire_006135006
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.02 0.53 0.02
+Tf 1.00 1.00 1.00
+map_Kd PlantMonstera001_SSS_4K_SPECULAR.jpg
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl creamHorn1:coffee_model__corona1:wire_006135006
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.02 0.53 0.02
+Tf 1.00 1.00 1.00
+map_Kd PlantMonstera001_SSS_4K_SPECULAR.jpg
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl creamHorn1:kitchenObj10:blinn10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 0.00
+newmtl creamHorn1:kitchenObj10:blinn11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oven_Anisotropy.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl creamHorn1:lambert1SG
+illum 4
+Kd 0.53 0.53 0.53
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl creamHorn1:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ark_coffee.jpg
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:Picerija:Picerija:lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:Picerija:Picerija:lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.46 0.46 0.46
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:Picerija:lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd superficieAmaderada.jpg
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:cinamon_roll_25k1:roll25k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_cinamon_roll25k_Albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:Chocolate_Cake1:croissant5k:lambert1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cake_texture_by_xnickixstockx.jpg
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Marble_ish_by_Iadinea.jpg
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k1:Chocolate_Cake1:croissant5k:lambert1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cake_texture_by_xnickixstockx.jpg
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k1:Chocolate_Cake1:croissant5k:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Marble_ish_by_Iadinea.jpg
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k1:Chocolate_Cake1:th:Material_001
+illum 4
+Kd 0.80 0.06 0.08
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 250.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k1:lambert1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cake_texture_by_xnickixstockx.jpg
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k1:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Marble_ish_by_Iadinea.jpg
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k2:Chocolate_Cake1:croissant5k1:lambert1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cake_texture_by_xnickixstockx.jpg
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k2:Chocolate_Cake1:croissant5k1:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Marble_ish_by_Iadinea.jpg
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k2:Chocolate_Cake1:th1:Material_001
+illum 4
+Kd 0.80 0.06 0.08
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 250.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k2:lambert1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cake_texture_by_xnickixstockx.jpg
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k2:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Marble_ish_by_Iadinea.jpg
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k3:Chocolate_Cake1:croissant5k:lambert1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cake_texture_by_xnickixstockx.jpg
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k3:Chocolate_Cake1:croissant5k:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Marble_ish_by_Iadinea.jpg
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k3:Chocolate_Cake1:croissant5k1:Chocolate_Cake1:croissant5k:lambert1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cake_texture_by_xnickixstockx.jpg
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k3:Chocolate_Cake1:croissant5k1:Chocolate_Cake1:croissant5k:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Marble_ish_by_Iadinea.jpg
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k3:Chocolate_Cake1:croissant5k1:Chocolate_Cake1:th:Material_001
+illum 4
+Kd 0.80 0.06 0.08
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 250.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k3:Chocolate_Cake1:croissant5k1:lambert1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cake_texture_by_xnickixstockx.jpg
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k3:Chocolate_Cake1:croissant5k1:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Marble_ish_by_Iadinea.jpg
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k3:Chocolate_Cake1:croissant5k2:Chocolate_Cake1:croissant5k1:lambert1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cake_texture_by_xnickixstockx.jpg
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k3:Chocolate_Cake1:croissant5k2:Chocolate_Cake1:croissant5k1:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Marble_ish_by_Iadinea.jpg
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k3:Chocolate_Cake1:croissant5k2:Chocolate_Cake1:th1:Material_001
+illum 4
+Kd 0.80 0.06 0.08
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 250.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k3:Chocolate_Cake1:croissant5k2:lambert1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cake_texture_by_xnickixstockx.jpg
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k3:Chocolate_Cake1:croissant5k2:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Marble_ish_by_Iadinea.jpg
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k3:Chocolate_Cake1:th:Material_001
+illum 4
+Kd 0.80 0.06 0.08
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 250.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k3:Chocolate_Cake1:th1:Material_001
+illum 4
+Kd 0.80 0.06 0.08
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 250.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k3:Chocolate_Cake1:th2:Material_001
+illum 4
+Kd 0.80 0.06 0.08
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 250.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k3:lambert1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cake_texture_by_xnickixstockx.jpg
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k3:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Marble_ish_by_Iadinea.jpg
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k4:cinamon_roll_25k1:roll25k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_cinamon_roll25k_Albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:Chocolate_Cake1:croissant5k4:cinamon_roll_25k3:roll25k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_cinamon_roll25k_Albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:Chocolate_Cake1:croissant5k4:cinamon_roll_25k4:roll25k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_cinamon_roll25k_Albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:Chocolate_Cake1:croissant5k4:croissant5k7:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:Chocolate_Cake1:croissant5k4:croissant5k8:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:Chocolate_Cake1:croissant5k4:croissant5k9:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:Chocolate_Cake1:croissant5k4:croissant5k10:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:Chocolate_Cake1:croissant5k4:croissant5k11:croissant5k7:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:Chocolate_Cake1:croissant5k4:croissant5k12:croissant5k7:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:Chocolate_Cake1:croissant5k4:croissant5k13:croissant5k8:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:Chocolate_Cake1:croissant5k4:croissant5k14:croissant5k8:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:Chocolate_Cake1:croissant5k4:croissant5k15:cinamon_roll_25k1:roll25k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_cinamon_roll25k_Albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:Chocolate_Cake1:croissant5k4:croissant5k16:cinamon_roll_25k1:roll25k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_cinamon_roll25k_Albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:Chocolate_Cake1:croissant5k4:croissant5k17:cinamon_roll_25k1:roll25k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_cinamon_roll25k_Albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:Chocolate_Cake1:croissant5k4:croissant5k18:croissant5k15:cinamon_roll_25k1:roll25k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_cinamon_roll25k_Albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:Chocolate_Cake1:croissant5k4:croissant5k19:croissant5k15:cinamon_roll_25k1:roll25k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_cinamon_roll25k_Albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:Chocolate_Cake1:croissant5k4:kitchenObj:palmLeafy3ShaderSG
+illum 4
+Kd 1.00 0.99 0.93
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.06 0.05 0.05
+Ns 14.36
+newmtl croissant5k:Chocolate_Cake1:croissant5k5:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:Chocolate_Cake1:croissant5k6:Chocolate_Cake1:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oat_Cakes_Base_Color.png
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k7:Chocolate_Cake1:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oat_Cakes_Base_Color.png
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k8:Chocolate_Cake1:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oat_Cakes_Base_Color.png
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k9:Chocolate_Cake1:croissant5k6:Chocolate_Cake1:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oat_Cakes_Base_Color.png
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k9:Chocolate_Cake1:croissant5k7:Chocolate_Cake1:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oat_Cakes_Base_Color.png
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k10:Chocolate_Cake1:croissant5k6:Chocolate_Cake1:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oat_Cakes_Base_Color.png
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k10:Chocolate_Cake1:croissant5k7:Chocolate_Cake1:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oat_Cakes_Base_Color.png
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k10:Chocolate_Cake1:croissant5k8:Chocolate_Cake1:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oat_Cakes_Base_Color.png
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k10:Chocolate_Cake1:croissant5k9:Chocolate_Cake1:croissant5k6:Chocolate_Cake1:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oat_Cakes_Base_Color.png
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k10:Chocolate_Cake1:croissant5k9:Chocolate_Cake1:croissant5k7:Chocolate_Cake1:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oat_Cakes_Base_Color.png
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k10:Chocolate_Cake1:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oat_Cakes_Base_Color.png
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k12:Chocolate_Cake1:Picerija:Picerija:lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k12:Chocolate_Cake1:Picerija:Picerija:lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.46 0.46 0.46
+Tf 1.00 1.00 1.00
+map_Kd FondoClaroInterior.png
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k12:Chocolate_Cake1:Picerija:lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd superficieAmaderada.jpg
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:croissant5k12:Chocolate_Cake1:kitchenObj6:ivy1LeafShaderSG
+illum 4
+Kd 0.31 0.31 0.31
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.32 0.32 0.32
+Ns 5.03
+newmtl croissant5k:Chocolate_Cake1:kitchenObj3:palmLeafy3LeafShaderSG
+illum 4
+Kd 0.07 0.07 0.07
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.32 0.28
+Ns 14.36
+newmtl croissant5k:Chocolate_Cake1:kitchenObj4:pasted__aiStandardSurface5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl croissant5k:Chocolate_Cake1:kitchenObj6:ivy1LeafShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+Ks 0.32 0.32 0.32
+Ns 5.03
+newmtl croissant5k:Chocolate_Cake1:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oat_Cakes_Base_Color.png
+Ni 1.00
+newmtl croissant5k:Chocolate_Cake1:th:Material_001
+illum 4
+Kd 0.80 0.06 0.08
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 250.00
+newmtl croissant5k:Chocolate_Cake1:th1:Material_001
+illum 4
+Kd 0.80 0.06 0.08
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 250.00
+newmtl croissant5k:Chocolate_Cake1:th2:Material_001
+illum 4
+Kd 0.80 0.06 0.08
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 250.00
+newmtl croissant5k:Chocolate_Cake1:th3:Material_001
+illum 4
+Kd 0.80 0.06 0.08
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 250.00
+newmtl croissant5k:cinamon_roll_25k1:roll25k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_cinamon_roll25k_Albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:cinamon_roll_25k3:roll25k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_cinamon_roll25k_Albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:cinamon_roll_25k4:roll25k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_cinamon_roll25k_Albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:croissant5k7:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:croissant5k8:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:croissant5k9:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:croissant5k10:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:croissant5k11:croissant5k7:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:croissant5k12:croissant5k7:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:croissant5k13:croissant5k8:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:croissant5k14:croissant5k8:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:croissant5k15:cinamon_roll_25k1:roll25k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_cinamon_roll25k_Albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:croissant5k16:cinamon_roll_25k1:roll25k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_cinamon_roll25k_Albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:croissant5k17:cinamon_roll_25k1:roll25k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_cinamon_roll25k_Albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:croissant5k18:croissant5k15:cinamon_roll_25k1:roll25k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_cinamon_roll25k_Albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:croissant5k19:croissant5k15:cinamon_roll_25k1:roll25k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_cinamon_roll25k_Albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k:kitchenObj:palmLeafy3ShaderSG
+illum 4
+Kd 1.00 0.99 0.93
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.06 0.05 0.05
+Ns 14.36
+newmtl croissant5k:lambert1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cake_texture_by_xnickixstockx.jpg
+Ni 1.00
+newmtl croissant5k:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Marble_ish_by_Iadinea.jpg
+Ni 1.00
+newmtl croissant5k1:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k3:cinamon_roll_25k1:roll25k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_cinamon_roll25k_Albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k3:cinamon_roll_25k3:roll25k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_cinamon_roll25k_Albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k3:cinamon_roll_25k4:roll25k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_cinamon_roll25k_Albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k3:croissant5k7:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k3:croissant5k8:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k3:croissant5k9:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k3:croissant5k10:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k3:croissant5k11:croissant5k7:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k3:croissant5k12:croissant5k7:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k3:croissant5k13:croissant5k8:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k3:croissant5k14:croissant5k8:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k3:croissant5k15:cinamon_roll_25k1:roll25k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_cinamon_roll25k_Albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k3:croissant5k16:cinamon_roll_25k1:roll25k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_cinamon_roll25k_Albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k3:croissant5k17:cinamon_roll_25k1:roll25k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_cinamon_roll25k_Albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k3:croissant5k18:croissant5k15:cinamon_roll_25k1:roll25k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_cinamon_roll25k_Albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k3:croissant5k19:croissant5k15:cinamon_roll_25k1:roll25k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_cinamon_roll25k_Albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl croissant5k3:kitchenObj:palmLeafy3ShaderSG
+illum 4
+Kd 1.00 0.99 0.93
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.06 0.05 0.05
+Ns 14.36
+newmtl croissant5k4:croissant5k
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd T_croissant25k_albedo4K.tif
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 4.50
+newmtl initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Brick_04_8k_diffuse.jpg
+Ni 1.00
+newmtl kitchenObj:ivy1LeafShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+Ks 0.32 0.32 0.32
+Ns 5.03
+newmtl kitchenObj:palmLeafy3LeafShaderSG
+illum 4
+Kd 0.07 0.07 0.07
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.32 0.28
+Ns 14.36
+newmtl kitchenObj:palmLeafy3ShaderSG
+illum 4
+Kd 1.00 0.99 0.93
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.06 0.05 0.05
+Ns 14.36
+newmtl kitchenObj:palmLeafy4LeafShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+Ks 0.19 0.17 0.15
+Ns 14.36
+newmtl kitchenObj:palmLeafy4ShaderSG
+illum 4
+Kd 0.31 0.30 0.29
+Ka 0.04 0.04 0.04
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.06 0.05 0.05
+Ns 14.36
+newmtl kitchenObj1:pasted__aiStandardSurface5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl kitchenObj2:blinn3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 0.00
+newmtl kitchenObj8:blinn10SG
+illum 4
+Kd 0.03 0.03 0.03
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl kitchenObj8:blinn11SG
+illum 4
+Kd 0.40 0.40 0.40
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl kitchenObj10:blinn10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 0.00
+newmtl kitchenObj10:blinn11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Oven_Anisotropy.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl kitchenObj11:palmLeafy4LeafShaderSG
+illum 4
+Kd 0.49 0.49 0.49
+Ka 0.19 0.19 0.19
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.19 0.17 0.15
+Ns 14.36
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Brick_04_8k_diffuse.jpg
+Ni 1.00
+newmtl lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LadrilloOscuroPared.png
+Ni 1.00
+newmtl lambert15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LadrilloOscuroPared.png
+Ni 1.00
+newmtl lambert16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+newmtl lambert18SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+newmtl lambert20SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd TilesTerrazzoVenetianPolished001_COL_VAR1_2K.jpg
+Ni 1.00
+newmtl lambert27SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LadrilloOscuroPared.png
+Ni 1.00
+newmtl lambert28SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negroCancel.png
+Ni 1.00
+newmtl lambert30SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancel.png
+Ni 1.00
+newmtl lambert33SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksLogo2.png
+Ni 1.00
+newmtl lambert34SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancel.png
+Ni 1.00
+newmtl lambert40SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LogoCancel3.png
+Ni 1.00
+newmtl lambert41SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancelAlreves.png
+Ni 1.00
+newmtl lambert42SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancelAlreves.png
+Ni 1.00
+newmtl lambert44SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbuckletras.png
+Ni 1.00
+newmtl lambert45SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Reflect.jpg
+Ni 1.00
+newmtl lambert47SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucks-logo.gif
+Ni 1.00
+newmtl lambert48SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd TilesSlateSquare001_AO_2K_SPECULAR.png
+Ni 1.00
+newmtl lambert52SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksBanner.jpg
+Ni 1.00
+newmtl lambert62SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert63SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd menuStarbucks1.jpg
+Ni 1.00
+newmtl lambert65SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd WoodFlooringAshSuperWhite001_COL_2K.jpg
+Ni 1.00
+newmtl lambert68SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+newmtl lambert69SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+newmtl lambert71SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+newmtl lambert72SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+newmtl lambert73SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 890.jpg
+Ni 1.00
+newmtl lambert74SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Material__204_2D_View.jpg
+Ni 1.00
+newmtl lambert77SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ark_coffee.jpg
+Ni 1.00
+newmtl pasted__lambert27SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LadrilloOscuroPared.png
+Ni 1.00
+newmtl pasted__lambert28SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negroCancel.png
+Ni 1.00
+newmtl pasted__lambert44SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbuckletras.png
+Ni 1.00
+newmtl pasted__lambert47SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucks-logo.gif
+Ni 1.00
+newmtl pasted__lambert52SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksBanner.png
+Ni 1.00
+newmtl pasted__lambert52SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksBanner.png
+Ni 1.00
+newmtl pasted__lambert75SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+newmtl pasted__lambert76SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.09 0.09 0.09
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert75SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert75SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert75SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert76SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.09 0.09 0.09
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert76SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.09 0.09 0.09
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert76SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.09 0.09 0.09
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert75SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert76SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.09 0.09 0.09
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert75SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert75SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert75SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Tap_Diffuse.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert76SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.09 0.09 0.09
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert76SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.09 0.09 0.09
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert76SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.09 0.09 0.09
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+newmtl phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wood_Diffuse.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.11 0.11 0.11
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Alfa.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl th:Material_001
+illum 4
+Kd 0.80 0.06 0.08
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 250.00

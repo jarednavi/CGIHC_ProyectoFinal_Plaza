@@ -1,0 +1,424 @@
+newmtl FachadaFinal_initialShadingGroup8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ConcretePrecastPlates004_COL_2K_SPECULAR.jpg
+Ni 1.00
+newmtl FachadaFinal_lambert2SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Brick_04_8k_diffuse.jpg
+Ni 1.00
+newmtl FachadaFinal_lambert11SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LadrilloOscuroPared.jpg
+Ni 1.00
+newmtl FachadaFinal_lambert15SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LadrilloOscuroPared.jpg
+Ni 1.00
+newmtl FachadaFinal_lambert16SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl FachadaFinal_lambert18SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PlasticMoldDryBlast002_REFL_2K.jpg
+Ni 1.00
+newmtl FachadaFinal_lambert20SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd TilesTerrazzoVenetianPolished001_COL_VAR1_2K.jpg
+Ni 1.00
+newmtl FachadaFinal_lambert27SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LadrilloOscuroPared.jpg
+Ni 1.00
+newmtl FachadaFinal_lambert28SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negroCancel.jpg
+Ni 1.00
+newmtl FachadaFinal_lambert30SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancel.jpg
+Ni 1.00
+newmtl FachadaFinal_lambert30SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancel.jpg
+Ni 1.00
+newmtl FachadaFinal_lambert33SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksLogo2.jpg
+Ni 1.00
+newmtl FachadaFinal_lambert33SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksLogo2.jpg
+Ni 1.00
+newmtl FachadaFinal_lambert34SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancel.jpg
+Ni 1.00
+newmtl FachadaFinal_lambert40SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LogoCancel3.jpg
+Ni 1.00
+newmtl FachadaFinal_lambert40SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LogoCancel3.jpg
+Ni 1.00
+newmtl FachadaFinal_lambert41SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancelAlreves.jpg
+Ni 1.00
+newmtl FachadaFinal_lambert41SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancelAlreves.jpg
+Ni 1.00
+newmtl FachadaFinal_lambert42SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancelAlreves.jpg
+Ni 1.00
+newmtl FachadaFinal_lambert42SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancelAlreves.jpg
+Ni 1.00
+newmtl FachadaFinal_lambert44SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbuckletras.jpg
+Ni 1.00
+newmtl FachadaFinal_lambert45SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl FachadaFinal_lambert47SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucks-logo.jpg
+Ni 1.00
+newmtl FachadaFinal_lambert48SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd TilesSlateSquare001_AO_2K_SPECULAR.jpg
+Ni 1.00
+newmtl FachadaFinal_lambert52SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksBanner.jpg
+Ni 1.00
+newmtl FachadaFinal_pasted__lambert24SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd WoodFlooringAshSuperWhite001_COL_2K.jpg
+Ni 1.00
+newmtl FachadaFinal_pasted__lambert27SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LadrilloOscuroPared.jpg
+Ni 1.00
+newmtl FachadaFinal_pasted__lambert28SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negroCancel.jpg
+Ni 1.00
+newmtl FachadaFinal_pasted__lambert28SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negroCancel.jpg
+Ni 1.00
+newmtl FachadaFinal_pasted__lambert44SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbuckletras.jpg
+Ni 1.00
+newmtl FachadaFinal_pasted__lambert47SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucks-logo.jpg
+Ni 1.00
+newmtl FachadaFinal_pasted__lambert52SG44
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksBanner.jpg
+Ni 1.00
+newmtl FachadaFinal_pasted__lambert52SG46
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksBanner.jpg
+Ni 1.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__FachadaFinal_lambert28SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negroCancel.jpg
+Ni 1.00
+newmtl pasted__FachadaFinal_lambert30SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancel.jpg
+Ni 1.00
+newmtl pasted__FachadaFinal_lambert30SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancel.jpg
+Ni 1.00
+newmtl pasted__FachadaFinal_lambert30SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancel.jpg
+Ni 1.00
+newmtl pasted__FachadaFinal_lambert33SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksLogo2.jpg
+Ni 1.00
+newmtl pasted__FachadaFinal_lambert33SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksLogo2.jpg
+Ni 1.00
+newmtl pasted__FachadaFinal_lambert34SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancel.jpg
+Ni 1.00
+newmtl pasted__FachadaFinal_lambert40SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LogoCancel3.jpg
+Ni 1.00
+newmtl pasted__FachadaFinal_lambert40SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LogoCancel3.jpg
+Ni 1.00
+newmtl pasted__FachadaFinal_lambert40SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LogoCancel3.jpg
+Ni 1.00
+newmtl pasted__FachadaFinal_lambert41SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancelAlreves.jpg
+Ni 1.00
+newmtl pasted__FachadaFinal_lambert41SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancelAlreves.jpg
+Ni 1.00
+newmtl pasted__FachadaFinal_lambert42SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancelAlreves.jpg
+Ni 1.00
+newmtl pasted__FachadaFinal_lambert42SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancelAlreves.jpg
+Ni 1.00
+newmtl pasted__FachadaFinal_pasted__lambert28SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negroCancel.jpg
+Ni 1.00
+newmtl pasted__FachadaFinal_pasted__lambert28SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negroCancel.jpg
+Ni 1.00
+newmtl pasted__pasted__FachadaFinal_lambert28SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negroCancel.jpg
+Ni 1.00
+newmtl pasted__pasted__FachadaFinal_lambert30SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancel.jpg
+Ni 1.00
+newmtl pasted__pasted__FachadaFinal_lambert30SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancel.jpg
+Ni 1.00
+newmtl pasted__pasted__FachadaFinal_lambert33SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksLogo2.jpg
+Ni 1.00
+newmtl pasted__pasted__FachadaFinal_lambert34SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancel.jpg
+Ni 1.00
+newmtl pasted__pasted__FachadaFinal_lambert40SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LogoCancel3.jpg
+Ni 1.00
+newmtl pasted__pasted__FachadaFinal_lambert40SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LogoCancel3.jpg
+Ni 1.00
+newmtl pasted__pasted__FachadaFinal_lambert41SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancelAlreves.jpg
+Ni 1.00
+newmtl pasted__pasted__FachadaFinal_lambert42SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancelAlreves.jpg
+Ni 1.00
+newmtl pasted__pasted__FachadaFinal_pasted__lambert28SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negroCancel.jpg
+Ni 1.00
+newmtl pasted__puertas_FachadaFinal_lambert30SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancel.png
+Ni 1.00

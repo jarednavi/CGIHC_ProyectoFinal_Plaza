@@ -302,7 +302,7 @@ int main(){
 
 	//--------------------------------------------------------------------BAÑOS
 
-	Model Baños((char*)"Models/Baños/baños.obj");
+	Model Baños((char*)"Models/Baños/Baños.obj");
 
 
 
@@ -707,8 +707,8 @@ int main(){
 		//--------------------------------------------------------------------BAÑOS
 		
 		model = glm::mat4(1);
-		model = glm::translate(glm::mat4(1.0), glm::vec3(-4.560f, 0.460f, -3.042f));
-		model = glm::scale(model, glm::vec3(0.804f, 0.804f, 0.804f));
+		/*model = glm::translate(glm::mat4(1.0), glm::vec3(-4.560f, 0.460f, -3.042f));
+		model = glm::scale(model, glm::vec3(0.804f, 0.804f, 0.804f));*/
 		//glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTrasparencia"), 0);
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		Baños.Draw(lightingShader);
