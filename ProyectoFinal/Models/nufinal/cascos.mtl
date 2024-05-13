@@ -1,0 +1,80 @@
+# Blender 4.1.0 MTL File: 'PLAZA1.blend'
+# www.blender.org
+
+newmtl _null_
+Ns 43.219307
+Ka 1.000000 1.000000 1.000000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd mat0_c.jpg
+
+newmtl base_material.061
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 3d9e625f5ba1_wooden_peg_min_texture_kd.jpg
+map_Ns 3d9e625f5ba1_wooden_peg_min_roughness.jpg
+map_refl 3d9e625f5ba1_wooden_peg_min_metallic.jpg
+map_Bump -bm 1.000000 3d9e625f5ba1_wooden_peg_min_normals.jpg
+
+newmtl base_material.062
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 1689f8aa4aa8_a_bush_see_over_som_texture_kd.jpg
+map_Ns 1689f8aa4aa8_a_bush_see_over_som_roughness.jpg
+map_refl 1689f8aa4aa8_a_bush_see_over_som_metallic.jpg
+map_Bump -bm 1.000000 1689f8aa4aa8_a_bush_see_over_som_normals.jpg
+
+newmtl base_material.063
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 3d9e625f5ba1_wooden_peg_min_texture_kd.jpg
+map_Ns 3d9e625f5ba1_wooden_peg_min_roughness.jpg
+map_refl 3d9e625f5ba1_wooden_peg_min_metallic.jpg
+map_Bump -bm 1.000000 3d9e625f5ba1_wooden_peg_min_normals.jpg
+
+newmtl base_material.064
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 3d9e625f5ba1_wooden_peg_min_texture_kd.jpg
+map_Ns 3d9e625f5ba1_wooden_peg_min_roughness.jpg
+map_refl 3d9e625f5ba1_wooden_peg_min_metallic.jpg
+map_Bump -bm 1.000000 3d9e625f5ba1_wooden_peg_min_normals.jpg
+
+newmtl defaultMat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd defaultMat_albedo.jpeg
+
+newmtl lambert1
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd lambert1_albedo.jpg

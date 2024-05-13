@@ -1,0 +1,22 @@
+# Blender 4.1.0 MTL File: 'PLAZA1.blend'
+# www.blender.org
+
+newmtl Cloth
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.633858 0.633858 0.633858
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Cloth_BaseColor.tga.png
+
+newmtl Skin
+Ns 99.200180
+Ka 1.000000 1.000000 1.000000
+Ks 0.606299 0.606299 0.606299
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Grogu_BaseColor.tga.png
