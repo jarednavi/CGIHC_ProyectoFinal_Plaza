@@ -260,104 +260,104 @@ int main(){
 
 	//----------------------------------------------------------------STARBUCKS
 
-	Model PisoStarbucks((char*)"Models/Modelos/Fachada_Menu/Piso2.obj");
-	Model Fachada((char*)"Models/Modelos/Fachada/FachadaFinal.obj");
-	Model Banca((char*)"Models/Modelos/BancaPrueba/BancaPrueba.obj");
+	//Model PisoStarbucks((char*)"Models/Starbucks/Fachada_Menu/Piso2.obj");
+	Model Fachada((char*)"Models/Starbucks/Starbucks2/Fachada.obj");
+	Model Postres((char*)"Models/Starbucks/Starbucks2/Postres.obj");
 
-	Model Menu((char*)"Models/Modelos/Fachada/Menu.obj");
-	//Model FocosMenu((char*)"Models/Modelos/Fachada/FocosMenu.obj");
+	//Model Menu((char*)"Models/Starbucks/Fachada/Menu.obj");
+	////Model FocosMenu((char*)"Models/Modelos/Fachada/FocosMenu.obj");
 
-	Model PlantaUno((char*)"Models/Modelos/Plantas/PlantaUno.obj");
-	//Model PlantaDos((char*)"Models/Modelos/Plantas/PlantaDos.obj");
-	Model PlantaTres((char*)"Models/Modelos/Plantas/PlantaTres.obj");
+	//Model PlantaUno((char*)"Models/Starbucks/Plantas/PlantaUno.obj");
+	////Model PlantaDos((char*)"Models/Modelos/Plantas/PlantaDos.obj");
+	//Model PlantaTres((char*)"Models/Starbucks/Plantas/PlantaTres.obj");
 
-	Model CajaR((char*)"Models/Starbucks/Barras/CajaR.obj");
-	Model Vitrina((char*)"Models/Starbucks/VitrinaDos/Vitrina.obj");
-	Model Vidrio((char*)"Models/Starbucks/VitrinaDos/Vidrios.obj");
-	Model puertas((char*)"Models/Starbucks/Fachada_Menu/puertas.obj");
-	Model puertaUno((char*)"Models/Starbucks/Fachada_Menu/puertaUno.obj");
-	Model puertaDos((char*)"Models/Starbucks/Fachada_Menu/puertados.obj");
-	Model puertaTres((char*)"Models/Starbucks/Fachada_Menu/puertaTres.obj");
-	Model puertaCuatro((char*)"Models/Starbucks/Fachada_Menu/puertaCuatro.obj");
-	Model cafetera((char*)"Models/Starbucks/Cafeteras/CafeteraAnim.obj");
-	Model CafeteraDos((char*)"Models/Starbucks/Cafeteras/Cafeteras.obj");
-	Model Taza((char*)"Models/Starbucks/Cafeteras/Taza.obj");
-	Model BarraPrin((char*)"Models/Starbucks/Barras/BarraPrincipal.obj");
-	Model BarraTrastes((char*)"Models/Starbucks/Barras/BarraTrastes.obj");
-	Model BarraFregadero((char*)"Models/Starbucks/Barras/BarraFreg.obj");
-	Model LlaveFregadero((char*)"Models/Starbucks/Barras/LlaveFreg.obj");
-	Model ManijaFregadero((char*)"Models/Starbucks/Barras/ManijaFreg.obj");
-	Model BarraVasos((char*)"Models/Starbucks/Barras/BarraVasos.obj");
-	Model VasoStarUno((char*)"Models/Starbucks/Barras/VasoStarUno.obj");
-	Model VasoStarDos((char*)"Models/Starbucks/Barras/VasoStarDos.obj");
-	Model VasoStarTres((char*)"Models/Starbucks/Barras/VasoStarTres.obj");
+	//Model CajaR((char*)"Models/Starbucks/Barras/CajaR.obj");
+	//Model Vitrina((char*)"Models/Starbucks/VitrinaDos/Vitrina.obj");
+	//Model Vidrio((char*)"Models/Starbucks/VitrinaDos/Vidrios.obj");
+	//Model puertas((char*)"Models/Starbucks/Fachada_Menu/puertas.obj");
+	//Model puertaUno((char*)"Models/Starbucks/Fachada_Menu/puertaUno.obj");
+	//Model puertaDos((char*)"Models/Starbucks/Fachada_Menu/puertados.obj");
+	//Model puertaTres((char*)"Models/Starbucks/Fachada_Menu/puertaTres.obj");
+	//Model puertaCuatro((char*)"Models/Starbucks/Fachada_Menu/puertaCuatro.obj");
+	//Model cafetera((char*)"Models/Starbucks/Cafeteras/CafeteraAnim.obj");
+	//Model CafeteraDos((char*)"Models/Starbucks/Cafeteras/Cafeteras.obj");
+	//Model Taza((char*)"Models/Starbucks/Cafeteras/Taza.obj");
+	//Model BarraPrin((char*)"Models/Starbucks/Barras/BarraPrincipal.obj");
+	//Model BarraTrastes((char*)"Models/Starbucks/Barras/BarraTrastes.obj");
+	//Model BarraFregadero((char*)"Models/Starbucks/Barras/BarraFreg.obj");
+	//Model LlaveFregadero((char*)"Models/Starbucks/Barras/LlaveFreg.obj");
+	//Model ManijaFregadero((char*)"Models/Starbucks/Barras/ManijaFreg.obj");
+	//Model BarraVasos((char*)"Models/Starbucks/Barras/BarraVasos.obj");
+	//Model VasoStarUno((char*)"Models/Starbucks/Barras/VasoStarUno.obj");
+	//Model VasoStarDos((char*)"Models/Starbucks/Barras/VasoStarDos.obj");
+	//Model VasoStarTres((char*)"Models/Starbucks/Barras/VasoStarTres.obj");
 
-	Model Tarro((char*)"Models/Starbucks/VitrinaDos/TarroSolo2.obj");
-	Model TapaTarro((char*)"Models/Starbucks/VitrinaDos/TapaF.obj");
-	/*Model GalletaUno((char*)"Models/Starbucks/TarroGalletas/GalletaUno.obj");
-	Model GalletaDos((char*)"Models/Starbucks/TarroGalletas/GalletasDos.obj");
-	Model GalletaTres((char*)"Models/Starbucks/TarroGalletas/GalletaTres.obj");
-	Model GalletaCuatro((char*)"Models/Starbucks/TarroGalletas/GalletaCuatro.obj");
-	Model GalletaCinco((char*)"Models/Starbucks/TarroGalletas/GalletaCinco.obj");
-	Model GalletaSeis((char*)"Models/Starbucks/TarroGalletas/GalletaSeis.obj");*/
+	//Model Tarro((char*)"Models/Starbucks/VitrinaDos/TarroSolo2.obj");
+	//Model TapaTarro((char*)"Models/Starbucks/VitrinaDos/TapaF.obj");
+	///*Model GalletaUno((char*)"Models/Starbucks/TarroGalletas/GalletaUno.obj");
+	//Model GalletaDos((char*)"Models/Starbucks/TarroGalletas/GalletasDos.obj");
+	//Model GalletaTres((char*)"Models/Starbucks/TarroGalletas/GalletaTres.obj");
+	//Model GalletaCuatro((char*)"Models/Starbucks/TarroGalletas/GalletaCuatro.obj");
+	//Model GalletaCinco((char*)"Models/Starbucks/TarroGalletas/GalletaCinco.obj");
+	//Model GalletaSeis((char*)"Models/Starbucks/TarroGalletas/GalletaSeis.obj");*/
 
-	Model MesaUno((char*)"Models/Starbucks/Mesas/MesaUno.obj");
-	Model SillasT_DerUno((char*)"Models/Starbucks/Mesas/SillasT_DerUno.obj");
-	Model SillasD_DerUno((char*)"Models/Starbucks/Mesas/SillasD_DerUno.obj");
-	Model SillasT_IzqUno((char*)"Models/Starbucks/Mesas/SillasT_IzqUno.obj");
-	Model SillasD_IzqUno((char*)"Models/Starbucks/Mesas/SillasD_IzqUno.obj");
-	Model SillaSola_MesaUno((char*)"Models/Starbucks/Mesas/SillaSola_MesaUno.obj");
-	Model CafeMesaUno((char*)"Models/Starbucks/Mesas/CafeMesaUno.obj");
+	//Model MesaUno((char*)"Models/Starbucks/Mesas/MesaUno.obj");
+	//Model SillasT_DerUno((char*)"Models/Starbucks/Mesas/SillasT_DerUno.obj");
+	//Model SillasD_DerUno((char*)"Models/Starbucks/Mesas/SillasD_DerUno.obj");
+	//Model SillasT_IzqUno((char*)"Models/Starbucks/Mesas/SillasT_IzqUno.obj");
+	//Model SillasD_IzqUno((char*)"Models/Starbucks/Mesas/SillasD_IzqUno.obj");
+	//Model SillaSola_MesaUno((char*)"Models/Starbucks/Mesas/SillaSola_MesaUno.obj");
+	//Model CafeMesaUno((char*)"Models/Starbucks/Mesas/CafeMesaUno.obj");
 
 
-	Model MesaDos((char*)"Models/Starbucks/Mesas/MesaDos.obj");
-	Model SillasT_DerDos((char*)"Models/Starbucks/Mesas/SillasT_DerDos.obj");
-	Model SillasD_DerDos((char*)"Models/Starbucks/Mesas/SillasD_DerDos.obj");
-	Model SillasT_IzqDos((char*)"Models/Starbucks/Mesas/SillasT_IzqDos.obj");
-	Model SillasD_IzqDos((char*)"Models/Starbucks/Mesas/SillasD_IzqDos.obj");
-	Model CafeMesaDos((char*)"Models/Starbucks/Mesas/CafeMesaDos.obj");
+	//Model MesaDos((char*)"Models/Starbucks/Mesas/MesaDos.obj");
+	//Model SillasT_DerDos((char*)"Models/Starbucks/Mesas/SillasT_DerDos.obj");
+	//Model SillasD_DerDos((char*)"Models/Starbucks/Mesas/SillasD_DerDos.obj");
+	//Model SillasT_IzqDos((char*)"Models/Starbucks/Mesas/SillasT_IzqDos.obj");
+	//Model SillasD_IzqDos((char*)"Models/Starbucks/Mesas/SillasD_IzqDos.obj");
+	//Model CafeMesaDos((char*)"Models/Starbucks/Mesas/CafeMesaDos.obj");
 
-	Model Malteada((char*)"Models/Starbucks/Postres/Malteada.obj");
-	Model PastelBarra((char*)"Models/Starbucks/Postres/PastelBarra.obj");
+	//Model Malteada((char*)"Models/Starbucks/Postres/Malteada.obj");
+	//Model PastelBarra((char*)"Models/Starbucks/Postres/PastelBarra.obj");
 
-	Model Pastel((char*)"Models/Starbucks/VitrinaDos/Pastel.obj");
-	Model PastelDos((char*)"Models/Starbucks/VitrinaDos/Pastel2.obj");
+	//Model Pastel((char*)"Models/Starbucks/VitrinaDos/Pastel.obj");
+	//Model PastelDos((char*)"Models/Starbucks/VitrinaDos/Pastel2.obj");
 
-	//PASTELES VITRINA
-	Model PlatoPastel((char*)"Models/Starbucks/Postres/PlatoPastel.obj");
-	Model Pastel_RebanadaUno((char*)"Models/Starbucks/Postres/Pastel_Rebanada1.obj");
-	Model Pastel_RebanadaDos((char*)"Models/Starbucks/Postres/Pastel_Rebanada2.obj");
-	/*Model Pastel_RebanadaTres((char*)"Models/Starbucks/Postres/Pastel_Rebanada3.obj");
-	Model Pastel_RebanadaCuatro((char*)"Models/Starbucks/Postres/Pastel_Rebanada4.obj");
-	Model Pastel_RebanadaCinco((char*)"Models/Starbucks/Postres/Pastel_Rebanada5.obj");
-	Model Pastel_RebanadaSeis((char*)"Models/Starbucks/Postres/Pastel_Rebanada6.obj");*/
+	////PASTELES VITRINA
+	//Model PlatoPastel((char*)"Models/Starbucks/Postres/PlatoPastel.obj");
+	//Model Pastel_RebanadaUno((char*)"Models/Starbucks/Postres/Pastel_Rebanada1.obj");
+	//Model Pastel_RebanadaDos((char*)"Models/Starbucks/Postres/Pastel_Rebanada2.obj");
+	///*Model Pastel_RebanadaTres((char*)"Models/Starbucks/Postres/Pastel_Rebanada3.obj");
+	//Model Pastel_RebanadaCuatro((char*)"Models/Starbucks/Postres/Pastel_Rebanada4.obj");
+	//Model Pastel_RebanadaCinco((char*)"Models/Starbucks/Postres/Pastel_Rebanada5.obj");
+	//Model Pastel_RebanadaSeis((char*)"Models/Starbucks/Postres/Pastel_Rebanada6.obj");*/
 
-	Model CharolaUno((char*)"Models/Starbucks/Postres/CharolaUno.obj");
-	Model Croissant1((char*)"Models/Starbucks/Postres/Croissant1.obj");
-	Model Croissant2((char*)"Models/Starbucks/Postres/Croissant2.obj");
-	Model Croissant3((char*)"Models/Starbucks/Postres/Croissant3.obj");
-	Model Croissant4((char*)"Models/Starbucks/Postres/Croissant4.obj");
-	Model Croissant5((char*)"Models/Starbucks/Postres/Croissant5.obj");
-	Model Croissant6((char*)"Models/Starbucks/Postres/Croissant6.obj");
-	Model Croissant7((char*)"Models/Starbucks/Postres/Croissant7.obj");
-	Model Croissant8((char*)"Models/Starbucks/Postres/Croissant8.obj");
-	Model Croissant9((char*)"Models/Starbucks/Postres/Croissant9.obj");
+	//Model CharolaUno((char*)"Models/Starbucks/Postres/CharolaUno.obj");
+	//Model Croissant1((char*)"Models/Starbucks/Postres/Croissant1.obj");
+	//Model Croissant2((char*)"Models/Starbucks/Postres/Croissant2.obj");
+	//Model Croissant3((char*)"Models/Starbucks/Postres/Croissant3.obj");
+	//Model Croissant4((char*)"Models/Starbucks/Postres/Croissant4.obj");
+	//Model Croissant5((char*)"Models/Starbucks/Postres/Croissant5.obj");
+	//Model Croissant6((char*)"Models/Starbucks/Postres/Croissant6.obj");
+	//Model Croissant7((char*)"Models/Starbucks/Postres/Croissant7.obj");
+	//Model Croissant8((char*)"Models/Starbucks/Postres/Croissant8.obj");
+	//Model Croissant9((char*)"Models/Starbucks/Postres/Croissant9.obj");
 
-	Model CharolaDos((char*)"Models/Starbucks/Postres/CharolaDos.obj");
-	Model cinnamon1((char*)"Models/Starbucks/Postres/cinnamon1.obj");
-	Model cinnamon2((char*)"Models/Starbucks/Postres/cinnamon2.obj");
-	Model cinnamon3((char*)"Models/Starbucks/Postres/cinnamon3.obj");
-	/*Model cinnamon4((char*)"Models/Starbucks/Postres/cinnamon4.obj");
-	Model cinnamon5((char*)"Models/Starbucks/Postres/cinnamon5.obj");
-	Model cinnamon6((char*)"Models/Starbucks/Postres/cinnamon6.obj");
-	Model cinnamon7((char*)"Models/Starbucks/Postres/cinnamon7.obj");*/
+	//Model CharolaDos((char*)"Models/Starbucks/Postres/CharolaDos.obj");
+	//Model cinnamon1((char*)"Models/Starbucks/Postres/cinnamon1.obj");
+	//Model cinnamon2((char*)"Models/Starbucks/Postres/cinnamon2.obj");
+	//Model cinnamon3((char*)"Models/Starbucks/Postres/cinnamon3.obj");
+	///*Model cinnamon4((char*)"Models/Starbucks/Postres/cinnamon4.obj");
+	//Model cinnamon5((char*)"Models/Starbucks/Postres/cinnamon5.obj");
+	//Model cinnamon6((char*)"Models/Starbucks/Postres/cinnamon6.obj");
+	//Model cinnamon7((char*)"Models/Starbucks/Postres/cinnamon7.obj");*/
 
-	Model CharolaTres((char*)"Models/Starbucks/Postres/CharolaTres.obj");
-	Model pan1((char*)"Models/Starbucks/Postres/pan1.obj");
-	Model pan2((char*)"Models/Starbucks/Postres/pan2.obj");
-	/*Model pan3((char*)"Models/Starbucks/Postres/pan3.obj");
-	Model pan4((char*)"Models/Starbucks/Postres/pan4.obj");
-	Model pan5((char*)"Models/Starbucks/Postres/pan5.obj");*/
+	//Model CharolaTres((char*)"Models/Starbucks/Postres/CharolaTres.obj");
+	//Model pan1((char*)"Models/Starbucks/Postres/pan1.obj");
+	//Model pan2((char*)"Models/Starbucks/Postres/pan2.obj");
+	///*Model pan3((char*)"Models/Starbucks/Postres/pan3.obj");
+	//Model pan4((char*)"Models/Starbucks/Postres/pan4.obj");
+	//Model pan5((char*)"Models/Starbucks/Postres/pan5.obj");*/
 
 
 	//----------------------------------------------------------------PIZZERIA
@@ -757,292 +757,203 @@ int main(){
 		//Carga de modelo fachada
 		view = camera.GetViewMatrix();
 		model = glm::mat4(1);
-		model = glm::translate(model, glm::vec3(0.0f, 1.5f,1.5f));
+		//model = glm::translate(model, glm::vec3(0.0f, 6.0f, 4.0f));
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		
 		Fachada.Draw(lightingShader);
-
-		PlantaUno.Draw(lightingShader);
-		//PlantaDos.Draw(lightingShader);
-		PlantaTres.Draw(lightingShader);
-
-		Banca.Draw(lightingShader);
-		Piso.Draw(lightingShader);
-		CajaR.Draw(lightingShader);
-		CafeteraDos.Draw(lightingShader);
-		BarraPrin.Draw(lightingShader);
-		BarraTrastes.Draw(lightingShader);
-		BarraVasos.Draw(lightingShader);
-		VasoStarUno.Draw(lightingShader);
-		VasoStarDos.Draw(lightingShader);
-		VasoStarTres.Draw(lightingShader);
-		BarraFregadero.Draw(lightingShader);
-		ManijaFregadero.Draw(lightingShader);
+		Postres.Draw(lightingShader);
 
 
-		MesaUno.Draw(lightingShader);
+		//PlantaUno.Draw(lightingShader);
+		////PlantaDos.Draw(lightingShader);
+		//PlantaTres.Draw(lightingShader);
 
-		SillasT_DerUno.Draw(lightingShader);
-		SillasD_IzqUno.Draw(lightingShader);
-		SillasD_DerUno.Draw(lightingShader);
-		SillasT_IzqUno.Draw(lightingShader);
-		SillaSola_MesaUno.Draw(lightingShader);
-		CafeMesaUno.Draw(lightingShader);
-
-		MesaDos.Draw(lightingShader);
-
-		SillasT_DerDos.Draw(lightingShader);
-		SillasD_IzqDos.Draw(lightingShader);
-		SillasD_DerDos.Draw(lightingShader);
-		SillasT_IzqDos.Draw(lightingShader);
-		CafeMesaDos.Draw(lightingShader);
-
-		Malteada.Draw(lightingShader);
-		PastelBarra.Draw(lightingShader);
-
-		Pastel.Draw(lightingShader);
-		PastelDos.Draw(lightingShader);
-
-		//PASTEL VITRINA
-		PlatoPastel.Draw(lightingShader);
-		Pastel_RebanadaUno.Draw(lightingShader);
-		//Pastel_RebanadaDos.Draw(lightingShader);
-		/*Pastel_RebanadaTres.Draw(lightingShader);
-		Pastel_RebanadaCuatro.Draw(lightingShader);
-		Pastel_RebanadaCinco.Draw(lightingShader);
-		Pastel_RebanadaSeis.Draw(lightingShader);*/
-
-		CharolaUno.Draw(lightingShader);
-		CharolaDos.Draw(lightingShader);
-		CharolaTres.Draw(lightingShader);
+		//Banca.Draw(lightingShader);
+		//Piso.Draw(lightingShader);
+		//CajaR.Draw(lightingShader);
+		//CafeteraDos.Draw(lightingShader);
+		//BarraPrin.Draw(lightingShader);
+		//BarraTrastes.Draw(lightingShader);
+		//BarraVasos.Draw(lightingShader);
+		//VasoStarUno.Draw(lightingShader);
+		//VasoStarDos.Draw(lightingShader);
+		//VasoStarTres.Draw(lightingShader);
+		//BarraFregadero.Draw(lightingShader);
+		//ManijaFregadero.Draw(lightingShader);
 
 
-		Croissant1.Draw(lightingShader);
-		Croissant2.Draw(lightingShader);
-		Croissant3.Draw(lightingShader);
-		/*Croissant4.Draw(lightingShader);
-		Croissant5.Draw(lightingShader);
-		Croissant6.Draw(lightingShader);
-		Croissant7.Draw(lightingShader);
-		Croissant8.Draw(lightingShader);
-		Croissant9.Draw(lightingShader);*/
+		//MesaUno.Draw(lightingShader);
 
-		cinnamon1.Draw(lightingShader);
-		cinnamon2.Draw(lightingShader);
-		cinnamon3.Draw(lightingShader);
-		/*cinnamon4.Draw(lightingShader);
-		cinnamon5.Draw(lightingShader);
-		cinnamon6.Draw(lightingShader);
-		cinnamon7.Draw(lightingShader);*/
+		//SillasT_DerUno.Draw(lightingShader);
+		//SillasD_IzqUno.Draw(lightingShader);
+		//SillasD_DerUno.Draw(lightingShader);
+		//SillasT_IzqUno.Draw(lightingShader);
+		//SillaSola_MesaUno.Draw(lightingShader);
+		//CafeMesaUno.Draw(lightingShader);
 
-		pan1.Draw(lightingShader);
-		pan2.Draw(lightingShader);
-		/*pan3.Draw(lightingShader);
-		pan4.Draw(lightingShader);
-		pan5.Draw(lightingShader);*/
+		//MesaDos.Draw(lightingShader);
 
+		//SillasT_DerDos.Draw(lightingShader);
+		//SillasD_IzqDos.Draw(lightingShader);
+		//SillasD_DerDos.Draw(lightingShader);
+		//SillasT_IzqDos.Draw(lightingShader);
+		//CafeMesaDos.Draw(lightingShader);
 
+		//Malteada.Draw(lightingShader);
+		//PastelBarra.Draw(lightingShader);
 
+		//Pastel.Draw(lightingShader);
+		//PastelDos.Draw(lightingShader);
 
-		//FocosMenu.Draw(lightingShader);
-		Menu.Draw(lightingShader);
+		////PASTEL VITRINA
+		//PlatoPastel.Draw(lightingShader);
+		//Pastel_RebanadaUno.Draw(lightingShader);
+		////Pastel_RebanadaDos.Draw(lightingShader);
+		///*Pastel_RebanadaTres.Draw(lightingShader);
+		//Pastel_RebanadaCuatro.Draw(lightingShader);
+		//Pastel_RebanadaCinco.Draw(lightingShader);
+		//Pastel_RebanadaSeis.Draw(lightingShader);*/
 
-		model = glm::mat4(1);
-		model = glm::translate(model, glm::vec3(0.0f, 1.5f, 1.5f));
-		model = glm::translate(model, glm::vec3(-4.806f, 1.770f, -0.111f));
-		model = glm::rotate(model, glm::radians(angLlaveFreg), glm::vec3(0.0f, 1.0f, 0.0f)); // Rotar en el eje Y
-		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
-		LlaveFregadero.Draw(lightingShader);
-		glBindVertexArray(0);
+		//CharolaUno.Draw(lightingShader);
+		//CharolaDos.Draw(lightingShader);
+		//CharolaTres.Draw(lightingShader);
 
 
-		//-----------------------------------------------------------------------------------------------------------------------------------------
-		//-----------------------------------------------------------------------------------------------------------------------------------------
-		//								Carga de modelos CON TRANSPARENCIA
-		//-----------------------------------------------------------------------------------------------------------------------------------------
-		//-----------------------------------------------------------------------------------------------------------------------------------------
+		//Croissant1.Draw(lightingShader);
+		//Croissant2.Draw(lightingShader);
+		//Croissant3.Draw(lightingShader);
+		///*Croissant4.Draw(lightingShader);
+		//Croissant5.Draw(lightingShader);
+		//Croissant6.Draw(lightingShader);
+		//Croissant7.Draw(lightingShader);
+		//Croissant8.Draw(lightingShader);
+		//Croissant9.Draw(lightingShader);*/
 
+		//cinnamon1.Draw(lightingShader);
+		//cinnamon2.Draw(lightingShader);
+		//cinnamon3.Draw(lightingShader);
+		///*cinnamon4.Draw(lightingShader);
+		//cinnamon5.Draw(lightingShader);
+		//cinnamon6.Draw(lightingShader);
+		//cinnamon7.Draw(lightingShader);*/
 
-		glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
-		glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
-		model = glm::mat4(1);
-		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
-		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
-		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0); //Activacion de trasparencia
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 100.0);//Nivel de trasparecia con valor en color alpha
-
-		Vitrina.Draw(lightingShader);
-		glDisable(GL_BLEND);  //Desactiva el canal alfa 
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
-		glBindVertexArray(0);
-
-		glDisable(GL_BLEND);  //Desactiva el canal alfa 
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
-		glBindVertexArray(0);
-
-		//PUERTAS
-
-		glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
-		glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
-		model = glm::mat4(1);
-		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
-		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
-		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 1);//Activacion de trasparencia
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 0.8);//Nivel de trasparecia con valor en color alpha
-		puertas.Draw(lightingShader);
-		glDisable(GL_BLEND);  //Desactiva el canal alfa 
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
-		glBindVertexArray(0);
-
-		//PUERTA 1
-
-		glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
-		glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
-		model = glm::mat4(1);
-		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
-		model = glm::translate(model, glm::vec3(2.365f, 1.712f, 7.516f));
-		model = glm::rotate(model, glm::radians(-abrir), glm::vec3(0.0f, 1.0f, 0.0f));
-		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
-		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 1);//Activacion de trasparencia
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 0.4);//Nivel de trasparecia con valor en color alpha
-		puertaUno.Draw(lightingShader);
-		glDisable(GL_BLEND);  //Desactiva el canal alfa 
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
-		glBindVertexArray(0);
-
-		//PUERTA DOS
-		glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
-		glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
-		model = glm::mat4(1);
-		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
-		model = glm::translate(model, glm::vec3(-2.455f, 1.671f, 7.468f));
-		model = glm::rotate(model, glm::radians(abrir), glm::vec3(0.0f, 1.0f, 0.0f));
-		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
-		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 1);//Activacion de trasparencia
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 0.4);//Nivel de trasparecia con valor en color alpha
-		puertaDos.Draw(lightingShader);
-		glDisable(GL_BLEND);  //Desactiva el canal alfa 
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
-		glBindVertexArray(0);
-
-		//PUERTA3
-
-		glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
-		glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
-		model = glm::mat4(1);
-		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
-		model = glm::translate(model, glm::vec3(-2.48f, 1.658f, -7.475f));
-		model = glm::rotate(model, glm::radians(abrirDos), glm::vec3(0.0f, 1.0f, 0.0f));
-		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
-		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 1);//Activacion de trasparencia
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 0.4);//Nivel de trasparecia con valor en color alpha
-		puertaTres.Draw(lightingShader);
-		glDisable(GL_BLEND);  //Desactiva el canal alfa 
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
-		glBindVertexArray(0);
-
-
-		glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
-		glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
-		model = glm::mat4(1);
-		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
-		model = glm::translate(model, glm::vec3(2.314f, 1.671f, -7.452f));
-		model = glm::rotate(model, glm::radians(-abrirDos), glm::vec3(0.0f, 1.0f, 0.0f));
-		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
-		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 1);//Activacion de trasparencia
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 0.4);//Nivel de trasparecia con valor en color alpha
-		puertaCuatro.Draw(lightingShader);
-		glDisable(GL_BLEND);  //Desactiva el canal alfa 
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
-		glBindVertexArray(0);
-
-		glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
-		glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
-		model = glm::mat4(1);
-		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
-		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
-		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 1);//Activacion de trasparencia
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 0.8);//Nivel de trasparecia con valor en color alpha
-		Vidrio.Draw(lightingShader);
-		glDisable(GL_BLEND);  //Desactiva el canal alfa 
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
-		glBindVertexArray(0);
+		//pan1.Draw(lightingShader);
+		//pan2.Draw(lightingShader);
+		///*pan3.Draw(lightingShader);
+		//pan4.Draw(lightingShader);
+		//pan5.Draw(lightingShader);*/
 
 
 
-		glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
-		glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
-		model = glm::mat4(1);
-		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
-		//model = glm::translate(model, glm::vec3(-4.435f, 2.128f, 3.952f));
-		model = glm::rotate(model, glm::radians(vibrar), glm::vec3(0.0f, 1.0f, 1.0f));
-		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
-		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);//Activacion de trasparencia
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 100.0);//Nivel de trasparecia con valor en color alpha
-		cafetera.Draw(lightingShader);
-		glDisable(GL_BLEND);  //Desactiva el canal alfa 
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
-		glBindVertexArray(0);
 
-		glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
-		glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
-		model = glm::mat4(1);
-		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
-		model = glm::translate(model, glm::vec3(-4.228f, 1.925f, 3.96f));
-		model = glm::translate(model, glm::vec3(-x, -y, z));
-		model = glm::rotate(model, glm::radians(-TazaR), glm::vec3(0.0f, 0.0f, 1.0f));
-		model = glm::rotate(model, glm::radians(TazaRY), glm::vec3(0.0f, 1.0f, 0.0f));
-		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
-		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);//Activacion de trasparencia
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 100.0);//Nivel de trasparecia con valor en color alpha
-		Taza.Draw(lightingShader);
-		glDisable(GL_BLEND);  //Desactiva el canal alfa 
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
-		glBindVertexArray(0);
+		////FocosMenu.Draw(lightingShader);
+		//Menu.Draw(lightingShader);
 
-		glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
-		glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
-		model = glm::mat4(1);
-		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
-		model = glm::translate(model, glm::vec3(-1.837f, 2.277f, -2.195f));
-		model = glm::rotate(model, glm::radians(TarroR), glm::vec3(1.0f, 0.0f, 0.0f));
-		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
-		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 1);//Activacion de trasparencia
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 0.7);//Nivel de trasparecia con valor en color alpha
-		Tarro.Draw(lightingShader);
-		glDisable(GL_BLEND);  //Desactiva el canal alfa 
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
-		glBindVertexArray(0);
+		//model = glm::mat4(1);
+		//model = glm::translate(model, glm::vec3(0.0f, 6.0f, 4.0f));
+		//model = glm::translate(model, glm::vec3(-4.806f, 1.770f, -0.111f));
+		////model = glm::rotate(model, glm::radians(angLlaveFreg), glm::vec3(0.0f, 1.0f, 0.0f)); // Rotar en el eje Y
+		//glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		//LlaveFregadero.Draw(lightingShader);
+		//glBindVertexArray(0);
 
 
+		////-----------------------------------------------------------------------------------------------------------------------------------------
+		////-----------------------------------------------------------------------------------------------------------------------------------------
+		////								Carga de modelos CON TRANSPARENCIA
+		////-----------------------------------------------------------------------------------------------------------------------------------------
+		////-----------------------------------------------------------------------------------------------------------------------------------------
 
-		glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
-		glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
-		model = glm::mat4(1);
-		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
-		model = glm::translate(model, glm::vec3(-1.836f, 2.431f, -2.179f));
-		model = glm::translate(model, glm::vec3(xT, -yT, -zT));
-		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
-		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 1);//Activacion de trasparencia
-		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 100.0);//Nivel de trasparecia con valor en color alpha  TAPA NEGRA
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 0.7);//Nivel de trasparecia con valor en color alpha TAPA TRANSPARENTE
-		TapaTarro.Draw(lightingShader);
-		//Tapa.Draw(lightingShader);
-		glDisable(GL_BLEND);  //Desactiva el canal alfa 
-		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
-		glBindVertexArray(0);
 
 		//glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
 		//glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
 		//model = glm::mat4(1);
 		////model = glm::translate(model, glm::vec3(posX, posY, posZ));
-		//model = glm::translate(model, glm::vec3(-1.832, 2.172f, -2.195));
-		//model = glm::translate(model, glm::vec3(xGU, -yGU, -zGU));
-		//model = glm::rotate(model, glm::radians(rGU), glm::vec3(1.0f, 0.0f, 0.0f));
 		//glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
-		//glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);//Activacion de trasparencia
+		//glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0); //Activacion de trasparencia
 		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 100.0);//Nivel de trasparecia con valor en color alpha
-		//GalletaUno.Draw(lightingShader);
+
+		//Vitrina.Draw(lightingShader);
+		//glDisable(GL_BLEND);  //Desactiva el canal alfa 
+		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
+		//glBindVertexArray(0);
+
+		//glDisable(GL_BLEND);  //Desactiva el canal alfa 
+		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
+		//glBindVertexArray(0);
+
+		////PUERTAS
+
+		//glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
+		//glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
+		//model = glm::mat4(1);
+		////model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		//glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		//glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 1);//Activacion de trasparencia
+		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 0.8);//Nivel de trasparecia con valor en color alpha
+		//puertas.Draw(lightingShader);
+		//glDisable(GL_BLEND);  //Desactiva el canal alfa 
+		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
+		//glBindVertexArray(0);
+
+		////PUERTA 1
+
+		//glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
+		//glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
+		//model = glm::mat4(1);
+		////model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		//model = glm::translate(model, glm::vec3(2.365f, 1.712f, 7.516f));
+		//model = glm::rotate(model, glm::radians(-abrir), glm::vec3(0.0f, 1.0f, 0.0f));
+		//glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		//glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 1);//Activacion de trasparencia
+		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 0.4);//Nivel de trasparecia con valor en color alpha
+		//puertaUno.Draw(lightingShader);
+		//glDisable(GL_BLEND);  //Desactiva el canal alfa 
+		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
+		//glBindVertexArray(0);
+
+		////PUERTA DOS
+		//glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
+		//glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
+		//model = glm::mat4(1);
+		////model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		//model = glm::translate(model, glm::vec3(-2.455f, 1.671f, 7.468f));
+		//model = glm::rotate(model, glm::radians(abrir), glm::vec3(0.0f, 1.0f, 0.0f));
+		//glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		//glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 1);//Activacion de trasparencia
+		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 0.4);//Nivel de trasparecia con valor en color alpha
+		//puertaDos.Draw(lightingShader);
+		//glDisable(GL_BLEND);  //Desactiva el canal alfa 
+		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
+		//glBindVertexArray(0);
+
+		////PUERTA3
+
+		//glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
+		//glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
+		//model = glm::mat4(1);
+		////model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		//model = glm::translate(model, glm::vec3(-2.48f, 1.658f, -7.475f));
+		//model = glm::rotate(model, glm::radians(abrirDos), glm::vec3(0.0f, 1.0f, 0.0f));
+		//glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		//glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 1);//Activacion de trasparencia
+		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 0.4);//Nivel de trasparecia con valor en color alpha
+		//puertaTres.Draw(lightingShader);
+		//glDisable(GL_BLEND);  //Desactiva el canal alfa 
+		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
+		//glBindVertexArray(0);
+
+
+		//glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
+		//glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
+		//model = glm::mat4(1);
+		////model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		//model = glm::translate(model, glm::vec3(2.314f, 1.671f, -7.452f));
+		//model = glm::rotate(model, glm::radians(-abrirDos), glm::vec3(0.0f, 1.0f, 0.0f));
+		//glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		//glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 1);//Activacion de trasparencia
+		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 0.4);//Nivel de trasparecia con valor en color alpha
+		//puertaCuatro.Draw(lightingShader);
 		//glDisable(GL_BLEND);  //Desactiva el canal alfa 
 		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
 		//glBindVertexArray(0);
@@ -1050,14 +961,27 @@ int main(){
 		//glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
 		//glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
 		//model = glm::mat4(1);
-		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
-		//model = glm::translate(model, glm::vec3(-1.832, 2.191f, -2.195));
-		//model = glm::translate(model, glm::vec3(xGD, -yGD, -zGD));
-		//model = glm::rotate(model, glm::radians(rGD), glm::vec3(1.0f, 0.0f, 0.0f));
+		////model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		//glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		//glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 1);//Activacion de trasparencia
+		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 0.8);//Nivel de trasparecia con valor en color alpha
+		//Vidrio.Draw(lightingShader);
+		//glDisable(GL_BLEND);  //Desactiva el canal alfa 
+		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
+		//glBindVertexArray(0);
+
+
+
+		//glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
+		//glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
+		//model = glm::mat4(1);
+		////model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		////model = glm::translate(model, glm::vec3(-4.435f, 2.128f, 3.952f));
+		//model = glm::rotate(model, glm::radians(vibrar), glm::vec3(0.0f, 1.0f, 1.0f));
 		//glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		//glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);//Activacion de trasparencia
 		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 100.0);//Nivel de trasparecia con valor en color alpha
-		//GalletaDos.Draw(lightingShader);
+		//cafetera.Draw(lightingShader);
 		//glDisable(GL_BLEND);  //Desactiva el canal alfa 
 		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
 		//glBindVertexArray(0);
@@ -1065,14 +989,15 @@ int main(){
 		//glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
 		//glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
 		//model = glm::mat4(1);
-		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
-		//model = glm::translate(model, glm::vec3(-1.832, 2.21f, -2.195));
-		//model = glm::translate(model, glm::vec3(xGT, -yGT, -zGT));
-		//model = glm::rotate(model, glm::radians(rGT), glm::vec3(1.0f, 0.0f, 0.0f));
+		////model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		//model = glm::translate(model, glm::vec3(-4.228f, 1.925f, 3.96f));
+		//model = glm::translate(model, glm::vec3(-x, -y, z));
+		//model = glm::rotate(model, glm::radians(-TazaR), glm::vec3(0.0f, 0.0f, 1.0f));
+		//model = glm::rotate(model, glm::radians(TazaRY), glm::vec3(0.0f, 1.0f, 0.0f));
 		//glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		//glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);//Activacion de trasparencia
 		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 100.0);//Nivel de trasparecia con valor en color alpha
-		//GalletaTres.Draw(lightingShader);
+		//Taza.Draw(lightingShader);
 		//glDisable(GL_BLEND);  //Desactiva el canal alfa 
 		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
 		//glBindVertexArray(0);
@@ -1080,51 +1005,124 @@ int main(){
 		//glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
 		//glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
 		//model = glm::mat4(1);
-		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
-		//model = glm::translate(model, glm::vec3(-1.832, 2.229f, -2.195));
-		//model = glm::translate(model, glm::vec3(xGC, -yGC, -zGC));
-		//model = glm::rotate(model, glm::radians(rGC), glm::vec3(1.0f, 0.0f, 0.0f));
+		////model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		//model = glm::translate(model, glm::vec3(-1.837f, 2.277f, -2.195f));
+		//model = glm::rotate(model, glm::radians(TarroR), glm::vec3(1.0f, 0.0f, 0.0f));
 		//glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
-		//glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);//Activacion de trasparencia
-		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 100.0);//Nivel de trasparecia con valor en color alpha
-		//GalletaCuatro.Draw(lightingShader);
+		//glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 1);//Activacion de trasparencia
+		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 0.7);//Nivel de trasparecia con valor en color alpha
+		//Tarro.Draw(lightingShader);
 		//glDisable(GL_BLEND);  //Desactiva el canal alfa 
 		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
 		//glBindVertexArray(0);
+
+
 
 		//glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
 		//glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
 		//model = glm::mat4(1);
-		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
-		//model = glm::translate(model, glm::vec3(-1.832, 2.248f, -2.195));
-		//model = glm::translate(model, glm::vec3(xGCI, -yGCI, -zGCI));
-		//model = glm::rotate(model, glm::radians(rGCI), glm::vec3(1.0f, 0.0f, 0.0f));
+		////model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		//model = glm::translate(model, glm::vec3(-1.836f, 2.431f, -2.179f));
+		//model = glm::translate(model, glm::vec3(xT, -yT, -zT));
 		//glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
-		//glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);//Activacion de trasparencia
-		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 100.0);//Nivel de trasparecia con valor en color alpha
-		//GalletaCinco.Draw(lightingShader);
+		//glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 1);//Activacion de trasparencia
+		////glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 100.0);//Nivel de trasparecia con valor en color alpha  TAPA NEGRA
+		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 0.7);//Nivel de trasparecia con valor en color alpha TAPA TRANSPARENTE
+		//TapaTarro.Draw(lightingShader);
+		////Tapa.Draw(lightingShader);
 		//glDisable(GL_BLEND);  //Desactiva el canal alfa 
 		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
 		//glBindVertexArray(0);
 
-		//glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
-		//glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
-		//model = glm::mat4(1);
-		//model = glm::translate(model, glm::vec3(posX, posY, posZ));
-		//model = glm::translate(model, glm::vec3(-1.832, 2.267f, -2.195));
-		//model = glm::translate(model, glm::vec3(xGS, -yGS, -zGS));
-		//model = glm::rotate(model, glm::radians(rGS), glm::vec3(1.0f, 0.0f, 0.0f));
-		//glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
-		//glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);//Activacion de trasparencia
-		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 100.0);//Nivel de trasparecia con valor en color alpha
-		//GalletaSeis.Draw(lightingShader);
-		//glDisable(GL_BLEND);  //Desactiva el canal alfa 
-		//glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
-		//glBindVertexArray(0);
+		////glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
+		////glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
+		////model = glm::mat4(1);
+		//////model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		////model = glm::translate(model, glm::vec3(-1.832, 2.172f, -2.195));
+		////model = glm::translate(model, glm::vec3(xGU, -yGU, -zGU));
+		////model = glm::rotate(model, glm::radians(rGU), glm::vec3(1.0f, 0.0f, 0.0f));
+		////glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		////glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);//Activacion de trasparencia
+		////glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 100.0);//Nivel de trasparecia con valor en color alpha
+		////GalletaUno.Draw(lightingShader);
+		////glDisable(GL_BLEND);  //Desactiva el canal alfa 
+		////glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
+		////glBindVertexArray(0);
 
+		////glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
+		////glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
+		////model = glm::mat4(1);
+		////model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		////model = glm::translate(model, glm::vec3(-1.832, 2.191f, -2.195));
+		////model = glm::translate(model, glm::vec3(xGD, -yGD, -zGD));
+		////model = glm::rotate(model, glm::radians(rGD), glm::vec3(1.0f, 0.0f, 0.0f));
+		////glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		////glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);//Activacion de trasparencia
+		////glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 100.0);//Nivel de trasparecia con valor en color alpha
+		////GalletaDos.Draw(lightingShader);
+		////glDisable(GL_BLEND);  //Desactiva el canal alfa 
+		////glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
+		////glBindVertexArray(0);
 
+		////glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
+		////glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
+		////model = glm::mat4(1);
+		////model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		////model = glm::translate(model, glm::vec3(-1.832, 2.21f, -2.195));
+		////model = glm::translate(model, glm::vec3(xGT, -yGT, -zGT));
+		////model = glm::rotate(model, glm::radians(rGT), glm::vec3(1.0f, 0.0f, 0.0f));
+		////glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		////glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);//Activacion de trasparencia
+		////glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 100.0);//Nivel de trasparecia con valor en color alpha
+		////GalletaTres.Draw(lightingShader);
+		////glDisable(GL_BLEND);  //Desactiva el canal alfa 
+		////glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
+		////glBindVertexArray(0);
 
+		////glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
+		////glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
+		////model = glm::mat4(1);
+		////model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		////model = glm::translate(model, glm::vec3(-1.832, 2.229f, -2.195));
+		////model = glm::translate(model, glm::vec3(xGC, -yGC, -zGC));
+		////model = glm::rotate(model, glm::radians(rGC), glm::vec3(1.0f, 0.0f, 0.0f));
+		////glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		////glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);//Activacion de trasparencia
+		////glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 100.0);//Nivel de trasparecia con valor en color alpha
+		////GalletaCuatro.Draw(lightingShader);
+		////glDisable(GL_BLEND);  //Desactiva el canal alfa 
+		////glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
+		////glBindVertexArray(0);
 
+		////glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
+		////glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
+		////model = glm::mat4(1);
+		////model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		////model = glm::translate(model, glm::vec3(-1.832, 2.248f, -2.195));
+		////model = glm::translate(model, glm::vec3(xGCI, -yGCI, -zGCI));
+		////model = glm::rotate(model, glm::radians(rGCI), glm::vec3(1.0f, 0.0f, 0.0f));
+		////glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		////glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);//Activacion de trasparencia
+		////glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 100.0);//Nivel de trasparecia con valor en color alpha
+		////GalletaCinco.Draw(lightingShader);
+		////glDisable(GL_BLEND);  //Desactiva el canal alfa 
+		////glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
+		////glBindVertexArray(0);
+
+		////glEnable(GL_BLEND);//Avtiva la funcionalidad para trabajar el canal alfa
+		////glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
+		////model = glm::mat4(1);
+		////model = glm::translate(model, glm::vec3(posX, posY, posZ));
+		////model = glm::translate(model, glm::vec3(-1.832, 2.267f, -2.195));
+		////model = glm::translate(model, glm::vec3(xGS, -yGS, -zGS));
+		////model = glm::rotate(model, glm::radians(rGS), glm::vec3(1.0f, 0.0f, 0.0f));
+		////glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		////glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTransparencia"), 0);//Activacion de trasparencia
+		////glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 100.0);//Nivel de trasparecia con valor en color alpha
+		////GalletaSeis.Draw(lightingShader);
+		////glDisable(GL_BLEND);  //Desactiva el canal alfa 
+		////glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0f, 1.0f, 1.0f, 1.0);
+		////glBindVertexArray(0);
 
 
 		//----------------------------------------------------------------PIZZERIA
@@ -1158,9 +1156,7 @@ int main(){
 		//--------------------------------------------------------------------BAÑOS
 		
 		model = glm::mat4(1);
-		/*model = glm::translate(glm::mat4(1.0), glm::vec3(-4.560f, 0.460f, -3.042f));
-		model = glm::scale(model, glm::vec3(0.804f, 0.804f, 0.804f));*/
-		//glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTrasparencia"), 0);
+		model = glm::translate(glm::mat4(1.0), glm::vec3(-4.560f, 0.460f, -3.042f));
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		Baños.Draw(lightingShader);
 
