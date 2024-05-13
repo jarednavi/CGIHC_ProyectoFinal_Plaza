@@ -245,6 +245,26 @@ Ni 1.00
 Ks 0.00 0.00 0.00
 map_Ks Medio.png
 Ns 18.00
+newmtl Cristales:phong25SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Cristal.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Medio.png
+Ns 18.00
+newmtl Cristales:phong25SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Cristal.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Medio.png
+Ns 18.00
 newmtl initialShadingGroup
 illum 4
 Kd 0.00 0.00 0.00
@@ -252,6 +272,15 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 0.00
 newmtl plantilla:Material_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd asfaltobrillo_text.png
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 250.00
+newmtl plantilla1:Material_001
 illum 4
 Kd 0.00 0.00 0.00
 Ka 1.00 1.00 1.00
