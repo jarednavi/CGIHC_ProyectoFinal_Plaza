@@ -1700,12 +1700,14 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancel.png
 Ni 1.00
 newmtl Vidrios:vitrinaVidrio_Vitrina_aiStandardSurface3SG2
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancel.png
 Ni 0.00
 newmtl Vidrios:vitrinaVidrio_Vitrina_lambert2SG4
 illum 4
@@ -1990,13 +1992,6 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd TechoConcreto.jpg
 Ni 1.00
-newmtl baños1:lambert5SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd Brick_04_8k_diffuse.jpg
-Ni 1.00
 newmtl baños1:lambert7SG
 illum 4
 Kd 0.00 0.00 0.00
@@ -2017,22 +2012,6 @@ Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd mostrador_mesa.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 18.00
-newmtl baños1:lambert14SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd Brick_04_8k_diffuse.jpg
-Ni 1.00
-newmtl baños1:lambert15SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd Blanco2.png
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 18.00
@@ -2100,23 +2079,7 @@ map_Kd Blanco2.png
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 0.06
-newmtl baños1:pasted__lambert5SG1
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd Brick_04_8k_diffuse.jpg
-Ni 1.00
 newmtl baños1:pasted__lambert7SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd Blanco2.png
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 18.00
-newmtl baños1:pasted__lambert7SG2
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
@@ -2567,19 +2530,80 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd Piso.jpg
 Ni 1.00
-newmtl lambert6SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd hombre.jpg
-Ni 1.00
 newmtl lambert7SG
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd mujer.jpg
+Ni 1.00
+newmtl lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Blanco2.png
+Ni 1.00
+newmtl lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Blanco2.png
+Ni 1.00
+newmtl lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Blanco2.png
+Ni 1.00
+newmtl lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ladrillo.jpg
+Ni 1.00
+newmtl lambert16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ladrillo.jpg
+Ni 1.00
+newmtl lambert17SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ladrillo.jpg
+Ni 1.00
+newmtl lambert18SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ladrillo.jpg
+Ni 1.00
+newmtl lambert20SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ladrillo.jpg
 Ni 1.00
 newmtl pan1:roll25k
 illum 4
@@ -2656,6 +2680,26 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd negroCancel.jpg
 Ni 1.00
+newmtl puertaTres1:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl puertaTres1:pasted__FachadaFinal_lambert30SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancel.jpg
+Ni 1.00
+newmtl puertaTres1:pasted__FachadaFinal_pasted__lambert28SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negroCancel.jpg
+Ni 1.00
 newmtl puertaUno:initialShadingGroup
 illum 4
 Kd 0.50 0.50 0.50
@@ -2683,6 +2727,33 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd LogoCancel3.jpg
 Ni 1.00
+newmtl puertaUno1:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl puertaUno1:pasted__pasted__FachadaFinal_lambert28SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negroCancel.jpg
+Ni 1.00
+newmtl puertaUno1:pasted__pasted__FachadaFinal_lambert30SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancel.jpg
+Ni 1.00
+newmtl puertaUno1:pasted__pasted__FachadaFinal_lambert40SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LogoCancel3.jpg
+Ni 1.00
 newmtl puertados:initialShadingGroup
 illum 4
 Kd 0.50 0.50 0.50
@@ -2704,6 +2775,33 @@ Tf 1.00 1.00 1.00
 map_Kd starbucksVerticalCancel.jpg
 Ni 1.00
 newmtl puertados:pasted__FachadaFinal_lambert34SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancel.jpg
+Ni 1.00
+newmtl puertados1:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl puertados1:pasted__FachadaFinal_lambert28SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negroCancel.jpg
+Ni 1.00
+newmtl puertados1:pasted__FachadaFinal_lambert30SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd starbucksVerticalCancel.jpg
+Ni 1.00
+newmtl puertados1:pasted__FachadaFinal_lambert34SG6
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
