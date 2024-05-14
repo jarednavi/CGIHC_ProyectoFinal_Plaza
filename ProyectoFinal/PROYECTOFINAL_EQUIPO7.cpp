@@ -124,9 +124,9 @@ GLfloat lastFrame = 0.0f;
 
 // Positions of the point lights
 glm::vec3 pointLightPositions[] = {
-	glm::vec3(1.0f,6.85f,3.0f),
-	glm::vec3(18.3f,5.6f,0.7f),
-	glm::vec3(18.3f,5.6f,4.9f),
+	glm::vec3(50.0f,6.85f,-13.0f),
+	glm::vec3(18.3f,3.7f,0.7f),
+	glm::vec3(18.3f,3.7f,4.9f),
 	glm::vec3(18.5f,3.7f,0.7f),
 	//glm::vec3(posX, posY, posZ)
 
@@ -149,7 +149,7 @@ int main(){
 	glfwWindowHint(GLFW_OPENGL_FORWARD_COMPAT, GL_TRUE);
 	glfwWindowHint(GLFW_RESIZABLE, GL_FALSE);*/
 	// Create a GLFWwindow object that we can use for GLFW's functions
-	GLFWwindow* window = glfwCreateWindow(WIDTH, HEIGHT, "****PLAZA COMERCIAL****", nullptr, nullptr);
+	GLFWwindow* window = glfwCreateWindow(WIDTH, HEIGHT, "*GALERIAS ROMA*", nullptr, nullptr);
 	if (nullptr == window){
 		std::cout << "Failed to create GLFW window" << std::endl;
 		glfwTerminate();
@@ -192,6 +192,7 @@ int main(){
 	Model Autosamarillo((char*)"Models/nuplaza/autosamarillos.obj");
 	Model Autosazul((char*)"Models/nuplaza/autosazules.obj");
 	Model Autosrojo((char*)"Models/nuplaza/autosrojos.obj");
+	Model Autosrove((char*)"Models/nuplaza/autosrove2.obj");
 	Model Bancasatras((char*)"Models/nuplaza/bancasback.obj");
 	Model Bardaperi((char*)"Models/nuplaza/barda.obj");
 	Model Casetasent((char*)"Models/nuplaza/casetas.obj");
@@ -218,12 +219,13 @@ int main(){
 	Model Antenasfuera((char*)"Models/nufinal/antenasout.obj");
 	Model Antenaarriba((char*)"Models/nufinal/antenaup.obj");
 	Model Casamando((char*)"Models/nufinal/casadin.obj");
-	//Model Arcoderecho((char*)"Models/nufinal/arcoright.obj");
+	Model Swexp((char*)"Models/nufinal/starwars.obj");
+	Model Arcoderecho((char*)"Models/nufinal/arcoright.obj");
 	Model Barrildentro((char*)"Models/nufinal/barrilin.obj");
 	Model Barrilfuera((char*)"Models/nufinal/barrilout.obj");
 	Model Cascosfuera((char*)"Models/nufinal/cascos.obj");
-	//Model Columnasizquierda((char*)"Models/nufinal/columnasleft.obj");
-	//Model Columnasderecha((char*)"Models/nufinal/columnasright.obj");
+	Model Columnasizquierda((char*)"Models/nufinal/columnasleft.obj");
+	Model Columnasderecha((char*)"Models/nufinal/columnasright.obj");
 	Model Domoarriba((char*)"Models/nufinal/domo.obj");
 	Model Estantefuera((char*)"Models/nufinal/estante.obj");
 	Model Lamparadentro((char*)"Models/nufinal/lamparain.obj");
@@ -232,10 +234,10 @@ int main(){
 	Model Losaarriba((char*)"Models/nufinal/losa.obj");
 	Model Mesadentro((char*)"Models/nufinal/mesa.obj");
 	Model Muroatras((char*)"Models/nufinal/muroback.obj");
-	//Model Murofrenteizquierdo((char*)"Models/nufinal/murofrontleft.obj");
-	//Model Murofrentederecho((char*)"Models/nufinal/murofrontright.obj");
-	//Model Muroizquierdo((char*)"Models/nufinal/muroleft.obj");
-	//Model Muroderecho((char*)"Models/nufinal/muroright.obj");
+	Model Murofrenteizquierdo((char*)"Models/nufinal/murofrontleft.obj");
+	Model Murofrentederecho((char*)"Models/nufinal/murofrontright.obj");
+	Model Muroizquierdo((char*)"Models/nufinal/muroleft.obj");
+	Model Muroderecho((char*)"Models/nufinal/muroright.obj");
 	Model Naverazor((char*)"Models/nufinal/nave.obj");
 	Model Panelpuertafrente((char*)"Models/nufinal/panelpuerta.obj");
 	Model Panelverdeatras((char*)"Models/nufinal/panelverde.obj");
@@ -260,20 +262,16 @@ int main(){
 
 	//----------------------------------------------------------------STARBUCKS
 
-	//Model PisoStarbucks((char*)"Models/Starbucks/Fachada_Menu/Piso2.obj");
 	Model Fachada((char*)"Models/Starbucks/Starbucks2/Fachada.obj");
 	Model Postres((char*)"Models/Starbucks/Starbucks2/Postres.obj");
 
-	//Model Menu((char*)"Models/Starbucks/Fachada/Menu.obj");
 	////Model FocosMenu((char*)"Models/Modelos/Fachada/FocosMenu.obj");
 
-	//Model CajaR((char*)"Models/Starbucks/Barras/CajaR.obj");
-	//Model Vitrina((char*)"Models/Starbucks/VitrinaDos/Vitrina.obj");
 	Model Vidrio((char*)"Models/Starbucks/Starbucks2/Vidrios.obj");
 	Model VidriosVitrina((char*)"Models/Starbucks/Starbucks2/VidriosVitrina.obj");
 	Model Puertas((char*)"Models/Starbucks/Starbucks2/Puertas.obj");
 	Model puertaUno((char*)"Models/Starbucks/Starbucks2/puertaUno.obj");
-	Model puertaDos((char*)"Models/Starbucks/Starbucks2/puertaDos.obj");
+	Model puertaDos((char*)"Models/Starbucks/Starbuck2/puertaDos.obj");
 	Model puerta3((char*)"Models/Starbucks/Starbucks2/puerta3.obj");
 	Model puertaCuatro((char*)"Models/Starbucks/Starbucks2/puertaCuatro.obj");
 	Model Taza((char*)"Models/Starbucks/Starbucks2/Taza.obj");
@@ -513,7 +511,7 @@ int main(){
 		
 		//Directional light
 		glUniform3f(glGetUniformLocation(lightingShader.Program, "dirLight.direction"), -0.2f, -1.0f, -0.3f);
-		glUniform3f(glGetUniformLocation(lightingShader.Program, "dirLight.ambient"), 0.9f, 0.9f, 0.9f);
+		glUniform3f(glGetUniformLocation(lightingShader.Program, "dirLight.ambient"), 0.58f, 0.58f, 0.58f);
 		glUniform3f(glGetUniformLocation(lightingShader.Program, "dirLight.diffuse"), 0.4f, 0.4f, 0.4f);
 		glUniform3f(glGetUniformLocation(lightingShader.Program, "dirLight.specular"), 0.5f, 0.5f, 0.5f);
 
@@ -602,6 +600,7 @@ int main(){
 		Arbolesizquierda.Draw(lightingShader);
 		Autosamarillo.Draw(lightingShader);
 		Autosazul.Draw(lightingShader);
+		Autosrove.Draw(lightingShader);
 		Autosrojo.Draw(lightingShader);
 		Bancasatras.Draw(lightingShader);
 		Bardaperi.Draw(lightingShader);
@@ -629,11 +628,11 @@ int main(){
 		//glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTrasparencia"), 0);
 		//glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		Casamando.Draw(lightingShader);
-		/*model = glm::mat4(1);
+		model = glm::mat4(1);
 		Antenaoriginal.Draw(lightingShader);
 		Antenasfuera.Draw(lightingShader);
 		Antenaarriba.Draw(lightingShader);
-		Arcoizquierdo.Draw(lightingShader);
+		Swexp.Draw(lightingShader);
 		Arcoderecho.Draw(lightingShader);
 		Barrildentro.Draw(lightingShader);
 		Barrilfuera.Draw(lightingShader);
@@ -672,7 +671,7 @@ int main(){
 		Grogufuera.Draw(lightingShader);
 		view = camera.GetViewMatrix();
 		model = glm::mat4(1);
-		model = glm::translate(model, glm::vec3(0.0f, movEsfera, movEsfera));
+		model = glm::translate(model, glm::vec3(-movEsfera, movEsfera, 0.0f));
 		glUniform1i(glGetUniformLocation(lightingShader.Program, "activaTrasparencia"), 0); //1 para activar la trasnparencia
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		Esferagrogu.Draw(lightingShader);
@@ -687,7 +686,7 @@ int main(){
 		Puertafrente.Draw(lightingShader);
 		model = glm::mat4(1);
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
-		Ranafuera.Draw(lightingShader);*/
+		Ranafuera.Draw(lightingShader);
 
 		//----------------------------------------------------------------STARBUCKS
 
@@ -1141,7 +1140,7 @@ void MouseCallback(GLFWwindow *window, double xPos, double yPos){
 
 void DoMovement(){
 	if (abrirDoor){
-		if (desPuerta < 4.0f){
+		if (desPuerta < 2.0f){
 			desPuerta += 0.5f;
 		}
 	}
@@ -1163,6 +1162,12 @@ void DoMovement(){
 	if (keys[GLFW_KEY_1]){
 		movCamera = 0.01f;
 	}
+
+	if (keys[GLFW_KEY_3]) {
+		animTres = !animTres;
+		animT = !animT;
+	}
+
 	//CONTROLES DE LA CAMARA-------------------------------
 	if (keys[GLFW_KEY_W] || keys[GLFW_KEY_UP]){
 		camera.ProcessKeyboard(FORWARD, deltaTime);
