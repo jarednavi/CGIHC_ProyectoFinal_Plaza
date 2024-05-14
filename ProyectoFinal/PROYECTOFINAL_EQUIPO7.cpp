@@ -124,7 +124,7 @@ GLfloat lastFrame = 0.0f;
 
 // Positions of the point lights
 glm::vec3 pointLightPositions[] = {
-	glm::vec3(50.0f,6.85f,-13.0f),
+	glm::vec3(45.0f,6.85f,-11.0f),//LUZ DEL FAROL------------------
 	glm::vec3(18.3f,3.7f,0.7f),
 	glm::vec3(18.3f,3.7f,4.9f),
 	glm::vec3(18.5f,3.7f,0.7f),
